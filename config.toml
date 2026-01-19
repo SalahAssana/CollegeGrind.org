@@ -248,3 +248,7 @@ googleAnalytics = "G-WLTEPDRMZK" # Add your identifier. For example UA-99631805-
   codeFences = true
   guessSyntax = true
   noClasses = false
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
