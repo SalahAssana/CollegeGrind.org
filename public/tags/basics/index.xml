@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on CG</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Blog on CG</description>
+    <title>Basics on CG</title>
+    <link>http://localhost:1313/tags/basics/</link>
+    <description>Recent content in Basics on CG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jan 2023 12:09:17 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What should you study in college? How to choose a major (without regretting it later)</title>
       <link>http://localhost:1313/posts/what-should-you-study-in-college-how-to-choose-a-major/</link>
@@ -21,20 +21,6 @@
       <pubDate>Sat, 21 Jan 2023 09:01:35 +0300</pubDate>
       <guid>http://localhost:1313/posts/should-you-even-go-to-college-these-questions-will-help-you-decide/</guid>
       <description>&lt;h2 id=&#34;this-isnt-a-yes-or-no-question&#34;&gt;This Isn’t a Yes-or-No Question&lt;/h2&gt;&#xA;&lt;p&gt;“Should I go to college?” sounds like a simple question. It isn’t.&lt;/p&gt;&#xA;&lt;p&gt;For years, students have been told that college is the &lt;em&gt;default&lt;/em&gt; path. Go to class, get good grades, apply, enroll, and everything will work out. If you don’t go, something must be wrong. That story is everywhere — in schools, in families, in movies, even in casual conversations.&lt;/p&gt;&#xA;&lt;p&gt;But here’s the honest truth: college isn’t automatically good or bad. It’s a tool. And like any tool, it only works well if it fits the person using it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is a minor in college and do you need one?</title>
-      <link>http://localhost:1313/posts/what-is-a-minor-in-college-and-do-you-need-one/</link>
-      <pubDate>Thu, 14 Nov 2019 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/what-is-a-minor-in-college-and-do-you-need-one/</guid>
-      <description>&lt;p&gt;As students pursue careers within a particular discipline, college majors have a considerable impact on their career paths and lives. College minors should be considered equally carefully by undergraduate students, according to experts.&lt;/p&gt;&#xA;&lt;p&gt;College majors comprise structured coursework within an area of study chosen by the student. It is possible for students to take upwards of 30 hours of courses depending on their major and school. A minor, on the other hand, typically has six to seven courses requiring 18 credit hours.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Where should I go to college? How to choose a “good” university</title>
-      <link>http://localhost:1313/posts/where-should-i-go-to-college-how-to-choose-a-good-university/</link>
-      <pubDate>Thu, 14 Nov 2019 15:01:35 +0300</pubDate>
-      <guid>http://localhost:1313/posts/where-should-i-go-to-college-how-to-choose-a-good-university/</guid>
-      <description>&lt;h2 id=&#34;type-of-college&#34;&gt;Type of College&lt;/h2&gt;&#xA;&lt;p&gt;Selecting a university where you will pursue your higher education is a big deal. This article is a guide to help you make that decision. The first thing to consider is the type of college you’d like to attend. The different types of colleges you can select from include; public or private colleges, for-profit colleges, 4-year or 2-year colleges, vocational training and career colleges, universities or community colleges, colleges with a special interest (single-sex colleges, specialized mission colleges, arts colleges or religion affiliated colleges) or liberal arts colleges.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
