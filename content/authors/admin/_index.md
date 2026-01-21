@@ -1,6 +1,6 @@
 ---
 name: Salah Assana
-image: 'https://placehold.co/400x400'
+image: 'https://salahassana.com/authors/admin/avatar_hud2367cde2fea2e74b0ba026639471424_78240_270x270_fill_q75_lanczos_center.jpg'
 cover:
 location: Boston
 website: https://www.SalahAssana.com
