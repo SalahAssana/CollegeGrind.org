@@ -3,7 +3,7 @@ title: Where should you go to college? How to choose a “good” university
 description: The right college for you is the one where you'll be engaged, supported, and able to graduate.
 date: 2023-01-29 09:19:15 +0300
 authors: [admin]
-image: static\images\choice.jpg
+image: static/images/choice.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
