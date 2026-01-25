@@ -1,10 +1,10 @@
 ---
 name: Salah Assana
-image: 'https://salahassana.com/authors/admin/avatar_hud2367cde2fea2e74b0ba026639471424_78240_270x270_fill_q75_lanczos_center.jpg'
+image: /images/salah.jpg
 cover:
 location: Boston
 website: https://www.SalahAssana.com
 twitter: https://x.com/SalahAssana
 # facebook: https://www.facebook.com
 ---
-I'm an Artificial Intelligence & Healthcare enthusiast with a background in machine learning, signal processing and medical imaging.
+I'm a first-generation college student and the creator of The College Grind, dedicated to helping peers navigate higher education with practical advice and honest encouragement.

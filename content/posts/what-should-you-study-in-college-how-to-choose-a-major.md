@@ -3,7 +3,7 @@ title: What should you study in college? How to choose a major
 description: Learn how to choose a college major you won’t regret based on your strengths, interests, and career goals.
 date: 2023-01-22 12:09:17 +0300
 authors: [admin]
-image: "https://placehold.co/1200x800"
+image: /images/what_should_you_study_in_college.jpg
 video_embed: 
 tags: [basics]
 tags_color: '#477690'

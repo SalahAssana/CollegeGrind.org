@@ -3,7 +3,7 @@ title: What is a college minor and should you have one?
 description: A student-first guide to understanding minors, making intentional choices, and finding your own answer
 date: 2023-01-28 15:09:12 +0300
 authors: [admin]
-image: "https://placehold.co/1200x800"
+image: /images/what_is_a_minor.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
