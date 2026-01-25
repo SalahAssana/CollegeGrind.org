@@ -3,7 +3,7 @@ title: Should I go to college? A question-first guide for high school students
 description: A question-first guide to help you decide if college is right for you based on readiness, finances, and personal fit, not pressure or hype.
 date: 2023-01-21 09:01:35 +0300
 authors: [admin]
-image: "https://placehold.co/1200x800"
+image: /images/should_I_go_to_college.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'

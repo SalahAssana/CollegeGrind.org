@@ -3,7 +3,7 @@ title: Where should you go to college? How to choose a “good” university
 description: The right college for you is the one where you'll be engaged, supported, and able to graduate.
 date: 2023-01-29 09:19:15 +0300
 authors: [admin]
-image: static/images/choice.jpg
+image: /images/where_should_you_go_to_college.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
@@ -17,7 +17,7 @@ Choosing a college is one of the most consequential decisions a person makes—y
 
 There is no universally "best" college. [A prestigious name may confer initial credibility, but research consistently shows that institutional prestige alone predicts relatively little about long-term satisfaction or career success.](https://www.brookings.edu/articles/beyond-college-rankings-a-value-added-approach-to-assessing-two-and-four-year-schools/) What matters far more is whether the college helps _you_ achieve your goals while supporting your wellbeing and values.​
 
-A "good college" for one person—say, a 22-year-old engineering student from an urban area with family financial support—may be entirely wrong for another: a 32-year-old parent working full-time while raising two children. The same institution might serve a student with ADHD poorly despite being excellent for neurotypical learners. These differences aren't academic abstractions; they determine whether students graduate, whether they enjoy their time, and whether they build meaningful skills for their future.
+A “good college” for one person, such as a 22‑year‑old engineering student from an urban area with family financial support, may be completely unsuitable for someone else, like a 32‑year‑old parent working full time while raising two children. The same school might be a poor fit for a student with ADHD even if it works extremely well for neurotypical learners. These differences are not abstract ideas; they shape whether students finish their degrees, enjoy their experience, and develop meaningful skills for their future.
 
 ### What Actually Predicts Success
 
