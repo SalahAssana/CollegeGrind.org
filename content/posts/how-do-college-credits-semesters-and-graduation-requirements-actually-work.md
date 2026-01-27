@@ -1,7 +1,7 @@
 ---
 title: How do college credits, semesters, and graduation requirements actually work?
 description: A student‑friendly guide to how college credits and requirements fit together so you can stay on track for your degree.
-date: 2023-02-06 06:40:16 +0300
+date: 2023-02-11 06:40:16 +0300
 authors: [admin]
 image: /images/how_college_credits_work.jpg
 video_embed:
