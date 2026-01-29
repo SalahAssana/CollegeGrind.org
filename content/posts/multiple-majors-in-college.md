@@ -7,7 +7,7 @@ image: /images/multiple_majors_in_college.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 Multiple majors in college (e.g. double majoring) have become increasingly common, with rates more than doubling at many institutions over the past decade. However, the decision to pursue two or more majors is neither universally beneficial nor universally harmful. It depends entirely on the student's motivations, learning style, constraints, and goals. This guide separates what students _believe_ about multiple majors from what research _actually shows_, providing the frameworks needed to make a genuinely informed decision rather than a compliance-based one.
 

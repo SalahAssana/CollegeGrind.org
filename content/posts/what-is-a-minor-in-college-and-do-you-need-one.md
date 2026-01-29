@@ -7,7 +7,7 @@ image: /images/what_is_a_college_minor.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 
 [A college minor is a secondary area of study that you can pursue alongside your major](https://en.wikipedia.org/wiki/Academic_minor), but critically, one that is entirely optional. Unlike a major, which is required for graduation and typically demands 30 to 60 credit hours, a minor is a complementary credential that usually requires 16 to 30 credit hours of coursework, or roughly five to seven classes. Minors are most prevalent in the United States and provide students with a structured way to explore academic interests, build skills, or deepen knowledge in a field beyond their primary focus.

@@ -7,7 +7,7 @@ image: /images/where_should_you_go_to_college.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 Choosing a college is one of the most consequential decisions a person makes—yet it's often reduced to a single dimension: prestige. In reality, the "right" college depends entirely on fit: the alignment between a student's goals, learning style, financial reality, and life circumstances, and what an institution offers. This guide moves beyond rankings to help readers understand which type of college and what specific factors matter for _their_ success.
 

@@ -7,7 +7,7 @@ image: /images/how_college_credits_work.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 Graduating from a four‑year American college in four years is far from guaranteed, even for students who take classes every semester. The issue is not that college is more difficult than high school. The real challenge is that college functions as a complex network of overlapping requirements that students are rarely taught to interpret. A student who can confidently answer the question “How many credits do I need?” may still have no clear sense of whether they are actually on pace to finish. This confusion arises because graduation is not simply a matter of reaching a single credit total. It requires meeting several distinct obligations at the same time, including general education requirements, major‑specific courses, upper‑level credits, GPA thresholds, prerequisite sequences, and residency rules. These elements interact in ways that often surprise students who are new to the system.
 

@@ -7,7 +7,7 @@ image: /images/true_cost_of_college.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 The published sticker price of college, the figure prominently displayed on university websites, acts more like marketing fiction than an accurate financial roadmap. Most students pay far less than that advertised amount. Over the past three decades the gap between sticker price and actual cost has grown substantially, and for many families the difference now exceeds $15,000 per year. This disconnect is intentional: universities keep list prices high to signal quality while offering large discounts through institutional aid, fees, and other hidden charges. Understanding the true cost of college requires learning how expenses are structured, split across billing categories, and presented in ways that obscure the final bill.
 

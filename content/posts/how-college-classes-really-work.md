@@ -7,7 +7,7 @@ image: /images/how-college-classes-really-work.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 Walking into a college classroom feels familiar at first—seats, a professor, a syllabus on the first day. But within weeks, many students hit a wall. Assignments worth 30–40% of their grade appear with little warning. Office hours are listed on the syllabus, but no one explained what they're actually for. A professor doesn't remind you when work is due; "it's on the syllabus" is the only answer you get. An entire lecture's worth of material is assigned as ungraded reading—material that absolutely _will_ show up on the exam.
 

@@ -7,7 +7,7 @@ image: /images/what-professors-expect-from-students.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 College operates on a set of unwritten rules. You won't find them in the student handbook. Your professors won't explicitly teach them, because many assume you already know them or expect you to figure them out on your own. These informal expectations, collectively known as the "hidden curriculum," shape every interaction you have with faculty and every grade you receive.
 

@@ -7,7 +7,7 @@ image: /images/what-academic-advising-is-and-what-it-is-not.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: true
+featured: false
 ---
 Academic advising is one of the most important (but least clearly explained) parts of college. Many students, especially first-generation, transfer, adult, and non-traditional students, assume that if they “do advising right,” someone will catch mistakes, warn them about pitfalls, and keep them on track.
 
