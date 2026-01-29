@@ -123,7 +123,7 @@ googleAnalytics = "G-WLTEPDRMZK" # Add your identifier. For example UA-99631805-
 #-------------------------------
 # Blog Section Settings
 [params.blog]
-  enable = false
+  enable = true
   blog__title = "Latest Posts"
   blog__description = ""
 
