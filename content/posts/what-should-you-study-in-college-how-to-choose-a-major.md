@@ -7,7 +7,7 @@ image: /images/what_should_you_study_in_college.jpg
 video_embed: 
 tags: [basics]
 tags_color: '#477690'
-featured: false
+featured: true
 ---
 Choosing a college major sounds simple on paper. Pick something. Study it. Graduate. Move on with life.
 
