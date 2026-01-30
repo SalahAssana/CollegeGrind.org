@@ -2,7 +2,7 @@
 # General Site Settings
 baseURL = "http://collegegrind.org/"
 languageCode = "en-us"
-title = "CG"
+title = "The College Grind"
 googleAnalytics = "G-WLTEPDRMZK" # Add your identifier. For example UA-99631805-1.
 
 
