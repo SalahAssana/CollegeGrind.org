@@ -105,7 +105,7 @@ googleAnalytics = "G-WLTEPDRMZK" # Add your identifier. For example UA-99631805-
 
 
 [params]
-  logo = "/images/logo.png" # You can add own logo. For example "/images/logo.png".
+  logo = "/images/logo.jpg" # You can add own logo. For example "/images/logo.png".
   logo_dark = ""
   description = "The College Grind is dedicatd to writing down the unwritten rules of higher education."
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
