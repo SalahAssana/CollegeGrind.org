@@ -1,5 +1,5 @@
 ---
-title: The "Hidden Curriculum": The invisible system that shapes your college experience
+title: Exploring the "hidden curriculum". The invisible system that shapes your college experience
 description: Learn how the hidden curriculum influences your success in college and what you can do to navigate it with confidence.
 date: 2023-03-26 13:25:00 +0300
 authors: [admin]
