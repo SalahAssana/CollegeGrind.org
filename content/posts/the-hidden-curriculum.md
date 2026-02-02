@@ -7,7 +7,7 @@ image: /images/the_hidden_curriculum.jpg
 video_embed:
 tags: [basics]
 tags_color: '#477690'
-featured: false
+featured: true
 ---
 College is full of unwritten expectations. You are supposed to attend office hours, but only during certain times, in a certain way, and with certain types of questions. You are expected to read your syllabus, but “read it” apparently means understand its legal language, navigate its twenty‑page structure, and extract exactly what information applies to you. You need to manage your time, but no one teaches you how, and no one checks whether your course load is actually realistic. You should know how to email a professor, format a document, interpret feedback, and network professionally, all without explicit instruction.
 
