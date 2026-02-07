@@ -32,6 +32,8 @@ you can return to a few core truths:
 4. **Why feeling uncertain is normal**: the system builds in ambiguity; most people’s paths are nonlinear.  
 5. **How to respond productively**: use college as a platform to gather skills, try environments, build relationships and not just as a verdict on your potential.
 
+The goal is not to eliminate uncertainty, but to make it understandable and manageable so you can stop expecting guarantees that don’t exist and start using college as one powerful tool among many in a much longer, evolving life.
+
 ***
 
 ## The Myth of College as Job Training
