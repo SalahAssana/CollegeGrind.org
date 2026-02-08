@@ -1,5 +1,5 @@
 ---
-title: Private colleges explained. Smaller classes, bigger prices, and the real cost equation
+title: Private universities explained. Smaller classes, bigger prices, and the real cost equation
 description: Learn what private colleges offer, why their sticker prices are so high, and how financial aid changes the true cost.
 date: 2023-04-29 12:21:37 +0300
 authors: [admin]
