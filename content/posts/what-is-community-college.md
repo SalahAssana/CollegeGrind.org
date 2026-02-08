@@ -6,7 +6,7 @@ authors: [admin]
 image: /images/what_is_community_college.jpg
 video_embed:
 tags: [community college]
-tags_color: '#ded036'
+tags_color: '#deb436'
 featured: false
 ---
 Community colleges are one of the most misunderstood parts of U.S. higher education. They are neither “high school 2.0” nor a guaranteed cheap backdoor into a bachelor’s degree. They are open doors into college and work—powerful for some goals, risky for others, and full of hidden rules that most students are never taught.
