@@ -1,5 +1,5 @@
 ---
-title: Community Colleges. Who they’re for, what they do well, and what they don’t tell you
+title: Community colleges explained. Who they’re for, what they do well, and what they don’t tell you
 description: Understand the strengths of community colleges, the students they support best, and the structural issues that can affect your path.
 date: 2023-04-22 09:02:11 +0300
 authors: [admin]
