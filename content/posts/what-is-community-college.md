@@ -5,7 +5,7 @@ date: 2023-04-22 09:02:11 +0300
 authors: [admin]
 image: /images/what_is_community_college.jpg
 video_embed:
-tags: [community college]
+tags: [basics, community college]
 tags_color: '#deb436'
 featured: false
 ---
