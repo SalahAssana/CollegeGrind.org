@@ -1,7 +1,7 @@
 ---
 title: Community college vs. for-profit colleges. Same promises but very different outcomes
 description: Learn why two sectors with similar promises deliver very different results for students, especially those with the least margin for error.
-date: 2023-05-13 06:30:28 +0300
+date: 2023-05-07 06:30:28 +0300
 authors: [admin]
 image: /images/community_college_vs_for_profit_colleges.jpg
 video_embed:
@@ -9,7 +9,7 @@ tags: [basics, community college]
 tags_color: '#deb436'
 featured: false
 ---
-Community colleges and for-profit colleges often advertise the same promises to working adults, but their underlying business models, costs, and student outcomes are very different and those differences usually make community colleges the far safer starting point.
+[Community colleges](https://collegegrind.org/posts/what-is-community-college/) and [for-profit colleges](https://collegegrind.org/posts/for-profit-colleges-explained/) often advertise the same promises to working adults, but their underlying business models, costs, and student outcomes are very different and those differences usually make community colleges the far safer starting point.
 
 ----------
 
