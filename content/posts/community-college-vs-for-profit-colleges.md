@@ -5,7 +5,7 @@ date: 2023-05-07 06:30:28 +0300
 authors: [admin]
 image: /images/community_college_vs_for_profit_colleges.jpg
 video_embed:
-tags: [basics, community college]
+tags: [community college]
 tags_color: '#deb436'
 featured: false
 ---
