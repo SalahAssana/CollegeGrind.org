@@ -5,11 +5,10 @@ date: 2023-05-21 12:42:21 +0300
 authors: [admin]
 image: /images/how_to_start_at_community_college.jpg
 video_embed:
-tags: [basics]
-tags_color: '#477690'
+tags: [community college]
+tags_color: '#deb436'
 featured: false
 ---
-
 Community college can be a powerful fast lane into a degree or career, but only if you protect your time, your credits, and your financial aid with a clear plan. Without that structure, [many students lose nearly a semester or more of credit when they transfer](https://www.ccdaily.com/2017/09/transfer-students-still-lose-lots-credits/), take extra classes that don’t count, and run out of aid before they finish.
 
 ----------

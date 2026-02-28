@@ -5,8 +5,8 @@ date: 2023-05-20 10:38:49 +0300
 authors: [admin]
 image: /images/who_should_go_to_community_college.jpg
 video_embed:
-tags: [basics]
-tags_color: '#477690'
+tags: [community college]
+tags_color: '#deb436'
 featured: false
 ---
 
