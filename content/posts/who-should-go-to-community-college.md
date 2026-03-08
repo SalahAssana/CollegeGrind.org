@@ -9,10 +9,9 @@ tags: [community college]
 tags_color: '#deb436'
 featured: false
 ---
-
 Community college is a strong strategic choice for many students, but it is not automatically the best first step for everyone. Its value depends on your finances, academic readiness, goals, and how you learn day-to-day.
 
-***
+---
 
 ## What Community College is Designed to Do
 
