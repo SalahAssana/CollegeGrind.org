@@ -1,6 +1,6 @@
 ---
 title: About
-image: 'https://placehold.co/1200x800'
+image: '/images/about_1.jpg'
 ---
 Academic success isn’t just about intelligence—it’s about systems, habits, and learning how to respond when things don’t go as planned. At **The College Grind**, we focus on the behaviors and decisions that shape long-term student outcomes, not just short-term grades.
 
@@ -16,10 +16,11 @@ The College Grind exists to make those invisible lessons visible—so students d
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://placehold.co/1200x800" loading="lazy">
-    <img src="https://placehold.co/1200x800" loading="lazy">
+    <img src="/images/about_2.jpg" loading="lazy">
+    <img src="/images/about_3.jpg" loading="lazy">
   </div>
-  <em>Learning in action / <a href="https://placehold.co/1200x800" target="_blank">Placeholder images</a></em>
+  <em>Learning in action</em>
+  <!-- <em>Learning in action / <a href="https://placehold.co/1200x800" target="_blank">Placeholder images</a></em> -->
 </div>
 
 ---
