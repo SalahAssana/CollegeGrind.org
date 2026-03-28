@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Contact
-image: 'https://placehold.co/1200x800'
+image: '/images/contact.jpg'
 ---
 Have a question, suggestion, or topic you’d like us to cover?
 
