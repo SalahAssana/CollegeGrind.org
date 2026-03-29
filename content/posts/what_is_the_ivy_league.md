@@ -5,8 +5,8 @@ date: 2023-06-18 10:11:32 +0300
 authors: [admin]
 image: /images/what_is_the_ivy_league.jpg
 video_embed:
-tags: [community college]
-tags_color: '#deb436'
+tags: [basics]
+tags_color: '#477690'
 featured: false
 ---
 The phrase “Ivy League” is often treated as a shorthand for the “best” or “most prestigious” universities in the United States, but that belief is historically and structurally inaccurate. In reality, the Ivy League is a specific National Collegiate Athletic Association (NCAA) Division I [athletic conference](https://en.wikipedia.org/wiki/Ivy_League) of [eight private universities](https://www.mbaexchange.com/ivy-league-and-ivy-plus/) in the northeastern United States, formed in the [mid‑20th century](https://ivyleague.com/sports/2017/7/28/history-timeline-index.aspx) to regulate intercollegiate sports, not to certify academic superiority.
