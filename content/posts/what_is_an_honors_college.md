@@ -9,7 +9,6 @@ tags: [basics]
 tags_color: '#477690'
 featured: false
 ---
-
 [Honors colleges and honors programs](https://kscollegesuccess.com/benefits-of-honors-colleges-honors-programs/) are structured tracks within colleges and universities that offer smaller classes, enriched academics, and additional community and advising for high‑achieving or high‑motivation students. They are [not standardized across institutions](https://www.petersons.com/blog/an-honors-program-or-honors-college-does-the-difference-make-a-difference/): some function like [small liberal arts colleges](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) embedded in large public universities, while others are modest sets of enhanced classes or perks layered on top of a regular degree.
 
 For the right students, especially those at [large public universities](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) who want more structure, challenge, and support, honors can provide [excellent value](https://www.nchchonors.org/page/what-is-honors), but the benefits and tradeoffs vary dramatically by campus and by major. Students must therefore evaluate specific programs rather than assuming that “honors = better” in all situations.

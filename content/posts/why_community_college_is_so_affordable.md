@@ -1,5 +1,5 @@
 ---
-title: Why community college is so affordable? Sometimes even free
+title: Why is community college so affordable? Sometimes even free
 description: The funding structures that make community college affordable, sometimes even free.
 date: 2023-06-04 16:10:24 +0300
 authors: [admin]
@@ -488,7 +488,7 @@ Because grant aid varies with income, enrollment status, and institutional aid p
 
 ***
 
-## Conclusion: A System Designed For Affordability
+## A System Designed For Affordability
 
 Community college affordability is not an accident. It is the product of decades of policy decisions and institutional choices that layer public subsidies, cost‑conscious design, federal financial aid, and tax benefits on top of one another.
 
