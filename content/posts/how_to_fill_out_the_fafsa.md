@@ -25,7 +25,7 @@ A key output of the FAFSA is your [Student Aid Index (SAI)](https://www.collegee
 
 Colleges compare your SAI to their cost of attendance using a basic idea:
 
-$$\text{Cost of Attendance} - \text{Student Aid Index} = \text{Financial Need}$$
+Cost of Attendance - Student Aid Index = Financial Need
 
 They then build a [financial aid offer](https://www.collegeessayguy.com/blog/student-aid-index-guide) that can include [federal grants (like the Pell Grant)](https://studentaid.gov/articles/fafsa-student-steps/), state grants, school grants or scholarships, federal work‑study, and federal student loans.
 
