@@ -1,7 +1,7 @@
 ---
 title: What is the CSS profile? The financial aid form you might not expect
-description: 
-date: 2023-07-02 08:42:15 +0300
+description: The CSS Profile is a lesser‑known financial aid form used by many private colleges.
+date: 2023-07-02 09:44:25 +0300
 authors: [admin]
 image: /images/what_is_the_css_profile.jpg
 video_embed:
