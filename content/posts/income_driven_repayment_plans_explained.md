@@ -1,7 +1,7 @@
 ---
 title: Income-driven repayment plans explained. How they work and who they’re for
 description: How income‑driven repayment plans work, how payments are calculated, and who benefits most.
-date: 2023-08-07 12:10:43 +0300
+date: 2023-08-12 12:10:43 +0300
 authors: [admin]
 image: /images/income_driven_repayment_plans_explained.jpg
 video_embed:
