@@ -273,7 +273,7 @@ Here’s a high‑level side‑by‑side to make the differences clearer.
 | **Tax treatment** | Tax‑free growth and [tax‑free qualified withdrawals](https://www.mapscu.com/coverdell-esa-learning-page/). | Tax‑free growth and [tax‑free qualified withdrawals](https://scarletoakfs.com/understanding-529-plans-vs-coverdell-education-savings-accounts/). |
 | **Who owns the account?** | [Custodian for the child](https://thelink.ascensus.com/articles/2021/3/17/accepting-and-reporting-coverdell-esa-contributions); control can transfer as child reaches adulthood. | [Parent or owner controls the account](https://scarletoakfs.com/understanding-529-plans-vs-coverdell-education-savings-accounts/) regardless of student’s age. |
 
-> **Note on 2026 Rules:** Under recent legislation (the OBBBA), 529 plans have significantly narrowed the "flexibility gap." The K–12 withdrawal limit has [doubled to 20,000 dollars annually](https://www.usbank.com/wealth-management/financial-perspectives/financial-planning/using-529-plans-for-k-12.html), and the definition of qualified K–12 expenses now includes non-tuition items like curriculum and tutoring in participating states.
+**Note on 2026 Rules:** Under recent legislation (the OBBBA), 529 plans have significantly narrowed the "flexibility gap." The K–12 withdrawal limit has [doubled to 20,000 dollars annually](https://www.usbank.com/wealth-management/financial-perspectives/financial-planning/using-529-plans-for-k-12.html), and the definition of qualified K–12 expenses now includes non-tuition items like curriculum and tutoring in participating states.
 
 You are allowed to [have **both** a Coverdell ESA and a 529 plan](https://www.savingforcollege.com/article/coverdell-esa-versus-529-plan) for the same child, and many families use the ESA specifically for its superior investment control.
 
@@ -325,7 +325,7 @@ In those cases, a [529 plan will usually be the main vehicle](https://www.irafin
 
 ---
 
-> **Peer Note on 2026 Updates:** While the text above highlights the Coverdell's K–12 flexibility, keep in mind that the **One Big Beautiful Bill Act (OBBBA)**, effective January 1, 2026, has significantly narrowed this gap. 529 plans now allow up to [**20,000 dollars per year**](https://www.blackrock.com/us/financial-professionals/insights/529-plans-and-the-obbba-what-you-need-to-know) for K–12 expenses and have [expanded their definition of qualified costs](https://keitercpa.com/blog/beyond-college-savings-how-obbba-expands-power-529-plans/) to include things like curriculum and tutoring in most states. The primary reason to choose a Coverdell in 2026 is now almost exclusively for **investment control** rather than K–12 flexibility.
+**Peer Note on 2026 Updates:** While the text above highlights the Coverdell's K–12 flexibility, keep in mind that the **One Big Beautiful Bill Act (OBBBA)**, effective January 1, 2026, has significantly narrowed this gap. 529 plans now allow up to [**20,000 dollars per year**](https://www.blackrock.com/us/financial-professionals/insights/529-plans-and-the-obbba-what-you-need-to-know) for K–12 expenses and have [expanded their definition of qualified costs](https://keitercpa.com/blog/beyond-college-savings-how-obbba-expands-power-529-plans/) to include things like curriculum and tutoring in most states. The primary reason to choose a Coverdell in 2026 is now almost exclusively for **investment control** rather than K–12 flexibility.
 
 ***
 
@@ -358,7 +358,7 @@ This is one of the biggest misconceptions.
 
 ---
 
-> **Peer Note on 2026 K-12 Rules:** As of 2026, the **One Big Beautiful Bill Act (OBBBA)** has effectively doubled the 529 plan's K-12 withdrawal limit to [**20,000 dollars per year**](https://keitercpa.com/blog/beyond-college-savings-how-obbba-expands-power-529-plans/). It also expanded 529-qualified expenses to include [tutoring, curriculum, and test fees](https://www.range.com/blog/529-plans-major-upgrade-high-earners). If you are choosing between the two today, the "K-12 advantage" of the Coverdell is much smaller than it used to be; focus your decision on whether you want the **investment flexibility** to trade individual stocks.
+**Peer Note on 2026 K-12 Rules:** As of 2026, the **One Big Beautiful Bill Act (OBBBA)** has effectively doubled the 529 plan's K-12 withdrawal limit to [**20,000 dollars per year**](https://keitercpa.com/blog/beyond-college-savings-how-obbba-expands-power-529-plans/). It also expanded 529-qualified expenses to include [tutoring, curriculum, and test fees](https://www.range.com/blog/529-plans-major-upgrade-high-earners). If you are choosing between the two today, the "K-12 advantage" of the Coverdell is much smaller than it used to be; focus your decision on whether you want the **investment flexibility** to trade individual stocks.
 
 ***
 

@@ -202,9 +202,6 @@ In other words, for many community college students, grant aid already pushes th
 
 ### Pell Grants
 
-
-## Gemini said
-
 Federal Pell Grants are the [largest federal grant program for undergraduates and do not need to be repaid](https://www.usa.gov/student-aid), and they are [targeted primarily to students with low and moderate incomes](https://financialaidtoolkit.ed.gov/tk/learn/types.jsp).
 
 For the 2024–25 and 2025–26 award years, [official guidance sets the maximum Pell Grant at $7,395](https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2024-01-31/2024-2025-federal-pell-grant-maximum-and-minimum-award-amounts-updated-april-5-2024), with [minimum awards around 10 percent of that maximum](https://mcclintockcpa.com/explaining-2024-2025-pell-grant-changes/) as noted by [financial aid analysts](https://www.bestcolleges.com/research/pell-grant-amount/).

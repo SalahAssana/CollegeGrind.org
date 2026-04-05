@@ -122,8 +122,6 @@ Because of these risks, most colleges and financial aid experts [recommend exhau
 
 **Key takeaway:** In most cases, use **federal loans first**, then consider private loans only if there is still a remaining gap and you fully understand the risks.
 
-By the way, to unlock the full functionality of all Apps, enable [Gemini Apps Activity](https://myactivity.google.com/product/gemini).
-
 ***
 
 ## How Much You Can Borrow

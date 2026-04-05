@@ -21,8 +21,6 @@ The key reason is that [federal student loans and private student loans](https:/
 
 This matters because choosing the wrong type of loan can mean paying thousands more in interest, having less flexibility, and facing more stress if [something goes wrong financially](https://www.consumerfinancemonitor.com/wp-content/uploads/sites/14/2016/11/Student-Loan-Examination-Procedures-Blackline.pdf).
 
-By the way, to unlock the full functionality of all Apps, enable [Gemini Apps Activity](https://myactivity.google.com/product/gemini).
-
 ***
 
 ## The Two Types of Student Loans

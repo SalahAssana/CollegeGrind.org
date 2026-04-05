@@ -19,7 +19,7 @@ In this article, you’ll see [what work-study actually is](https://www.usnews.c
 
 ***
 
-## What Work-Study Actually Is and How It Fits Into Financial Aid
+## What is Work-Study And How It Fits Into Financial Aid
 
 ### Simple definition
 
@@ -39,14 +39,12 @@ Work-study is a form of [need-based aid](https://collegefinance.com/financial-ai
 
 The FAFSA generates a number called your [Student Aid Index (SAI)](https://www.citizensbank.com/learning/what-is-student-aid-index.aspx), which colleges use to estimate how much your family can reasonably contribute. Your financial need is basically:
 
-> Cost of Attendance (what it costs to attend your school for a year)
-> minus
-> Student Aid Index (what the FAFSA says your family can contribute)
-> = [Financial Need](https://www.sfa.ufl.edu/cost/how-need-is-determined/).
+Cost of Attendance (what it costs to attend your school for a year)
+-
+Student Aid Index (what the FAFSA says your family can contribute)
+= [Financial Need](https://www.sfa.ufl.edu/cost/how-need-is-determined/).
 
 Colleges use this need number to put together your financial aid offer, which may include grants, work-study, loans, or institutional scholarships. If your [need is high enough](https://www.collegeessayguy.com/blog/student-aid-index-guide) and your school has work-study funds available, they may include a work-study amount in your aid package.
-
-By the way, to unlock the full functionality of all Apps, enable [Gemini Apps Activity](https://myactivity.google.com/product/gemini).
 
 ### Important clarifications
 
