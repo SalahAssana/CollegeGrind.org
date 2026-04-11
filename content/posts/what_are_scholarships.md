@@ -86,7 +86,7 @@ For many students:
 
 Large national scholarships are high-profile, often highly publicized awards that recruit from the entire country and sometimes offer substantial sums, occasionally covering full tuition or more. Examples include:
 
-* [**National Merit Scholarship Program**](https://en.wikipedia.org/wiki/National_Merit_Scholarship_Program) (PSAT-based).
+* [**National Merit Scholarship Program**](https://collegegrind.org/posts/national_merit_scholarship_program/) (PSAT-based).
 * [**Coca-Cola Scholars Program**](https://www.scholarships.com/scholarships/coca-cola-scholars-program-scholarship).
 * [**The Gates Scholarship**](https://www.fastweb.com/student-news/articles/the-gates-scholarship-program) (for low-income, high-achieving minority students).
 
@@ -99,7 +99,7 @@ These programs typically involve multi-stage selection:
 * A further narrowing to “finalists.”
 * A final round where a subset of finalists actually receive money.
 
-For instance, the [National Merit program](https://en.wikipedia.org/wiki/National_Merit_Scholarship_Program) starts with about **1.5–1.6 million test-takers** per cohort; [roughly 50,000–60,000 are recognized](https://www.compassprep.com/national-merit-semifinalists-by-state/) as Commended Students or Semifinalists, [around 15,000 become Finalists](https://www.kaptest.com/study/psat/how-to-become-a-national-merit-scholarship-finalist/), and only about **7,000–8,000** ultimately receive National Merit–branded scholarships. That means fewer than **0.5% of initial test-takers** become Finalists and roughly **0.4–0.5%** receive a National Merit award, and the **standard National Merit award is around 2,500 dollars**, though some college-sponsored awards are larger.
+For instance, the [National Merit program](https://collegegrind.org/posts/national_merit_scholarship_program/) starts with about **1.5–1.6 million test-takers** per cohort; [roughly 50,000–60,000 are recognized](https://www.compassprep.com/national-merit-semifinalists-by-state/) as Commended Students or Semifinalists, [around 15,000 become Finalists](https://www.kaptest.com/study/psat/how-to-become-a-national-merit-scholarship-finalist/), and only about **7,000–8,000** ultimately receive National Merit–branded scholarships. That means fewer than **0.5% of initial test-takers** become Finalists and roughly **0.4–0.5%** receive a National Merit award, and the **standard National Merit award is around 2,500 dollars**, though some college-sponsored awards are larger.
 
 The [Coca-Cola Scholars Program](https://www.coca-colascholarsfoundation.org/apply/) selects **150 high school seniors nationwide each year**, each receiving [20,000 dollars](https://www.scholarships.com/scholarships/coca-cola-scholars-program-scholarship), funded by a corporate foundation that has provided more than [87–90 million dollars](https://www.coca-colascholarsfoundation.org/2025-coke-scholars/) in total over several decades. [The Gates Scholarship](https://www.collegeadvisor.com/merit-based-scholarships/bill-gates-scholarship/) funds about [300 low-income minority high school seniors per year](https://www.fastweb.com/student-news/articles/the-gates-scholarship-program) and covers the full remaining cost of attendance after other aid, including tuition, fees, room, board, books, and transportation.
 
@@ -133,7 +133,7 @@ For the average student, these are aspirational “reach” scholarships, not a 
 
 #### Definition
 
-Institutional merit scholarships are awards given directly by colleges to influence which students enroll, often based on GPA, test scores, talent, or other profile factors. They are funded by the college and are a core part of [tuition discounting strategies](https://scholarshipsandgrants.us/financial-aid-101/merit-aid/).
+Institutional merit scholarships are awards given directly by colleges to influence which students enroll, often based on GPA, test scores, talent, or other profile factors. They are funded by the college and are a core part of tuition discounting strategies.
 
 At private nonprofit institutions, institutional grant aid—including merit scholarships—has grown to represent roughly **half of all grant aid nationally**, with total institutional grants reaching about [85 billion dollars in 2024–25](https://research.collegeboard.org/trends/student-aid/highlights). [Discount rates](https://www.collegeapplicationguy.com/p/merit-aid-vs-need-based-aid) at these institutions have climbed to over **50%** for first-year students, meaning very few students pay full sticker price.
 
@@ -327,7 +327,7 @@ Because each private program has a fixed budget, even a very generous foundation
 
 Large national scholarships draw from the entire pool of high-achieving students in the country, not just from one high school or city.
 
-* [National Merit](https://en.wikipedia.org/wiki/National_Merit_Scholarship_Program), [Coca-Cola](https://www.coca-colascholarsfoundation.org/2025-coke-scholars/), and [Gates](https://www.fastweb.com/student-news/articles/the-gates-scholarship-program) all attract applicants who are top of their class **and** deeply involved in leadership, service, or research.
+* [National Merit](https://collegegrind.org/posts/national_merit_scholarship_program/), [Coca-Cola](https://www.coca-colascholarsfoundation.org/2025-coke-scholars/), and [Gates](https://www.fastweb.com/student-news/articles/the-gates-scholarship-program) all attract applicants who are top of their class **and** deeply involved in leadership, service, or research.
 * At this level, academic credentials and extracurriculars are clustered at the top; many applicants look similar on paper, so decisions hinge on small differences and subjective judgments.
 
 Even in more modest programs, the most diligent and accomplished students often apply to many scholarships and win multiple awards, further [concentrating the available funds](https://tamingthehighcostofcollege.com/interview-with-mark-kantrowitz/) among a subset of already high-performing students.
@@ -510,7 +510,7 @@ For this student, scholarships combined with smart college selection can signifi
 **Likely scholarship outcomes:**
 
 * Strong candidate for [**full-tuition or full-ride** institutional scholarships](https://scholarshipsandgrants.us/financial-aid-101/full-tuition-scholarships/) at some colleges, especially honors or flagship programs aiming to recruit top talent.
-* Competitive for [major national scholarships](https://www.fastweb.com/student-news/articles/the-gates-scholarship-program) like [National Merit](https://en.wikipedia.org/wiki/National_Merit_Scholarship_Program) or [Coca-Cola](https://www.scholarships.com/scholarships/coca-cola-scholars-program-scholarship), though odds remain low due to national competition.
+* Competitive for [major national scholarships](https://www.fastweb.com/student-news/articles/the-gates-scholarship-program) like [National Merit](https://collegegrind.org/posts/national_merit_scholarship_program/) or [Coca-Cola](https://www.scholarships.com/scholarships/coca-cola-scholars-program-scholarship), though odds remain low due to national competition.
 * May accumulate **10,000–50,000 dollars or more** in combined outside and institutional awards; in some cases, studies show these students are among the [small fraction (under 1%)](https://www.tuitionhero.org/resources/scholarships/how-many-people-actually-get-scholarships) whose scholarships cover most or all costs.
 
 Even for elite students, “free college” is not guaranteed; outcomes depend heavily on the colleges chosen and how institutional aid and outside scholarships interact.
