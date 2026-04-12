@@ -1,7 +1,7 @@
 ---
 title: Institutional scholarships explained. The trade-off between prestige and free college
 description: how colleges use institutional scholarships, what they signal, and when a full ride may be the smarter choice.
-date: 2023-09-24 11:46:23 +0300
+date: 2023-09-23 11:46:23 +0300
 authors: [admin]
 image: /images/institutional_scholarships_explaiend.jpg
 video_embed:

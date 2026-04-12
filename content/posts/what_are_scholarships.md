@@ -1,7 +1,7 @@
 ---
 title: What are scholarships? Who actually get them and can they fund your education
 description: A practical look at scholarship eligibility, common misconceptions, and how much these awards typically pay for.
-date: 2023-08-21 11:20:25 +0300
+date: 2023-08-17 11:20:25 +0300
 authors: [admin]
 image: /images/what_are_scholarships.jpg
 video_embed:

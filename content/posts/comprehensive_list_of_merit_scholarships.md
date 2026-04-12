@@ -1,7 +1,7 @@
 ---
 title: Comprehensive list of universities offering merit scholarships
 description: Explore colleges that award merit aid and understand how to find programs that fit your academic profile.
-date: 2023-09-25 12:31:34 +0300
+date: 2023-09-24 12:31:34 +0300
 authors: [admin]
 image: /images/comprehensive_list_of_merit_scholarships.jpg
 video_embed:

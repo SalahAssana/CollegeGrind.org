@@ -1,7 +1,7 @@
 ---
 title: Complete list of universities that offer scholarships for National Merit finalists
 description: A complete list of universities that offer scholarships for National Merit Finalists, including full‑ride and generous merit award programs.
-date: 2023-09-11 12:31:07 +0300
+date: 2023-09-10 12:31:07 +0300
 authors: [admin]
 image: /images/list_of_national_merit_scholarships.jpg
 video_embed:

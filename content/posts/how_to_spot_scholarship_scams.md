@@ -1,7 +1,7 @@
 ---
 title: How to spot scholarship scams. Avoid losing money and personal data
 description: Learn the warning signs of scholarship scams so you can protect your money and personal information.
-date: 2023-09-17 13:33:20 +0300
+date: 2023-09-16 13:33:20 +0300
 authors: [admin]
 image: /images/how_to_spot_scholarship_scams.jpg
 video_embed:

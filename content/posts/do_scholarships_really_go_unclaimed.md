@@ -1,7 +1,7 @@
 ---
 title: Do scholarships really go unclaimed? Debunking a persistent myth
 description: Debunk the myth of unclaimed scholarships with a research‑backed look at where the claim came from and what students should know today.
-date: 2023-09-04 09:16:58 +0300
+date: 2023-09-03 09:16:58 +0300
 authors: [admin]
 image: /images/do_scholarships_really_go_unclaimed.jpg
 video_embed:

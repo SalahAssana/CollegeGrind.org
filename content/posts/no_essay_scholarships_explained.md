@@ -1,7 +1,7 @@
 ---
 title: No-essay scholarships explained. Easy to apply, almost impossible to win
 description: No‑essay scholarships promise quick applications but deliver lottery‑level odds and minimal real financial value.
-date: 2023-09-03 11:37:01 +0300
+date: 2023-09-02 11:37:01 +0300
 authors: [admin]
 image: /images/no_essay_scholarships_explained.jpg
 video_embed:

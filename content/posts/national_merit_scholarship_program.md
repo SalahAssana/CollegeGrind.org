@@ -1,7 +1,7 @@
 ---
 title: The National Merit Scholarship Program. How it works and what it’s really worth
 description: A comprehensive guide to the National Merit Scholarship Program, explaining PSAT cutoffs, Semifinalist and Finalist requirements, scholarship types, and the real financial value for families.
-date: 2023-09-10 07:49:28 +0300
+date: 2023-09-09 07:49:28 +0300
 authors: [admin]
 image: /images/national_merit_scholarship_program.jpg
 video_embed:

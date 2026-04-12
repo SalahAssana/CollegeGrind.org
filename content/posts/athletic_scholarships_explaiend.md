@@ -1,7 +1,7 @@
 ---
 title: Athletic scholarships explained. What they are, how they work, and if they’re worth pursuing
 description: how athletic scholarships work, who actually gets them, and whether they’re worth pursuing for college.
-date: 2023-09-18 14:07:49 +0300
+date: 2023-09-17 14:07:49 +0300
 authors: [admin]
 image: /images/athletic_scholarships_explaiend.jpg
 video_embed:
