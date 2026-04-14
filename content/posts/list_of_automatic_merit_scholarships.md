@@ -1,7 +1,7 @@
 ---
 title: Comprehensive list of colleges with automatic merit scholarships
 description: Comprehensive of colleges with automatic merit scholarships, detailing award amounts, GPA, test‑score, and residency requirments.
-date: 2023-10-08 07:14:29 +0300
+date: 2023-10-08 09:30:15 +0300
 authors: [admin]
 image: /images/list_of_automatic_merit_scholarships.jpg
 video_embed:
