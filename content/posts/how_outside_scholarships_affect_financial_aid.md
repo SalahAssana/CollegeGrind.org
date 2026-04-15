@@ -1,7 +1,7 @@
 ---
 title: How outside scholarships affect financial aid. Why they don’t always save you money
 description: Winning scholarships doesn’t always mean a smaller bill. Understand scholarship displacement, FAFSA impacts, and how colleges may cut grants, loans, or work-study.
-date: 2023-10-21 10:48:00 +0300
+date: 2023-10-22 10:48:00 +0300
 authors: [admin]
 image: /images/how_outside_scholarships_affect_financial_aid.jpg
 video_embed:
