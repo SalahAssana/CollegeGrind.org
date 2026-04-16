@@ -1,5 +1,5 @@
 ---
-title: Comprehensive list of current no‑essay and lottery‑style scholarships
+title: Comprehensive list of no‑essay and lottery‑style scholarships
 description: A simple list of current no‑essay and lottery‑style scholarships students can apply to fast.
 date: 2023-10-21 08:24:15 +0300
 authors: [admin]
