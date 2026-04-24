@@ -5,7 +5,7 @@ date: 2023-07-29 08:03:38 +0300
 authors: [admin]
 image: /images/student_loans_explained.jpg
 video_embed:
-tags: [money]
+tags: [loans, money]
 tags_color: '#479054'
 featured: false
 ---
@@ -65,7 +65,7 @@ Schools calculate a [cost of attendance](https://osfa.illinois.edu/types-of-aid/
 
 ## The Two Main Types of Student Loans
 
-At a high level, student loans fall into two categories: **federal loans** and **private loans**. Understanding the difference is crucial because federal loans generally offer more protections and flexibility.
+At a high level, student loans fall into two categories: [**federal loans** and **private loans**](https://collegegrind.org/posts/federal_loans_and_private_student_loans_explained/). Understanding the difference is crucial because federal loans generally offer more protections and flexibility.
 
 ### Federal student loans (from the government)
 
@@ -79,10 +79,10 @@ Key features of federal loans include:
 
 There are three main federal loan types most undergraduates and parents will see.
 
-#### Direct Subsidized Loans
+#### [Direct Subsidized Loans](https://collegegrind.org/posts/subsidized_and_unsubsidized_student_loans_explained/)
 
-* Available to undergraduate students with financial need, determined by your school [using the FAFSA](https://wagner.edu/financial-aid/finaidtypes/loans/stafford/).
-* The [government pays ("subsidizes") the interest](https://www.sfa.ufl.edu/types-of-aid/loans/subsidized-and-unsubsidized-loans/) while you are enrolled at least half time, during the grace period, and during certain deferment periods, so your balance does not grow during these times.
+* Available to undergraduate students with financial need, determined by your school using the FAFSA.
+* The government pays ("subsidizes") the interest while you are enrolled at least half time, during the grace period, and during certain deferment periods, so your balance does not grow during these times.
 * There are annual and lifetime limits on how much you can borrow as subsidized loans.
 
 These loans are generally the safest and most affordable borrowing option; if you qualify, they are usually the first loans you should accept.
@@ -230,7 +230,7 @@ Ignoring payments can lead to delinquency and default, damaging your credit, add
 
 ***
 
-## Loan Forgiveness (High‑Level Overview)
+## [Loan Forgiveness](https://collegegrind.org/posts/student_loan_forgiveness_explained/)
 
 ### Public Service Loan Forgiveness (PSLF)
 
@@ -247,7 +247,7 @@ However, PSLF has [strict rules about eligible loans](https://www.tateesq.com/le
 
 Beyond PSLF, some federal programs offer forgiveness or cancellation for:
 
-- Certain income‑driven repayment plans after making payments for a set number of years
+- Certain [income‑driven repayment plans](https://collegegrind.org/posts/income_driven_repayment_plans_explained/) after making payments for a set number of years
 - Specific professions or service commitments (for example, some teacher or health‑care programs)
 
 Recent and [upcoming changes to federal law](https://protectborrowers.org/2025-wrapped-what-borrowers-need-to-know-and-do-to-manage-their-student-loans/) are reshaping how and when [IDR forgiveness](https://ticas.org/affordability-2/upcoming-changes-to-income-driven-repayment-plans/) works, as well as which plans will remain available. Students should view forgiveness as a **possibility**, not a guarantee, and avoid borrowing more than they can reasonably repay on their expected career path.

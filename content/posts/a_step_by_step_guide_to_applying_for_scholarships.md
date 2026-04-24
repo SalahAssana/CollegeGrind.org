@@ -5,7 +5,7 @@ date: 2023-10-29 09:28:08 +0300
 authors: [admin]
 image: /images/a_step_by_step_guide_to_applying_for_scholarships.jpg
 video_embed:
-tags: [money]
+tags: [scholarships, money]
 tags_color: '#479054'
 featured: false
 ---
