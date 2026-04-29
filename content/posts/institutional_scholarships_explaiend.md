@@ -5,7 +5,7 @@ date: 2023-09-23 11:46:23 +0300
 authors: [admin]
 image: /images/institutional_scholarships_explaiend.jpg
 video_embed:
-tags: [money]
+tags: [scholarships, money]
 tags_color: '#479054'
 featured: false
 ---
