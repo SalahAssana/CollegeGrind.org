@@ -1,7 +1,7 @@
 ---
 title: Free tuition programs explained. What they cover and why they’re not always “free”
 description: Free tuition programs can lower college costs, but they rarely make school completely free.
-date: 2023-12-24 08:25:44 +0300
+date: 2023-12-30 08:25:44 +0300
 authors: [admin]
 image: /images/free_tuition_programs_explained.jpg
 video_embed:
