@@ -5,7 +5,7 @@ date: 2023-11-18 12:43:14 +0300
 authors: [admin]
 image: /images/does_applying_for_financial_aid_hurt_your_chances_of_admission.jpg
 video_embed:
-tags: [money]
+tags: [financial aid, money]
 tags_color: '#479054'
 featured: false
 ---
