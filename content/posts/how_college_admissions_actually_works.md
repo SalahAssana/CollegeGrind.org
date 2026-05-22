@@ -254,13 +254,12 @@ In addition to recruited athletes, several other categories of applicants receiv
 
 Empirical research from Opportunity Insights (conducted by economists Raj Chetty, David Deming, and John Friedman) analyzed admissions data at highly selective "Ivy-Plus" universities. This research demonstrated that legacy applicants from families in the top 1% of the income distribution are [five times as likely to be admitted as non-legacy applicants](https://opportunityinsights.org/wp-content/uploads/2023/07/CollegeAdmissions_Paper.pdf) with comparable standardized test scores, demographic characteristics, and admissions ratings.
 
+```
 Ivy-Plus Admissions Advantage Factors (Top 1% Families)
-
 ├── Legacy Preferences: 46% of high-income admissions advantage
-
 ├── Stronger Non-Academic Ratings: 31% of advantage (e.g., extracurricular resources)
-
 └── Athletic Recruitment: 24% of advantage (athletes from affluent backgrounds)
+```
 
 These findings highlight *How Legacy Admissions Works* as a significant advantage for a small segment of the applicant pool. While legacy or donor preference does not guarantee admission to an academically underqualified student, it serves as a powerful tiebreaker when comparing highly qualified candidates.
 
