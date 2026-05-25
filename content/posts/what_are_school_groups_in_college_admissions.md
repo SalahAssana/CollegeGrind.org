@@ -1,7 +1,7 @@
 ---
 title: What are “school groups” in college admissions? Why you’re not competing against everyone
 description: How school groups shape admissions decisions and why you’re not competing with everyone.
-date: 2024-01-20 08:35:00 +0300
+date: 2024-01-20 7:14:36 +0300
 authors: [admin]
 image: /images/what_are_school_groups_in_college_admissions.jpg
 video_embed:
