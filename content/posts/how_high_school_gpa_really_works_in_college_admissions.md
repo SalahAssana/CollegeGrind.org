@@ -1,6 +1,6 @@
 ---
 title: How high school GPA really works in college admissions
-description: how colleges read GPA in context, not as a standalone score, to assess true academic strength.
+description: How colleges read GPA in context, not as a standalone score, to assess true academic strength.
 date: 2024-02-03 08:46:37 +0300
 authors: [admin]
 image: /images/how_high_school_gpa_really_works_in_college_admissions.jpg
