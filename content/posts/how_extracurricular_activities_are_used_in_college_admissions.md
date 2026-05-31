@@ -1,7 +1,7 @@
 ---
 title: How extracurricular activities are used in college admissions
 description: Understanding holistic review, unwritten evaluation rules, and the strategy of building a sincere activity portfolio
-date: 2024-02-10 08:46:37 +0300
+date: 2024-02-10 08:48:30 +0300
 authors: [admin]
 image: /images/how_extracurricular_activities_are_used_in_college_admissions.jpg
 video_embed:
@@ -30,7 +30,7 @@ The table below compares formal, institutional activities with informal, often-o
 | **Formal Activities** | Structured, organized, and typically sponsored by a school, civic group, or professional institution. | School clubs, student government, varsity sports, band, community theater, debate teams, academic Olympiads, structured internships, and [volunteering](https://www.commandeducation.com/resource/common-app-activities-list/). | Demonstrates the ability to operate within established organizations, collaborate with peers, and achieve recognized milestones. |
 | **Informal Activities** | Self-directed, family-centered, or personal commitments that do not issue certificates of participation. | Part-time employment, caring for younger siblings, translating for family members, running a personal hobby blog, self-taught coding, or managing household duties. | Highlights emotional maturity, real-world work ethic, time-management skills, resilience, and genuine self-directed curiosity. |
 
-Admissions offices do not systematically favor formal activities over informal ones. An applicant who manages a part-time job to support their family or dedicates their afternoons to caring for an elderly relative demonstrates character traits that are [highly valued by college communities](https://mitadmissions.org/apply/prepare/activities/). For a deeper look at utilizing non-traditional experiences, students can consult the guide on *How First-Generation Students Can Build a Strong College Application*.
+Admissions offices do not systematically favor formal activities over informal ones. An applicant who manages a part-time job to support their family or dedicates their afternoons to caring for an elderly relative demonstrates character traits that are [highly valued by college communities](https://mitadmissions.org/apply/prepare/activities/). For a deeper look at utilizing non-traditional experiences, students can consult the guide on [*How First-Generation Students Can Build a Strong College Application*](https://collegegrind.org/posts/how_first_generation_students_can_build_a_strong_college_application/).
 
 ## Where Extracurriculars Fit in the Admissions Process
 

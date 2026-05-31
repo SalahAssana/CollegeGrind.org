@@ -1,7 +1,7 @@
 ---
 title: How first-generation students can build a strong college application
 description: How first‑generation students can turn unique challenges into standout qualities in their applications.
-date: 2024-02-17 08:46:37 +0300
+date: 2024-02-17 12:46:07 +0300
 authors: [admin]
 image: /images/how_first_generation_students_can_build_a_strong_college_application.jpg
 video_embed:
