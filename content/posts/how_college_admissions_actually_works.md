@@ -150,7 +150,7 @@ In each of these cases, the applicant has not manufactured a fake "theme" to imp
 
 ## Institutional Priorities: The Hidden Layer of Admissions
 
-Even if an applicant possesses stellar academic credentials and a cohesive holistic profile, their outcome is heavily influenced by institutional priorities. Institutional priorities are the [strategic, operational, and financial mandates](https://ingeniusprep.com/journal/celebrating-25-years-of-college-admissions-trends/) established by a university’s board of trustees, president, and academic deans. Admissions offices are evaluated not only on the test scores of the students they admit, but also on how effectively they fulfill these institutional goals. Understanding *What Are Institutional Priorities in College Admissions?* helps explain why admissions outcomes can seem unpredictable from the outside.
+Even if an applicant possesses stellar academic credentials and a cohesive holistic profile, their outcome is heavily influenced by institutional priorities. Institutional priorities are the [strategic, operational, and financial mandates](https://ingeniusprep.com/journal/celebrating-25-years-of-college-admissions-trends/) established by a university’s board of trustees, president, and academic deans. Admissions offices are evaluated not only on the test scores of the students they admit, but also on how effectively they fulfill these institutional goals. Understanding [*What Are Institutional Priorities in College Admissions?*](https://collegegrind.org/posts/what_are_colleges_looking_for_in_applicants/) helps explain why admissions outcomes can seem unpredictable from the outside.
 
 These priorities can vary widely by institution and can change from year to year:
 
