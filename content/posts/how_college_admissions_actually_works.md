@@ -204,7 +204,7 @@ However, applicants frequently overuse yield protection as a convenient excuse f
 * **Lack of Demonstrated Interest:** At colleges where demonstrated interest is considered (which can be verified via Section C7 of the [Common Data Set](https://thecollegesolution.com/how-to-use-a-common-data-set-2/)), an applicant who has never attended a virtual info session, opened the university’s emails, or visited campus may be deprioritized, as these behaviors suggest they are unlikely to enroll.
 * **Poor Institutional Fit:** The applicant’s essays or letters of recommendation suggested a personal style, attitude, or academic focus that did not align with the institution's campus culture.
 
-To avoid these pitfalls, applicants should approach target and likely schools with [the same seriousness as their reach schools](https://www.evascalzoadvising.com/resources/college-admissions-myths). This highlights the value of understanding *What Is Yield Protection?* as a guide to writing highly specific supplemental essays, engaging with the admissions office, and demonstrating authentic interest where it matters.
+To avoid these pitfalls, applicants should approach target and likely schools with [the same seriousness as their reach schools](https://www.evascalzoadvising.com/resources/college-admissions-myths). This highlights the value of understanding [*What Is Yield Protection?*](https://collegegrind.org/posts/understanding_yield_protection_in_college_admissions/) as a guide to writing highly specific supplemental essays, engaging with the admissions office, and demonstrating authentic interest where it matters.
 
 ## Financial Considerations: Need-Blind, Need-Aware, and Net Tuition Revenue
 
@@ -226,7 +226,7 @@ This pricing model is known as [tuition discounting](https://search.proquest.com
 
 ### **International Students**
 
-Because federal student aid programs are restricted to U.S. citizens and permanent residents, international applicants are evaluated under different financial parameters. Most colleges are need-aware for international students, prioritizing those who can pay full tuition to subsidize the financial aid budget of the domestic student body. Understanding *Need-Blind vs. Need-Aware Admissions* is essential for international and domestic families to avoid [unexpected financial aid gaps](https://premiercollegeguide.com/what-we-do).
+Because federal student aid programs are restricted to U.S. citizens and permanent residents, international applicants are evaluated under different financial parameters. Most colleges are need-aware for international students, prioritizing those who can pay full tuition to subsidize the financial aid budget of the domestic student body. Understanding [*Need-Blind vs. Need-Aware Admissions*](https://collegegrind.org/posts/need_blind_and_need_aware_admission/) is essential for international and domestic families to avoid [unexpected financial aid gaps](https://premiercollegeguide.com/what-we-do).
 
 ## Athletic Recruitment: The Clearest Special Admissions Pathway
 
