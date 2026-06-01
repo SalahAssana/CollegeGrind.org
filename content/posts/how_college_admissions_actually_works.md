@@ -241,7 +241,7 @@ Athletic recruiting needs are highly specific and vary from year to year:
 * A rowing program may seek coxswains or rowers with specific ergometer performance profiles.
 
 If a coach decides to support a recruit’s application, that support serves as a significant institutional priority in the admissions committee. In many cases, these candidates go through an accelerated admissions review timeline and receive early notification via a "[likely letter](https://www.eduavenues.com/blog/ivy-league-athletics)".  
-For non-athlete applicants, understanding *How Athletic Recruiting Affects College Admissions* is crucial. At highly selective schools, a [significant percentage of the incoming first-year class is comprised of recruited athletes](https://www.nber.org/system/files/working_papers/w26315/w26315.pdf). Because these seats are reserved early in the cycle, the number of spaces available to the general, non-recruited applicant pool is smaller, driving down the overall acceptance rate.
+For non-athlete applicants, understanding [*How Athletic Recruiting Affects College Admissions*](https://collegegrind.org/posts/how_athletic_recruiting_shapes_college_admissions/) is crucial. At highly selective schools, a [significant percentage of the incoming first-year class is comprised of recruited athletes](https://www.nber.org/system/files/working_papers/w26315/w26315.pdf). Because these seats are reserved early in the cycle, the number of spaces available to the general, non-recruited applicant pool is smaller, driving down the overall acceptance rate.
 
 ## Legacy, Donor, Development, and Special Interest Applicants
 
