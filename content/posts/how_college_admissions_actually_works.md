@@ -261,7 +261,7 @@ Ivy-Plus Admissions Advantage Factors (Top 1% Families)
 └── Athletic Recruitment: 24% of advantage (athletes from affluent backgrounds)
 ```
 
-These findings highlight *How Legacy Admissions Works* as a significant advantage for a small segment of the applicant pool. While legacy or donor preference does not guarantee admission to an academically underqualified student, it serves as a powerful tiebreaker when comparing highly qualified candidates.
+These findings highlight [*How Legacy Admissions Works*](https://collegegrind.org/posts/how_legacy_admissions_works/) as a significant advantage for a small segment of the applicant pool. While legacy or donor preference does not guarantee admission to an academically underqualified student, it serves as a powerful tiebreaker when comparing highly qualified candidates.
 
 However, legacy admissions has faced intense political and public scrutiny, with critics arguing that it reinforces socioeconomic privilege. As a result, several states have banned legacy admissions, and many institutions have [voluntarily eliminated these preferences](https://www.ivyscholars.com/did-the-affirmative-action-ruling-impact-college-admissions/) to promote a more equitable process.
 
@@ -276,7 +276,7 @@ Higher education institutions have long pursued student body diversity across mu
 * Academic interests and career goals
 * Diverse life experiences, perspectives, and skills
 
-This process changed following the Supreme Court’s June 2023 decision in [*Students for Fair Admissions, Inc. v. President and Fellows of Harvard College* and *Students for Fair Admissions v. University of North Carolina](https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard)*. The Court ruled that race-conscious admissions policies violated the Equal Protection Clause of the Fourteenth Amendment and Title VI of the Civil Rights Act of 1964, effectively banning the direct consideration of race as an admissions factor.
+This process changed following the Supreme Court’s June 2023 decision in [*Students for Fair Admissions, Inc. v. President and Fellows of Harvard College* and *Students for Fair Admissions v. University of North Carolina*](https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard)*. The Court ruled that race-conscious admissions policies violated the Equal Protection Clause of the Fourteenth Amendment and Title VI of the Civil Rights Act of 1964, effectively banning the direct consideration of race as an admissions factor.
 
 Under this legal framework:
 
