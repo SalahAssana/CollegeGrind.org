@@ -288,7 +288,7 @@ This decision has led colleges to place greater value on the personal essay as a
 
 ## Why Equally Qualified Students Get Different Outcomes
 
-One of the most difficult realities for families to accept is that "equally qualified" on paper does not translate to "identical" in the admissions committee. Two students attending the same high school with similar GPAs, test scores, and activity lists may receive completely different outcomes from the same college. Understanding *Why Qualified Students Get Rejected From Selective Colleges* requires analyzing several comparative, contextual, and capacity-based constraints.
+One of the most difficult realities for families to accept is that "equally qualified" on paper does not translate to "identical" in the admissions committee. Two students attending the same high school with similar GPAs, test scores, and activity lists may receive completely different outcomes from the same college. Understanding [*Why Qualified Students Get Rejected From Selective Colleges*](https://collegegrind.org/posts/why_qualified_students_get_rejected_from_selective_colleges/) requires analyzing several comparative, contextual, and capacity-based constraints.
 
 These divergent outcomes are driven by several key factors:
 
@@ -302,10 +302,7 @@ Ultimately, admissions decisions are comparative, contextual, and constrained. A
 
 This dynamic becomes even clearer when you look at how elite colleges justify these choices under scrutiny, which is why the [SFFA v. Harvard Oral Argument and Opinion](https://www.youtube.com/watch?v=xq5-84HgDiE&t=1s) is such a useful window into the process. The analysis breaks down the landmark Supreme Court case that forced selective institutions to reveal how they weigh non‑academic factors when choosing between academically identical students.
 
-## Why Equally Qualified Students Get Different Outcomes
-
-When families try to figure out why two seemingly identical students receive completely opposite admissions decisions, they are usually looking at the applicants through a purely quantitative lens.  
-However, "equally qualified" on paper does not mean "identical" in the context of a class-building framework. Small variations in background, focus, and choices yield massive differences inside the admissions office.
+When families try to figure out why two seemingly identical students receive completely opposite admissions decisions, they are usually looking at the applicants through a purely quantitative lens. However, "equally qualified" on paper does not mean "identical" in the context of a class-building framework. Small variations in background, focus, and choices yield massive differences inside the admissions office.
 
 ### Case Studies in Contrast
 
