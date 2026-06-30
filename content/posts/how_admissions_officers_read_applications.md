@@ -1,7 +1,7 @@
 ---
 title: How admissions officers read applications
 description: The hidden step‑by‑step process behind every acceptance decision.
-date: 2024-09-07 8:06:43 +0300
+date: 2024-09-14 9:33:16 +0300
 authors: [admin]
 image: /images/how_admissions_officers_read_applications.jpg
 video_embed:
