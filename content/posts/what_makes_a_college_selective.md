@@ -1,6 +1,6 @@
 ---
 title: What makes a college "selective"?
-description: what makes a college truly “selective” by breaking down admit rates, institutional strategy, and the forces that shape modern admissions.
+description: What makes a college truly “selective” by breaking down admit rates, institutional strategy, and the forces that shape modern admissions.
 date: 2024-09-21 8:41:04 +0300
 authors: [admin]
 image: /images/what_makes_a_college_selective.jpg
