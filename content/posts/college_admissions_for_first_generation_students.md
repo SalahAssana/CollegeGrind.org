@@ -64,34 +64,16 @@ Admissions officers do not require a perfect 4.0 GPA for admission, particularly
 
 Course rigor must be pursued aggressively but strategically. The applicant should enroll in the most demanding courses available in their school, prioritizing core academic subjects: English, mathematics, laboratory sciences, social studies, and foreign languages. If advanced courses like AP or IB are not offered on-site, first-generation applicants can demonstrate exceptional academic initiative by enrolling in [dual enrollment classes](https://www.bucknell.edu/episode-20-academic-rigor-which-high-school-classes-should-i-choose) or community college coursework. Dual enrollment allows high school students to take college-level classes that simultaneously fulfill high school graduation requirements and earn transferable college credits, serving as a clear signal of collegiate readiness.
 
-| High School Environment | Standard Track Profile | Contextually Competitive Profile |
-| --- | --- | --- |
-| **Under-Resourced Public School** *(Offers 3 APs; High FRL% Rate)* | • GPA: 3.8 (Unweighted)<br>
-
-<br>• Completed standard-level high school courses.<br>
-
-<br>• No dual enrollment coursework.<br>
-
-<br>• Focus on minimal school clubs with [passive participation](https://www.bucknell.edu/admissions-aid/admissions-blog/do-extracurricular-activities-matter-college). | • GPA: 3.6 (Unweighted) with a strong [upward trend](https://admissions.dartmouth.edu/admissions-beat-s4e7-transcript) from 10th to 12th grade.<br>
-
-<br>• Completed all 3 available AP courses.<br>
-
-<br>• Enrolled in College Algebra at a local community college via [dual enrollment](https://www.bucknell.edu/episode-20-academic-rigor-which-high-school-classes-should-i-choose).<br>
-
-<br>• Sustained commitment to sibling care and [part-time employment](https://drexel.edu/admissions/undergrad/blog/2018/april/tips-for-an-effective-college-application). |
-| **Highly Resourced Independent School** *(Offers 25+ APs/IBs)* | • GPA: 3.9 (Weighted)<br>
-
-<br>• Completed 10 AP courses.<br>
-
-<br>• Minimal outside school responsibilities.<br>
-
-<br>• Participated in standard school-sponsored [extracurriculars](https://www.bucknell.edu/admissions-aid/admissions-blog/do-extracurricular-activities-matter-college). | • GPA: 3.7 (Weighted) with inconsistent grades in junior year.<br>
-
-<br>• Completed 12 AP/IB courses.<br>
-
-<br>• No significant household or employment obligations.<br>
-
-<br>• Participated in expensive [summer enrichment programs](https://admissions.usf.edu/blog/do-extracurriculars-matter-in-the-college-admissions-process). |
+| High School Environment | Detail Type | Standard Track Profile | Contextually Competitive Profile |
+| --- | --- | --- | --- |
+| **Under-Resourced Public School** | **Academic Stats** | GPA: 3.8 (Unweighted) | GPA: 3.6 (Unweighted) with [upward trend](https://admissions.dartmouth.edu/admissions-beat-s4e7-transcript) |
+|  | **Course Rigor** | Completed standard courses | Completed all 3 available APs |
+|  | **Advanced Learning** | No dual enrollment | Enrolled in [dual enrollment](https://www.bucknell.edu/episode-20-academic-rigor-which-high-school-classes-should-i-choose) |
+|  | **Engagement** | Minimal clubs / [passive](https://www.bucknell.edu/admissions-aid/admissions-blog/do-extracurricular-activities-matter-college) | Committed to sibling care / [employment](https://drexel.edu/admissions/undergrad/blog/2018/april/tips-for-an-effective-college-application) |
+| **Highly Resourced Independent School** | **Academic Stats** | GPA: 3.9 (Weighted) | GPA: 3.7 (Weighted) / inconsistent junior year |
+|  | **Course Rigor** | Completed 10 AP courses | Completed 12 AP/IB courses |
+|  | **Responsibilities** | Minimal outside obligations | No significant household or work duties |
+|  | **Enrichment** | Standard school [extracurriculars](https://www.bucknell.edu/admissions-aid/admissions-blog/do-extracurricular-activities-matter-college) | Expensive [summer enrichment programs](https://admissions.usf.edu/blog/do-extracurriculars-matter-in-the-college-admissions-process) |
 
 The contextually competitive profile from the under-resourced school is often viewed as equal to or more compelling than the profile from the highly resourced school. Admissions officers recognize that the former student achieved academic excellence while navigating a lack of institutional support and balancing [significant real-world responsibilities](https://admissions.vanderbilt.edu/vandybloggers/2020/07/caring-in-a-crisis-vanderbilt-joins-admissions-response-to-covid-19/).
 
