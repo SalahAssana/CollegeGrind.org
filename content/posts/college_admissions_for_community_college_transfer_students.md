@@ -5,7 +5,7 @@ date: 2024-11-16 09:15:00 +0300
 authors: [admin]
 image: /images/college_admissions_for_community_college_transfer_students.jpg
 video_embed:
-tags: [admission]
+tags: [admission, community college]
 tags_color: '#90476a'
 featured: false
 ---
