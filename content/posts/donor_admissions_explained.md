@@ -79,7 +79,7 @@ Determining the exact prevalence of donor admissions across the higher education
 
 ### Empirical Findings from the Harvard Litigation
 
-The dataset released during the *SFFA v. Harvard* trial provided an unprecedented look at the internal composition of an elite university's admitted classes. Economic and statistical models constructed by researchers Peter Arcidiacono, Josh Kinsler, and Tyler Ransom analyzed the preferences given to distinct applicant subgroups, collectively referred to by the [acronym "ALDC"](https://www.google.com/search?q=https%3A%2F%2Fwww.nber.org%2Fsystem%2Ffiles%2Fworking_papers%2Fw26316%2Fw26316.pdf):
+The dataset released during the *SFFA v. Harvard* trial provided an unprecedented look at the internal composition of an elite university's admitted classes. Economic and statistical models constructed by researchers Peter Arcidiacono, Josh Kinsler, and Tyler Ransom analyzed the preferences given to distinct applicant subgroups, collectively referred to by the [acronym "ALDC"](https%3A%2F%2Fwww.nber.org%2Fsystem%2Ffiles%2Fworking_papers%2Fw26316%2Fw26316.pdf):
 
 * **A:** Recruited Athletes
 * **L:** Legacy Applicants (children of alumni)
@@ -94,15 +94,15 @@ The dataset released during the *SFFA v. Harvard* trial provided an unprecedente
 | **Children of Faculty/Staff (C)** | 46.7% | High-preference category for employee retention. |
 | **Recruited Athletes (A)** | 86.0% | Near-certainty admission status once designated on coach lists. |
 
-The data revealed that while the general acceptance rate at Harvard hovered around 4.7% during the analyzed period, applicants placed on the Dean's or Director's Interest List experienced an [acceptance rate of **42.2%](https://www.google.com/search?q=https%3A%2F%2Fpoetsandquants.com%2F2018%2F10%2F29%2Fwhat-harvards-affirmative-action-trial-says-about-elite-mba-admissions%2F)**—nearly a tenfold increase over the general applicant pool.
+The data revealed that while the general acceptance rate at Harvard hovered around 4.7% during the analyzed period, applicants placed on the Dean's or Director's Interest List experienced an [acceptance rate of **42.2%](https%3A%2F%2Fpoetsandquants.com%2F2018%2F10%2F29%2Fwhat-harvards-affirmative-action-trial-says-about-elite-mba-admissions%2F)**—nearly a tenfold increase over the general applicant pool.
 
-Further, the researchers' statistical models demonstrated the decisive impact of this status on admissions outcomes. A white, non-ALDC applicant who entered the process with an estimated 10% chance of admission would see their likelihood of acceptance [multiply **more than sevenfold](https://www.google.com/search?q=https%3A%2F%2Fstudentsforfairadmissions.org%2Fwp-content%2Fuploads%2F2019%2F09%2Flegacyathlete.pdf)** if they were placed on the Dean's Interest List.
+Further, the researchers' statistical models demonstrated the decisive impact of this status on admissions outcomes. A white, non-ALDC applicant who entered the process with an estimated 10% chance of admission would see their likelihood of acceptance [multiply **more than sevenfold](https%3A%2F%2Fstudentsforfairadmissions.org%2Fwp-content%2Fuploads%2F2019%2F09%2Flegacyathlete.pdf)** if they were placed on the Dean's Interest List.
 
 The systemic racial and socioeconomic implications of these preferences are highly pronounced. Over **43% of white admitted students** at Harvard fell into one of the four ALDC categories. By contrast, for admitted students who were African American, Asian American, or Hispanic, the share of ALDC admits was less than 16% for each group. The modeling showed that if white ALDC applicants had been evaluated under the same standards applied to white non-ALDC applicants, **approximately 75% (three-quarters) of them would have been rejected**.
 
 ### The Z-List Deferral Pathway
 
-Another crucial mechanism of development admissions revealed by the Harvard litigation is the "Z-list". The Z-list is a highly specialized, deferred-admissions program that operates as a ["back door" for borderline academic applicants](https://www.google.com/search?q=https%3A%2F%2Fblog.collegevine.com%2Fwhat-is-the-harvard-z-list) who possess immense institutional clout.
+Another crucial mechanism of development admissions revealed by the Harvard litigation is the "Z-list". The Z-list is a highly specialized, deferred-admissions program that operates as a ["back door" for borderline academic applicants](https%3A%2F%2Fblog.collegevine.com%2Fwhat-is-the-harvard-z-list) who possess immense institutional clout.
 
 Applicants admitted via the Z-list are guaranteed a place in the freshman class on the condition that they take a mandatory gap year. This delayed entry offers a dual benefit to the university:
 

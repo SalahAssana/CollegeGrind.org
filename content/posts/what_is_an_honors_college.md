@@ -92,13 +92,13 @@ Universities typically create honors colleges or programs to pursue several over
 
 ### Attract and Retain High‑Achieving Students
 
-[Honors colleges and programs](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) are widely used as recruitment tools to keep [academically strong students](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know)—who might otherwise attend elite private universities or liberal arts colleges—within the public or regional university system. By offering [small classes, special advising, and scholarships](https://kscollegesuccess.com/benefits-of-honors-colleges-honors-programs/) on top of lower in‑state tuition, [public institutions](https://www.petersons.com/blog/an-honors-program-or-honors-college-does-the-difference-make-a-difference/) can provide a compelling value proposition for high achievers.
+[Honors colleges and programs](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) are widely used as recruitment tools to keep [academically strong students](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know)—who might otherwise attend elite private universities or liberal arts colleges—within the public or regional university system. By offering [small classes, special advising, and scholarships](https://kscollegesuccess.com/benefits-of-honors-colleges-honors-programs/) on top of lower in‑state tuition, [public institutions](https://www.petersons.com/blog/an-honors-program-or-honors-college-does-the-difference-make-a-difference/) can provide a compelling value proposition for high achievers.
 
 Survey work and institutional reports suggest that honors programs also [help retain these students](https://www.semanticscholar.org/paper/162131920bbdc9bb2b01e4d6530aeef2f302eab5) by creating [close‑knit academic communities](https://www.semanticscholar.org/paper/ed86ecf8655bbd87c897bd148c14b4d2d44e36da) inside large campuses, reducing the sense of anonymity that sometimes drives transfers.
 
 ### Compete with Elite Private Institutions
 
-As competition for high‑performing applicants has intensified and acceptance rates at elite privates have fallen, [public universities](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) increasingly position strong honors offerings as an [alternative pathway](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) to a rigorous, small‑cohort experience. Articles summarizing honors trends note that many families now consciously [compare “state flagship + honors” to selective private options](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) in terms of class sizes, research access, and overall educational value.
+As competition for high‑performing applicants has intensified and acceptance rates at elite privates have fallen, [public universities](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) increasingly position strong honors offerings as an [alternative pathway](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) to a rigorous, small‑cohort experience. Articles summarizing honors trends note that many families now consciously [compare “state flagship + honors” to selective private options](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) in terms of class sizes, research access, and overall educational value.
 
 ### Improve Student Outcomes and Engagement
 
@@ -110,7 +110,7 @@ Honors structures allow large research universities to offer a [“small school�
 
 ### Attract Scholarships, Donors, and Prestige
 
-[Honors colleges](https://www.semanticscholar.org/paper/d492c2cadff6cf3125626cc47ac5fed52a470392) often become focal points for merit scholarships and philanthropic giving, since donors like to see recognizable, selective programs supporting ambitious students. Universities may also view successful honors units as [prestige‑enhancing](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention), signaling academic seriousness in external rankings and marketing.
+[Honors colleges](https://www.semanticscholar.org/paper/d492c2cadff6cf3125626cc47ac5fed52a470392) often become focal points for merit scholarships and philanthropic giving, since donors like to see recognizable, selective programs supporting ambitious students. Universities may also view successful honors units as [prestige‑enhancing](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention), signaling academic seriousness in external rankings and marketing.
 
 ***
 
@@ -146,7 +146,7 @@ Other [programs](https://www.petersons.com/blog/an-honors-program-or-honors-coll
 
 ### Not Every Program Offers Every Benefit
 
-It is crucial to note that [not all honors programs provide all of these benefits](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know), and some provide only a subset such as [priority registration and a few honors sections](https://www.petersons.com/blog/an-honors-program-or-honors-college-does-the-difference-make-a-difference/) without housing or thesis support. Conversely, some programs (especially well‑funded honors colleges) layer on [substantial financial support](https://barretthonors.asu.edu/benefits), travel grants, and [co‑curricular opportunities](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) far beyond the minimum.
+It is crucial to note that [not all honors programs provide all of these benefits](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know), and some provide only a subset such as [priority registration and a few honors sections](https://www.petersons.com/blog/an-honors-program-or-honors-college-does-the-difference-make-a-difference/) without housing or thesis support. Conversely, some programs (especially well‑funded honors colleges) layer on [substantial financial support](https://barretthonors.asu.edu/benefits), travel grants, and [co‑curricular opportunities](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) far beyond the minimum.
 
 ***
 
@@ -164,7 +164,7 @@ Honors students commonly receive access to:
 
   * [Specialized advising and mentoring](https://barretthonors.asu.edu/benefits).
   * [Undergraduate research placements and funding](https://www.mdpi.com/2076-0760/11/4/162).
-  * [Study abroad or internship grants and scholarships](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention).
+  * [Study abroad or internship grants and scholarships](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention).
   * [Honors‑only scholarships and sometimes annual stipends](https://classroom.synonym.com/schreyer-honors-college-requirements-7905645.html).
 
 These [resources](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) can make it easier to pursue ambitious projects, reduce financial pressure, and build strong applications for graduate school or competitive jobs.
@@ -173,7 +173,7 @@ These [resources](https://www.usnews.com/education/best-colleges/applying/articl
 
 Honors cohorts bring together students with strong academic motivation, which can create a [powerful peer environment](https://www.semanticscholar.org/paper/ed86ecf8655bbd87c897bd148c14b4d2d44e36da) for studying, collaboration, and leadership. [Living‑learning communities and honors housing](https://lsa.umich.edu/honors/Lower-Division/honors-housing.html) amplify these effects by making it more likely that students’ roommates and close friends share [similar academic goals](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know).
 
-For first‑generation and underrepresented students, being part of an [honors community](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) can also provide a sense of belonging and validation, though careful design is needed to avoid [reinforcing exclusivity](https://www.mdpi.com/2076-0760/7/10/175/pdf).
+For first‑generation and underrepresented students, being part of an [honors community](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) can also provide a sense of belonging and validation, though careful design is needed to avoid [reinforcing exclusivity](https://www.mdpi.com/2076-0760/7/10/175/pdf).
 
 ### Structured Pathway Within Large Universities
 
@@ -205,7 +205,7 @@ Additionally, [structured honors curricula](https://www.petersons.com/blog/an-ho
 
 Because [“honors program” and “honors college” are not regulated categories](https://www.nchchonors.org/page/what-is-honors), quality and support vary widely even among similarly labeled units. Some [highly resourced programs](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) offer rich experiences comparable to strong liberal arts colleges, while [others are underfunded](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) and deliver [little beyond a set of extra requirements](https://kscollegesuccess.com/benefits-of-honors-colleges-honors-programs/) and modest registration priorities.
 
-Families and students sometimes discover that [promised benefits](https://talk.collegeconfidential.com/t/honors-colleges-at-public-universities-vs-private-universities/577910), such as small classes or special opportunities, are [not consistently delivered](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) or are difficult to access in practice, especially as programs expand enrollment.
+Families and students sometimes discover that [promised benefits](https://talk.collegeconfidential.com/t/honors-colleges-at-public-universities-vs-private-universities/577910), such as small classes or special opportunities, are [not consistently delivered](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) or are difficult to access in practice, especially as programs expand enrollment.
 
 ### Overlap with Already Rigorous Majors
 
@@ -215,7 +215,7 @@ In some cases, departmental honors within the major (such as a senior thesis tra
 
 ### Social and Equity Concerns
 
-Scholars have noted that honors tracks can create [“high” tracks](https://www.semanticscholar.org/paper/358c411d60ec3c5835adc451e648e3b40dd5232a) within universities that [deepen stratification](https://www.mdpi.com/2076-0760/7/10/175/pdf) if access is limited to narrowly defined academic profiles and if programs are not attentive to inclusion. While [national survey data](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) show a significant share of honors students are first‑generation, access and support vary by campus, and performance funding or prestige pressures can push institutions to prioritize already advantaged students.
+Scholars have noted that honors tracks can create [“high” tracks](https://www.semanticscholar.org/paper/358c411d60ec3c5835adc451e648e3b40dd5232a) within universities that [deepen stratification](https://www.mdpi.com/2076-0760/7/10/175/pdf) if access is limited to narrowly defined academic profiles and if programs are not attentive to inclusion. While [national survey data](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) show a significant share of honors students are first‑generation, access and support vary by campus, and performance funding or prestige pressures can push institutions to prioritize already advantaged students.
 
 Students who are not in honors may also [perceive a two‑tiered campus](https://www.mdpi.com/2076-0760/7/10/175/pdf), with resentment arising if honors students receive disproportionate resources or privileges without clear academic justification.
 
@@ -233,11 +233,11 @@ As a result, two “honors colleges” at different universities may differ dras
 
 [Selectivity varies](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) from extremely competitive, requiring top‑of‑class GPAs, strong standardized test scores where used, extensive essays, and recommendations, to [relatively open programs](https://kscollegesuccess.com/benefits-of-honors-colleges-honors-programs/) that admit most students who meet baseline criteria or who apply after demonstrating solid college performance.
 
-[National surveys of honors programs](https://www.semanticscholar.org/paper/358c411d60ec3c5835adc451e648e3b40dd5232a) report median ACT scores around 29 and high school GPAs around 3.8 for many public university honors cohorts, but with substantial variation. Some [institutions also reserve a share of honors seats](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) for transfer or current students, which changes the profile of entry.
+[National surveys of honors programs](https://www.semanticscholar.org/paper/358c411d60ec3c5835adc451e648e3b40dd5232a) report median ACT scores around 29 and high school GPAs around 3.8 for many public university honors cohorts, but with substantial variation. Some [institutions also reserve a share of honors seats](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) for transfer or current students, which changes the profile of entry.
 
 ### Funding and Institutional Support
 
-Honors units funded with [dedicated budgets, endowed scholarships, and staff](https://www.semanticscholar.org/paper/d492c2cadff6cf3125626cc47ac5fed52a470392) can provide extensive programming, research funding, and intensive advising. Others operate with [minimal staff and rely heavily on existing courses](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) and resources, offering fewer distinctive opportunities.
+Honors units funded with [dedicated budgets, endowed scholarships, and staff](https://www.semanticscholar.org/paper/d492c2cadff6cf3125626cc47ac5fed52a470392) can provide extensive programming, research funding, and intensive advising. Others operate with [minimal staff and rely heavily on existing courses](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) and resources, offering fewer distinctive opportunities.
 
 [State performance‑funding policies](https://informedstates.org/policy-briefs-feed/exploring-the-impact-of-variations-in-state-performance-funding-policies-on-college-access) and institutional priorities can influence how much support is directed toward honors relative to other student success initiatives, with concerns that heavy investment in selective tracks could [divert resources from broader equity goals](https://www.mdpi.com/2076-0760/7/10/175/pdf).
 
@@ -278,7 +278,7 @@ While details vary, common evaluation elements include:
   * **Standardized tests**: Some programs once used test score thresholds, though [test‑optional policies](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) have diversified practices; many now emphasize [holistic review](https://www.semanticscholar.org/paper/119362ecb4d5725a238b10d93da4d9f736448535) instead of strict cutoffs.
   * **Essays and intellectual curiosity**: Honors applications almost always include [additional essays](https://barretthonors.asu.edu/why-barrett/faqs) designed to gauge intellectual engagement, writing ability, and [fit with program values](https://classroom.synonym.com/schreyer-honors-college-requirements-7905645.html).
   * **Recommendations**: Teacher or counselor [recommendations](https://classroom.synonym.com/schreyer-honors-college-requirements-7905645.html) that speak to motivation, creativity, and resilience.
-  * **Leadership and involvement**: Evidence of [leadership, community service](https://barretthonors.asu.edu/why-barrett/faqs), or [distinctive talents and experiences](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-supported-pay-attention).
+  * **Leadership and involvement**: Evidence of [leadership, community service](https://barretthonors.asu.edu/why-barrett/faqs), or [distinctive talents and experiences](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-supported-pay-attention).
 
 [Barrett](https://barretthonors.asu.edu/why-barrett/faqs), for example, looks for leadership, special talents, community involvement, and unique personal achievements alongside the academic record. [Schreyer](https://skillnation.in/posts/penn-state-schreyer-honors-college-acceptance-rate/) uses multiple essays, recommendations, and [holistic review](https://classroom.synonym.com/schreyer-honors-college-requirements-7905645.html) without publishing minimum GPA or test score cutoffs, signaling selective but non‑formulaic evaluation.
 
@@ -294,7 +294,7 @@ More broadly, honors admissions scholarship highlights debates about which [crit
 
 ### Overlapping Features
 
-Well‑resourced [honors colleges at public universities](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) aim to replicate some [features associated with elite private universities](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) such as Harvard or Stanford: small seminars, close faculty interaction, abundant research opportunities, and strong advising. Students can experience [rigorous coursework and faculty mentorship](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) while paying significantly lower tuition, particularly when in‑state rates and honors scholarships are considered.
+Well‑resourced [honors colleges at public universities](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) aim to replicate some [features associated with elite private universities](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) such as Harvard or Stanford: small seminars, close faculty interaction, abundant research opportunities, and strong advising. Students can experience [rigorous coursework and faculty mentorship](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know) while paying significantly lower tuition, particularly when in‑state rates and honors scholarships are considered.
 
 ### Key Differences
 
@@ -311,9 +311,9 @@ Analysts comparing [“public honors vs. private elites”](https://publicuniver
 
 Public honors can be especially compelling for:
 
-  * [Cost‑conscious students](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) weighing large merit packages and lower tuition against [high sticker prices at elites](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/).
+  * [Cost‑conscious students](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) weighing large merit packages and lower tuition against [high sticker prices at elites](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/).
   * Students interested in [majors where the public university’s department is nationally strong](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/), narrowing academic differences.
-  * Students who value the [combination of a flagship public’s scale](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) (clubs, athletics, diversity) with the [intimacy of a small honors community](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know).
+  * Students who value the [combination of a flagship public’s scale](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) (clubs, athletics, diversity) with the [intimacy of a small honors community](https://www.usnews.com/education/best-colleges/applying/articles/honors-colleges-and-programs-what-to-know).
 
 Honors is generally not a perfect substitute for elite universities in terms of brand prestige but can offer comparable day‑to‑day academic challenge at a fraction of the cost.
 
@@ -335,7 +335,7 @@ Honors experiences that emphasize [undergraduate research, independent study, an
 
 ### Cost‑Conscious Students Seeking High‑Value Education
 
-For families focused on value, an [honors college at a strong public university](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) can deliver [much of the academic experience of a smaller elite institution](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) at a significantly lower net cost, especially when combined with honors or merit scholarships. Students who are willing to [forgo some prestige in exchange for financial sustainability](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) often find this trade worthwhile.
+For families focused on value, an [honors college at a strong public university](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) can deliver [much of the academic experience of a smaller elite institution](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) at a significantly lower net cost, especially when combined with honors or merit scholarships. Students who are willing to [forgo some prestige in exchange for financial sustainability](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) often find this trade worthwhile.
 
 ### Adult Learners and Transfer Students
 
@@ -383,7 +383,7 @@ If an institution’s [honors program appears thinly supported](https://www.sema
 
 ### Misconception 5: “Honors Is Only for Traditional High‑School Stars”
 
-**Reality:** While many participants were strong high‑school students, a notable share of honors students are [first‑generation or transfer students](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention), and many programs provide [post‑enrollment pathways](https://www.shc.psu.edu/admissions/current-student/) for those who prove themselves in college. Some innovative models, like [Rutgers–Newark’s HLLC](https://www.mdpi.com/2076-0760/11/4/162/pdf), intentionally recruit for [community engagement and social justice potential](https://www.mdpi.com/2076-0760/11/4/162), not just test scores.
+**Reality:** While many participants were strong high‑school students, a notable share of honors students are [first‑generation or transfer students](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention), and many programs provide [post‑enrollment pathways](https://www.shc.psu.edu/admissions/current-student/) for those who prove themselves in college. Some innovative models, like [Rutgers–Newark’s HLLC](https://www.mdpi.com/2076-0760/11/4/162/pdf), intentionally recruit for [community engagement and social justice potential](https://www.mdpi.com/2076-0760/11/4/162), not just test scores.
 
 ***
 
@@ -412,7 +412,7 @@ For each honors option, systematically gather information:
   * **Structure**: Is it an [honors college or program](https://kscollegesuccess.com/benefits-of-honors-colleges-honors-programs/)? Separate dean? Own budget? Distinct curriculum?
   * **Curriculum**: How many [honors credits are required](https://classroom.synonym.com/schreyer-honors-college-requirements-7905645.html)? Is a [thesis or capstone mandatory](https://www.shc.psu.edu/academics/thesis/)? Are honors courses integrated with your intended major?
   * **Resources**: What [advising, research funding, housing, and scholarships](https://barretthonors.asu.edu/benefits) are available? How many staff serve how many students?
-  * **Selectivity and outcomes**: What are [typical GPA/test score ranges](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) (if shared), and what do graduates go on to do (graduate school, jobs)?
+  * **Selectivity and outcomes**: What are [typical GPA/test score ranges](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) (if shared), and what do graduates go on to do (graduate school, jobs)?
   * **Student experience**: What do [current and former students say](https://talk.collegeconfidential.com/t/honors-colleges-at-public-universities-vs-private-universities/577910) about workload, culture, and whether promised benefits are delivered?
 
 ### Step 3: Map Requirements Against Your Major and Life Circumstances
@@ -432,10 +432,10 @@ Students in [tightly sequenced or lab‑intensive majors](https://hcmstrategists
 Consider:
 
   * [Net cost (after aid) of honors option vs. alternatives](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/), including elite private or liberal arts colleges.
-  * Monetary [value of honors scholarships](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention), grants, or stipends.
+  * Monetary [value of honors scholarships](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention), grants, or stipends.
   * Non‑monetary value of [added support, community, and opportunities](https://kscollegesuccess.com/benefits-of-honors-colleges-honors-programs/).
 
-If an [honors program at a public university](https://www.google.com/search?q=https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) significantly [lowers debt compared to elite options](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) while still providing strong academic opportunities, it may represent a high‑value choice.
+If an [honors program at a public university](https://blog.estrelaconsulting.com/why-public-university-honors-programs-are-shaking-up-the-selective-college-world-and-why-you-should-pay-attention) significantly [lowers debt compared to elite options](https://publicuniversityhonors.com/college-value-public-honors-vs-private-elites/) while still providing strong academic opportunities, it may represent a high‑value choice.
 
 ### Step 5: Decide on Participation Level
 

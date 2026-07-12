@@ -263,7 +263,7 @@ The voluntary elimination of legacy admissions is increasingly being replaced by
 | --- | --- | --- | --- |
 | **Colorado** | Public Universities Only | 2021 | [University of Colorado Boulder, Colorado State](https://www.bestcolleges.com/news/virginia-bans-legacy-college-admissions/) |
 | **Virginia** | Public Universities Only | 2024 | [UVA, Virginia Tech, William & Mary](https://uvamagazine.org/articles/new_law_bans_legacy_preferences) |
-| **Maryland** | All Public and Private Institutions | 2024 | [Johns Hopkins University](https://www.google.com/search?q=https://www.myivylink.com/blog/wesleyan-waves-goodbye-to-legacy-admissions%23:~:text%3DRecently%252C%2520Johns%2520Hopkins%252C%2520Amherst%252C,Legacy%2520into%2520their%2520admissions%2520process.) |
+| **Maryland** | All Public and Private Institutions | 2024 | [Johns Hopkins University](https://www.myivylink.com/blog/wesleyan-waves-goodbye-to-legacy-admissions%23:~:text%3DRecently%252C%2520Johns%2520Hopkins%252C%2520Amherst%252C,Legacy%2520into%2520their%2520admissions%2520process.) |
 | **Illinois** | Public Universities Only | 2024 | [University of Illinois Urbana-Champaign](https://www.steptoe.com/en/news-publications/california-becomes-fifth-state-to-ban-legacy-admissions.html) |
 | **California** | All Public and Private Institutions | September 2025 | [Stanford, USC, Santa Clara, Claremont Colleges](https://www.steptoe.com/en/news-publications/california-becomes-fifth-state-to-ban-legacy-admissions.html) |
 

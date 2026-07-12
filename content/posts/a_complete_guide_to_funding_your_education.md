@@ -125,7 +125,7 @@ Work-study earnings are paid directly to the student and are typically funded pa
 
 Many students work part-time in non-work-study jobs, either on or off campus, to help cover books, transportation, and living expenses. These [“for-purchase” aid options](https://pmc.ncbi.nlm.nih.gov/articles/PMC8805672/) do not require financial-need eligibility and can sometimes offer higher wages or more hours than work-study, though they may be less [flexible for e-learners](https://olj.onlinelearningconsortium.org/index.php/olj/article/download/1696/529) or those with heavy course loads.
 
-Balancing work and academics is critical: research shows that [class attendance and aid type](https://www.google.com/search?q=http://ocs.editorial.upv.es/index.php/HEAD/HEAd23/paper/download/16046/7912) significantly impact college performance. While modest work hours can support persistence, [excessive work hours](https://pmc.ncbi.nlm.nih.gov/articles/PMC8805672/) can interfere with coursework. Families should treat part-time work as a helpful supplement to reduce the need for borrowing.
+Balancing work and academics is critical: research shows that [class attendance and aid type](http://ocs.editorial.upv.es/index.php/HEAD/HEAd23/paper/download/16046/7912) significantly impact college performance. While modest work hours can support persistence, [excessive work hours](https://pmc.ncbi.nlm.nih.gov/articles/PMC8805672/) can interfere with coursework. Families should treat part-time work as a helpful supplement to reduce the need for borrowing.
 
 ### Employer Tuition Assistance
 
@@ -171,7 +171,7 @@ Unlike guaranteed federal benefits, [higher education bursaries and scholarships
 
 Popular media often paints scholarships as limitless “free money,” but the reality is more constrained. While the [community college transfer route](https://latinitasmagazine.org/why-going-the-community-college-transfer-student-route-is-worth-it/) is a proven way to save, counting solely on [CPA-level financial planning](https://www.semanticscholar.org/paper/51739e7a83415a1c443972e31726eff90b11b8c6) to find "hidden" scholarships can be risky.
 
-Research suggests it is often [not actually cheaper](https://www.google.com/search?q=https://tacc.org/sites/default/files/documents/2018-07/ccrc_really_cheaper_to_start_at_cc.pdf) to rely on scholarships alone without a foundational funding plan. Treating scholarships as the primary plan rather than a supplement can lead families to [underestimate the need for savings](https://www.semanticscholar.org/paper/51739e7a83415a1c443972e31726eff90b11b8c6) and realistic borrowing.
+Research suggests it is often [not actually cheaper](https://tacc.org/sites/default/files/documents/2018-07/ccrc_really_cheaper_to_start_at_cc.pdf) to rely on scholarships alone without a foundational funding plan. Treating scholarships as the primary plan rather than a supplement can lead families to [underestimate the need for savings](https://www.semanticscholar.org/paper/51739e7a83415a1c443972e31726eff90b11b8c6) and realistic borrowing.
 
 ### How Scholarships Fit into a Funding Plan
 

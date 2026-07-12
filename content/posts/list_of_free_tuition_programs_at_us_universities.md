@@ -426,7 +426,7 @@ The gap between "free tuition" and a "full ride" can be substantial, often rangi
 * **Eligible Degrees:** Associate of Arts in General Studies, Business, or Christian Ministry.
 * **Eligibility:** Must be a first-time freshman entering the fall after high school graduation.
 * **Key Limitations:** Private university tuition exceeds the state cap; students should expect out-of-pocket costs.
-* **Link:** [Trevecca Undergraduate Aid](https://www.google.com/search?q=https://www.trevecca.edu/admissions/undergraduate/financial-aid)
+* **Link:** [Trevecca Undergraduate Aid](https://www.trevecca.edu/admissions/undergraduate/financial-aid)
 
 ### Carson-Newman University
 

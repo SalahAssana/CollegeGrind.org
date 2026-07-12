@@ -62,7 +62,7 @@ Applicants face intense pressure to [stand out in a hyper-competitive landscape]
 
 #### **Why It Hurts Applications**
 
-When a student attempts to write what they believe colleges want to hear, they fall into herding behavior, producing essays that are [virtually indistinguishable from thousands of other submissions](https://mitadmissions.org/blogs/entry/how-to-write-a-college-essay/). Admissions officers read applications cover-to-cover and are highly skilled at [identifying disingenuous or manufactured voices](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). By presenting a sanitized, fictionalized character, the applicant misses their only opportunity to establish a [genuine, memorable connection with the reader](https://www.google.com/search?q=https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/).
+When a student attempts to write what they believe colleges want to hear, they fall into herding behavior, producing essays that are [virtually indistinguishable from thousands of other submissions](https://mitadmissions.org/blogs/entry/how-to-write-a-college-essay/). Admissions officers read applications cover-to-cover and are highly skilled at [identifying disingenuous or manufactured voices](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). By presenting a sanitized, fictionalized character, the applicant misses their only opportunity to establish a [genuine, memorable connection with the reader](https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/).
 
 #### **What Admissions Officers Say**
 
@@ -74,7 +74,7 @@ Similarly, the Yale admissions team warns against "playing the game" with an app
 
 #### **How to Avoid It**
 
-Applicants should imagine responding to the essay prompt in a casual setting—such as [explaining their thoughts to a family member in a comfortable environment, free from the pressure of judgment](https://mitadmissions.org/blogs/entry/how-to-write-a-college-essay/). Writing in one's natural voice, using the everyday vocabulary and phrasing one would use in a [meaningful conversation, ensures that the narrative remains authentic and distinct](https://www.google.com/search?q=https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/).
+Applicants should imagine responding to the essay prompt in a casual setting—such as [explaining their thoughts to a family member in a comfortable environment, free from the pressure of judgment](https://mitadmissions.org/blogs/entry/how-to-write-a-college-essay/). Writing in one's natural voice, using the everyday vocabulary and phrasing one would use in a [meaningful conversation, ensures that the narrative remains authentic and distinct](https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/).
 
 ### **2. Treating the Essay Like a Written Resume**
 
@@ -94,7 +94,7 @@ all while balancing my commitments as a varsity soccer athlete..."]
 
 #### **Why Students Make It**
 
-Students often believe that the essay is a platform to [prove their worthiness by showcasing their accomplishments](https://www.google.com/search?q=https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). Fearing that admissions officers will overlook their resume, they use the narrative space to reinforce their titles and achievements, assuming that [quantity of involvement equates to strength of character](https://college.harvard.edu/student-life/student-stories/application-tips-advice-hold-and-remember).
+Students often believe that the essay is a platform to [prove their worthiness by showcasing their accomplishments](https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). Fearing that admissions officers will overlook their resume, they use the narrative space to reinforce their titles and achievements, assuming that [quantity of involvement equates to strength of character](https://college.harvard.edu/student-life/student-stories/application-tips-advice-hold-and-remember).
 
 #### **Why It Hurts Applications**
 
@@ -253,7 +253,7 @@ Stephen King's writing advice is frequently cited by admissions officers on this
 
 #### **How to Avoid It**
 
-Applicants should write [their initial drafts quickly without consulting a dictionary or thesaurus](https://www.google.com/search?q=https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). Once completed, [the essay should be read aloud](https://www.google.com/search?q=https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). If any sentence sounds unnatural, stiff, or [uses a word the student would not naturally use in a serious conversation with a respected teacher, it should be simplified](https://www.google.com/search?q=https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). Nouns and active verbs should drive the narrative, [rather than flowery adjectives and adverbs](https://www.stetson.edu/administration/career/media/personal-statement-guide.pdf).
+Applicants should write [their initial drafts quickly without consulting a dictionary or thesaurus](https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). Once completed, [the essay should be read aloud](https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). If any sentence sounds unnatural, stiff, or [uses a word the student would not naturally use in a serious conversation with a respected teacher, it should be simplified](https://college.harvard.edu/student-life/student-stories/my-very-unofficial-tips-writing-your-college-essay/). Nouns and active verbs should drive the narrative, [rather than flowery adjectives and adverbs](https://www.stetson.edu/administration/career/media/personal-statement-guide.pdf).
 
 ### **8. Centering the Essay Around Other People**
 
@@ -337,7 +337,7 @@ If a student wishes to discuss an issue of social, political, or religious signi
 
 #### **What the Mistake Looks Like**
 
-This issue occurs when an essay is so heavily edited by a parent, private consultant, or generative AI tool that the [natural voice of the high school applicant is completely lost](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). The prose becomes [overly polished, sterile, and clinical](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). In the case of AI use, the text frequently includes [predictable structural transitions, repetitive vocabulary, and formulaic narrative arcs](https://www.google.com/search?q=https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
+This issue occurs when an essay is so heavily edited by a parent, private consultant, or generative AI tool that the [natural voice of the high school applicant is completely lost](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). The prose becomes [overly polished, sterile, and clinical](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). In the case of AI use, the text frequently includes [predictable structural transitions, repetitive vocabulary, and formulaic narrative arcs](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
 
 #### **Why Students Make It**
 
@@ -347,11 +347,11 @@ Under intense pressure to submit a perfect application, [students and parents tu
 
 Overediting and generative AI usage strip away the [authentic voice of the applicant, making the essay sound sterile and disconnected](https://mitadmissions.org/blogs/entry/advice_on_the_essay/).
 
-Admissions officers read thousands of essays and can [easily recognize when prose has been written or heavily modified by an adult or an algorithm](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). AI-generated essays, in particular, [are highly uniform](https://www.google.com/search?q=https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
+Admissions officers read thousands of essays and can [easily recognize when prose has been written or heavily modified by an adult or an algorithm](https://mitadmissions.org/blogs/entry/advice_on_the_essay/). AI-generated essays, in particular, [are highly uniform](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
 
-A landmark Cornell University study published in 2025 compared 30,000 human-written college application essays with [essays generated by eight popular LLMs](https://www.google.com/search?q=https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/). The researchers found that even when the models were prompted with specific personal details, they [produced highly repetitive, predictable text that repeated prompt keywords and relied on formulaic story structures](https://www.google.com/search?q=https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
+A landmark Cornell University study published in 2025 compared 30,000 human-written college application essays with [essays generated by eight popular LLMs](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/). The researchers found that even when the models were prompted with specific personal details, they [produced highly repetitive, predictable text that repeated prompt keywords and relied on formulaic story structures](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
 
-The study demonstrated that an AI detection model could differentiate between human and AI writing with near-perfect accuracy, warning that [relying on generative AI to draft essays can weaken an applicant's chances by diluting their unique voice](https://www.google.com/search?q=https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
+The study demonstrated that an AI detection model could differentiate between human and AI writing with near-perfect accuracy, warning that [relying on generative AI to draft essays can weaken an applicant's chances by diluting their unique voice](https://news.cornell.edu/stories/2025/09/ai-can-write-your-college-essay-it-wont-sound-you/).
 
 #### **What Admissions Officers Say**
 

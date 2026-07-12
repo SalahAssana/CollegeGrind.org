@@ -288,7 +288,7 @@ Once the evaluation is complete, students receive a formal **transfer credit rep
 
 -   **Credit Matching:** Verify that all expected courses appear and that their credit values (e.g., 3 vs. 4 semester hours) match your previous transcripts.    
 -   **Categorization Accuracy:** Check how each course is labeled. Is it a **direct equivalent** to a university course, a **general-education elective**, or merely a **general elective**?
--   **Alignment with Agreements:** Compare the report with the university’s published [transfer equivalency guides](https://www.google.com/search?q=https://admissions.txst.edu/future-students/transfer-credit-evaluation.html) or [statewide articulation agreements](https://catalog.valenciacollege.edu/articulationandtransferpathways/statewideagreements/).
+-   **Alignment with Agreements:** Compare the report with the university’s published [transfer equivalency guides](https://admissions.txst.edu/future-students/transfer-credit-evaluation.html) or [statewide articulation agreements](https://catalog.valenciacollege.edu/articulationandtransferpathways/statewideagreements/).
 
 #### The Appeal Process
 

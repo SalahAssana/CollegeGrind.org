@@ -204,31 +204,31 @@ This reference guide compiles a wide range of niche and identity-based scholarsh
 ### Jeannette Rankin National Scholar Grant
 
   - **Sponsoring Organization:** [Jeannette Rankin Foundation](https://rankinfoundation.org).
-  - **Award Amount:** Scholar Grants [up to 2,500 United States dollars](https://www.google.com/search?q=https://rankinfoundation.org/for-students/) annually, renewable for up to five years and disbursed directly to recipients as non-tuition support.
-  - **Eligibility Criteria:** [Women and nonbinary students age 35 or older](https://www.google.com/search?q=https://accessscholarships.com/scholarship/jeannette-rankin-women-scholarship-fund/) who are U.S. citizens or permanent residents, demonstrate financial need, and are pursuing technical or vocational education, associate’s degrees, or first bachelor’s degrees.
+  - **Award Amount:** Scholar Grants [up to 2,500 United States dollars](https://rankinfoundation.org/for-students/) annually, renewable for up to five years and disbursed directly to recipients as non-tuition support.
+  - **Eligibility Criteria:** [Women and nonbinary students age 35 or older](https://accessscholarships.com/scholarship/jeannette-rankin-women-scholarship-fund/) who are U.S. citizens or permanent residents, demonstrate financial need, and are pursuing technical or vocational education, associate’s degrees, or first bachelor’s degrees.
   - **Type of Scholarship:** Circumstance-based (adult learners with financial need), Demographic (women and nonbinary people).
-  - **Application Requirements (Brief):** [Online application](https://www.google.com/search?q=https://rankinfoundation.org/for-students/) including essay responses, income and enrollment documentation, recommendations, and transcripts; an eligibility survey and checklist guide applicants.
-  - **Competitiveness Level (Estimated):** [Competitive](https://www.google.com/search?q=https://rankinfoundation.org/our-impact/), with a limited number of grants relative to the high volume of adult learner applicants.
-  - **Key Notes:** Grants are [unrestricted non-tuition funds](https://www.google.com/search?q=https://rankinfoundation.org/for-students/), allowing recipients to cover living expenses; the five-year renewability is designed specifically to support the longer timelines of part-time and returning students.
+  - **Application Requirements (Brief):** [Online application](https://rankinfoundation.org/for-students/) including essay responses, income and enrollment documentation, recommendations, and transcripts; an eligibility survey and checklist guide applicants.
+  - **Competitiveness Level (Estimated):** [Competitive](https://rankinfoundation.org/our-impact/), with a limited number of grants relative to the high volume of adult learner applicants.
+  - **Key Notes:** Grants are [unrestricted non-tuition funds](https://rankinfoundation.org/for-students/), allowing recipients to cover living expenses; the five-year renewability is designed specifically to support the longer timelines of part-time and returning students.
 
 ### Foster Care to Success (FC2S) Scholarships
 
   - **Sponsoring Organization:** [Foster Care to Success](https://www.fc2success.org/our-programs/information-for-students/).
-  - **Award Amount:** Scholarships generally ranging from [1,500 to 6,000 United States dollars](https://www.google.com/search?q=https://www.scholarships.com/scholarships/foster-care-to-success-scholarships) per academic year, renewable for up to five years based on satisfactory progress.
+  - **Award Amount:** Scholarships generally ranging from [1,500 to 6,000 United States dollars](https://www.scholarships.com/scholarships/foster-care-to-success-scholarships) per academic year, renewable for up to five years based on satisfactory progress.
   - **Eligibility Criteria:** Young people [under age 25](https://www.fc2success.org/our-programs/information-for-students/) who spent at least 12 consecutive months in U.S. foster care leading up to their 18th birthday, or were adopted/placed into guardianship after age 16; must be enrolled in accredited [Pell-eligible programs](https://www.fc2success.org/our-programs/information-for-students/).
   - **Type of Scholarship:** Circumstance-based (foster care, adoption from care, or orphan status).
-  - **Application Requirements (Brief):** [Online application](https://www.fc2success.org/our-programs/information-for-students/), documentation of foster-care status, transcripts, and personal statements; the application window typically closes [annually in late March or early April](https://www.google.com/search?q=https://www.scholarships.com/scholarships/foster-care-to-success-scholarships).
+  - **Application Requirements (Brief):** [Online application](https://www.fc2success.org/our-programs/information-for-students/), documentation of foster-care status, transcripts, and personal statements; the application window typically closes [annually in late March or early April](https://www.scholarships.com/scholarships/foster-care-to-success-scholarships).
   - **Competitiveness Level (Estimated):** Competitive within the population of eligible current and former foster youth.
   - **Key Notes:** FC2S also manages [specifically sponsored scholarships](https://www.fc2success.org/our-programs/information-for-students/) with additional criteria such as specific majors or geographic locations; the organization provides [mentoring and care packages](https://www.fc2success.org/our-programs/information-for-students/) in addition to financial aid.
 
 ### Cancer for College Scholarships
 
   - **Sponsoring Organization:** [Cancer for College](https://cancerforcollege.org).
-  - **Award Amount:** One-time and recurring scholarships, often around [5,000 United States dollars](https://www.google.com/search?q=https://accessscholarships.com/scholarship/cancer-for-college-scholarship/) per year; the organization has awarded more than [2,000 scholarships](https://www.google.com/search?q=https://cancerforcollege.org/scholarships/) totaling about 8 million United States dollars to survivors.
-  - **Eligibility Criteria:** Current or [former cancer patients or survivors](https://www.google.com/search?q=https://cancerforcollege.org/scholarships/) who are U.S. citizens and planning to enroll at accredited four-year universities, community colleges, or graduate schools; some awards are [region-specific](https://www.google.com/search?q=https://cancerforcollege.org/scholarships/) (e.g., California or the Pacific Northwest).
+  - **Award Amount:** One-time and recurring scholarships, often around [5,000 United States dollars](https://accessscholarships.com/scholarship/cancer-for-college-scholarship/) per year; the organization has awarded more than [2,000 scholarships](https://cancerforcollege.org/scholarships/) totaling about 8 million United States dollars to survivors.
+  - **Eligibility Criteria:** Current or [former cancer patients or survivors](https://cancerforcollege.org/scholarships/) who are U.S. citizens and planning to enroll at accredited four-year universities, community colleges, or graduate schools; some awards are [region-specific](https://cancerforcollege.org/scholarships/) (e.g., California or the Pacific Northwest).
   - **Type of Scholarship:** Circumstance-based (serious illness: cancer survivorship).
-  - **Application Requirements (Brief):** [Online application](https://www.google.com/search?q=https://cancerforcollege.org/scholarships/) during an annual window (typically October through January 31st), documentation of cancer diagnosis, transcripts, financial information, and essays.
-  - **Competitiveness Level (Estimated):** [Highly competitive](https://www.google.com/search?q=https://cancerforcollege.org/scholarships/) among cancer survivors nationwide.
+  - **Application Requirements (Brief):** [Online application](https://cancerforcollege.org/scholarships/) during an annual window (typically October through January 31st), documentation of cancer diagnosis, transcripts, financial information, and essays.
+  - **Competitiveness Level (Estimated):** [Highly competitive](https://cancerforcollege.org/scholarships/) among cancer survivors nationwide.
   - **Key Notes:** Beyond tuition, the organization offers [mentorship, medical debt relief, and networking](https://cancerforcollege.org) opportunities; it was founded by a two-time cancer survivor to help others overcome the financial burden of the disease.
 
 ### Horatio Alger Association Undergraduate Scholarships

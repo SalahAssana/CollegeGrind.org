@@ -74,7 +74,7 @@ Pell Grants are primarily for [undergraduate students](https://en.wikipedia.org/
 
 There is no single income cutoff that guarantees Pell Grant eligibility or automatically disqualifies you.
 
-Instead, the [FAFSA formula](https://www.google.com/search?q=https://www.ncan.org/news/642537/Breaking-Down-the-2024-2025-Pell-Look-Up-Tables.htm) looks at income together with family size, dependency status, and other details to calculate your SAI and decide whether you qualify. This means that two families with the same income but different numbers of children or different financial circumstances could end up with different Pell outcomes.
+Instead, the [FAFSA formula](https://www.ncan.org/news/642537/Breaking-Down-the-2024-2025-Pell-Look-Up-Tables.htm) looks at income together with family size, dependency status, and other details to calculate your SAI and decide whether you qualify. This means that two families with the same income but different numbers of children or different financial circumstances could end up with different Pell outcomes.
 
 Pell Grants are most common among students from low‑ and lower‑middle‑income families, but some students from [more moderate‑income households](https://financialaid.sfsu.edu/2024-2025-fafsa-changes) may still qualify—especially if they have several siblings, live in higher‑cost states, or have other factors affecting their financial need.
 
@@ -128,7 +128,7 @@ The Pell Grant is powerful, but it [rarely covers the full cost of attendance](h
 
 ### “Only Very Low‑Income Students Qualify.”
 
-Pell is strongly targeted toward students with significant financial need, but eligibility is not limited to only the very lowest‑income families. Because the [SAI formula](https://www.google.com/search?q=https://www.ncan.org/news/642537/Breaking-Down-the-2024-2025-Pell-Look-Up-Tables.htm) considers family size, dependency status, and other factors, some students from [moderate‑income households](https://financialaid.sfsu.edu/2024-2025-fafsa-changes) may still qualify—especially if they come from larger families or states with higher costs of living. The only reliable way to know is to submit the FAFSA and review your results.
+Pell is strongly targeted toward students with significant financial need, but eligibility is not limited to only the very lowest‑income families. Because the [SAI formula](https://www.ncan.org/news/642537/Breaking-Down-the-2024-2025-Pell-Look-Up-Tables.htm) considers family size, dependency status, and other factors, some students from [moderate‑income households](https://financialaid.sfsu.edu/2024-2025-fafsa-changes) may still qualify—especially if they come from larger families or states with higher costs of living. The only reliable way to know is to submit the FAFSA and review your results.
 
 ### “You Have to Pay the Pell Grant Back.”
 

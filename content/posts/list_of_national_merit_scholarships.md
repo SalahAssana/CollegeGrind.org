@@ -231,30 +231,30 @@ Because institutional offerings change frequently and some programs have limited
 
 ### University of Oklahoma (OU) – Norman, Oklahoma
 
-  - **Scholarship name:** [National Merit Finalist Package](https://www.google.com/search?q=https://www.ou.edu/admissions/affordability/scholarships%23national-merit) (resident and non‑resident variants).
+  - **Scholarship name:** [National Merit Finalist Package](https://www.ou.edu/admissions/affordability/scholarships%23national-merit) (resident and non‑resident variants).
   - **Award value (non‑resident example):**
-      - OU outlines a [National Merit Finalist package valued at approximately 132,900 USD](https://www.google.com/search?q=https://www.ou.edu/admissions/affordability/scholarships/national-merit/non-resident-finalist) over five years, including an **87,900 USD non‑resident tuition waiver** (covering 100% of the non-resident portion).
-      - Package includes a **6,000 USD first‑year housing scholarship** and a multi‑year **National Merit cash stipend**; [residents receive a partial resident‑tuition waiver](https://www.google.com/search?q=https://www.ou.edu/admissions/affordability/scholarships/national-merit/resident-finalist) of 2,000 USD per year (10,000 USD total).
-  - **Additional benefits:** Remaining tuition waiver [can be applied toward OU graduate or professional programs](https://www.google.com/search?q=https://www.ou.edu/admissions/affordability/scholarships/national-merit) if funds remain after undergraduate completion, provided the student is admitted to a graduate program.
-  - **Eligibility:** [National Merit Semifinalists](https://www.google.com/search?q=https://www.ou.edu/admissions/affordability/scholarships/national-merit) with at least 3.5 GPA may initially receive a Semifinalist scholarship; students who advance to Finalist status and list [OU as first choice by April 30](https://www.google.com/search?q=https://www.ou.edu/admissions/affordability/scholarships/national-merit) are upgraded to the Finalist package.
-  - **Restrictions/notes:** OU explicitly notes the [package does not cover the full cost of attendance](https://www.google.com/search?q=https://www.ou.edu/admissions/affordability/scholarships/national-merit); students may stack outside scholarships, but total aid cannot exceed COA. Consistent GPA and credit‑hour requirements apply for renewal.
+      - OU outlines a [National Merit Finalist package valued at approximately 132,900 USD](https://www.ou.edu/admissions/affordability/scholarships/national-merit/non-resident-finalist) over five years, including an **87,900 USD non‑resident tuition waiver** (covering 100% of the non-resident portion).
+      - Package includes a **6,000 USD first‑year housing scholarship** and a multi‑year **National Merit cash stipend**; [residents receive a partial resident‑tuition waiver](https://www.ou.edu/admissions/affordability/scholarships/national-merit/resident-finalist) of 2,000 USD per year (10,000 USD total).
+  - **Additional benefits:** Remaining tuition waiver [can be applied toward OU graduate or professional programs](https://www.ou.edu/admissions/affordability/scholarships/national-merit) if funds remain after undergraduate completion, provided the student is admitted to a graduate program.
+  - **Eligibility:** [National Merit Semifinalists](https://www.ou.edu/admissions/affordability/scholarships/national-merit) with at least 3.5 GPA may initially receive a Semifinalist scholarship; students who advance to Finalist status and list [OU as first choice by April 30](https://www.ou.edu/admissions/affordability/scholarships/national-merit) are upgraded to the Finalist package.
+  - **Restrictions/notes:** OU explicitly notes the [package does not cover the full cost of attendance](https://www.ou.edu/admissions/affordability/scholarships/national-merit); students may stack outside scholarships, but total aid cannot exceed COA. Consistent GPA and credit‑hour requirements apply for renewal.
 
 ### Brigham Young University (BYU) – Provo, Utah
 
   - **Scholarship name:** [BYU‑sponsored National Merit Scholarship](https://www.bachelorsportal.com/scholarships/5141/national-merit-scholarship.html); Presidential Scholarship with National Merit recognition.
   - **Award value (BYU‑sponsored National Merit):**
-      - Pays [full Latter‑day Saint tuition](https://www.google.com/search?q=https://enrollment.byu.edu/financial-aid/national-merit-scholarship) for up to eight semesters; the 500 USD basic National Merit stipend is [folded into the full‑tuition award](https://www.google.com/search?q=https://enrollment.byu.edu/financial-aid/national-merit-scholarship) rather than paid as an extra cash stipend.
+      - Pays [full Latter‑day Saint tuition](https://enrollment.byu.edu/financial-aid/national-merit-scholarship) for up to eight semesters; the 500 USD basic National Merit stipend is [folded into the full‑tuition award](https://enrollment.byu.edu/financial-aid/national-merit-scholarship) rather than paid as an extra cash stipend.
   - **Award value (Presidential Scholarship with NM recognition):**
-      - Presidential Scholarship covers [150% of Latter‑day Saint tuition](https://www.google.com/search?q=https://enrollment.byu.edu/financial-aid/freshman-scholarships) for up to eight semesters and incorporates the 500 USD NM stipend.
+      - Presidential Scholarship covers [150% of Latter‑day Saint tuition](https://enrollment.byu.edu/financial-aid/freshman-scholarships) for up to eight semesters and incorporates the 500 USD NM stipend.
   - **Additional benefits:**
       - NM recipients may see their Heritage Scholarship replaced by the BYU National Merit Scholarship.
       - Students can [defer their scholarship for a mission](https://enrollment.byu.edu/financial-aid/mission-deferments-for-scholarships) by completing the Mission Deferment form; scholarships are reactivated upon return.
   - **Eligibility:**
-      - National Merit Finalists who list [BYU as their first‑choice school](https://www.google.com/search?q=https://enrollment.byu.edu/financial-aid/national-merit-scholarship) and qualify for a Russell M. Nelson or Heritage Scholarship.
+      - National Merit Finalists who list [BYU as their first‑choice school](https://enrollment.byu.edu/financial-aid/national-merit-scholarship) and qualify for a Russell M. Nelson or Heritage Scholarship.
       - Must maintain a [3.7 cumulative GPA](https://byu2.my.site.com/s/article/What-GPA-do-I-need-to-maintain-my-scholarship) for renewal (for awards started fall 2024 or later).
   - **Restrictions/notes:**
       - Awards are tied to [“Latter‑day Saint tuition”](https://catalog.byu.edu/policy/tuition-and-fees) ($3,444 per semester for 2025–2026); non‑LDS students are charged double ($6,888), meaning the scholarship may not cover the full cost for non‑members.
-      - BYU evaluates the NMSC list and selects students for sponsorship; it is [not guaranteed](https://www.google.com/search?q=https://enrollment.byu.edu/financial-aid/national-merit-scholarship) for all Finalists.
+      - BYU evaluates the NMSC list and selects students for sponsorship; it is [not guaranteed](https://enrollment.byu.edu/financial-aid/national-merit-scholarship) for all Finalists.
 
 ***
 
@@ -315,7 +315,7 @@ Because institutional offerings change frequently and some programs have limited
   - **Award value:**
       - Up to **2,500 USD per year**, renewable for up to four years. This amount is designed to offset tuition costs specifically at smaller branch locations, where tuition rates are significantly lower than the UNM main campus.
   - **Additional benefits:**
-      - Recipients at branch campuses may also qualify for the [**Legislative Lottery Scholarship**](https://www.google.com/search?q=https://scholarship.unm.edu/scholarships/legislative-lottery.html) starting their second semester, which covers a significant portion of tuition and fees (approximately 4,294 USD per semester for the 2026 academic year).
+      - Recipients at branch campuses may also qualify for the [**Legislative Lottery Scholarship**](https://scholarship.unm.edu/scholarships/legislative-lottery.html) starting their second semester, which covers a significant portion of tuition and fees (approximately 4,294 USD per semester for the 2026 academic year).
       - Can be combined with [**Opportunity Scholarships**](https://scholarship.unm.edu) and other local donor-funded awards.
   - **Eligibility:**
       - Must be a **National Merit Finalist** who designates the specific branch campus (Taos, Los Alamos, or Valencia) as their **first-choice institution** with the NMSC.

@@ -316,11 +316,11 @@ Misinformation about college admissions often leads to unnecessary stress and st
 
 
 * **Myth: "Without a 3.9+ GPA, you won't get in or get scholarships."**
-* *The Reality:* Because grading scales and weighting systems vary widely across different high schools, colleges do not look at GPA as a single, static number. Admissions committees use a holistic review process, evaluating course rigor, grade trends, and local context alongside the raw GPA to understand [how a student challenges themselves within their school's environment](https://www.google.com/search?q=https://www.collegeessayguy.com/blog/holistic-college-admissions).
+* *The Reality:* Because grading scales and weighting systems vary widely across different high schools, colleges do not look at GPA as a single, static number. Admissions committees use a holistic review process, evaluating course rigor, grade trends, and local context alongside the raw GPA to understand [how a student challenges themselves within their school's environment](https://www.collegeessayguy.com/blog/holistic-college-admissions).
 
 
 * **Myth: "You must know your major before you apply."**
-* *The Reality:* Most colleges do not require students to declare a major until the end of their sophomore year. While expressing academic interests in essays can show direction, [applying as an "undecided" or exploratory student](https://www.google.com/search?q=https://www.collegatranscripts.com/blog/applying-to-college-undecided) is incredibly common and does not hurt your chances of admission at most comprehensive universities.
+* *The Reality:* Most colleges do not require students to declare a major until the end of their sophomore year. While expressing academic interests in essays can show direction, [applying as an "undecided" or exploratory student](https://www.collegatranscripts.com/blog/applying-to-college-undecided) is incredibly common and does not hurt your chances of admission at most comprehensive universities.
 
 
 * **Myth: "Expensive summer programs are required to stand out."**
@@ -328,7 +328,7 @@ Misinformation about college admissions often leads to unnecessary stress and st
 
 
 * **Myth: "A single bad grade ruins your chances."**
-* *The Reality:* Admissions committees deeply value growth and resilience. A transcript showing an upward trend—where a student overcomes early academic challenges and improves their grades in later years—is often [viewed highly favorably by admissions officers](https://www.google.com/search?q=https%3A%2F%2Fwww.ontocollege.com%2Fcollege-application-myths%2F) because it demonstrates maturity and academic readiness.
+* *The Reality:* Admissions committees deeply value growth and resilience. A transcript showing an upward trend—where a student overcomes early academic challenges and improves their grades in later years—is often [viewed highly favorably by admissions officers](https%3A%2F%2Fwww.ontocollege.com%2Fcollege-application-myths%2F) because it demonstrates maturity and academic readiness.
 
 ## **Grade-By-Grade Checklist Summary**
 

@@ -291,14 +291,14 @@ High-achieving students increasingly seek colleges that deliver both exceptional
     The UTC Honors College offers two primary pathways: the **Brock Scholars Program** (a four-year, cohort-based experience) and the **Innovations in Honors** program (a flexible, problem-solving-oriented track for incoming freshmen and transfer students).
   - **Key Scholarships / Financial Benefits**  
       - **Brock Scholars:** Receive the William E. Brock Jr. Scholarship, which is renewable for eight semesters.
-      - **Innovations in Honors:** While not receiving the Brock-specific award, students in this track are eligible for other [Honors College-specific scholarships](https://www.google.com/search?q=https://www.utc.edu/honors-college/innovations-in-honors) and general university merit awards.
+      - **Innovations in Honors:** While not receiving the Brock-specific award, students in this track are eligible for other [Honors College-specific scholarships](https://www.utc.edu/honors-college/innovations-in-honors) and general university merit awards.
       - **Nonresident Tuition Waiver:** A significant perk for out-of-state students in the Honors College is a [waiver of out-of-state tuition fees](https://www.utc.edu/honors-college/future-students/benefits-and-requirements), allowing high-achieving non-residents to attend at or near the in-state rate.
   - **Additional Financial Perks**  
-    All Honors College students can apply for [annual cultural stipends](https://www.google.com/search?q=https://www.utc.edu/honors-college/about-us) and travel grants to support study abroad, conference attendance, and professional development.
+    All Honors College students can apply for [annual cultural stipends](https://www.utc.edu/honors-college/about-us) and travel grants to support study abroad, conference attendance, and professional development.
   - **Academic Benefits**  
     Both pathways provide [priority course registration](https://www.utc.edu/honors-college/future-students/benefits-and-requirements), specialized honors advising, and access to small, discussion-based seminars.
   - **Eligibility / Admission Type**  
-    Admission to both programs requires a [separate application](https://www.google.com/search?q=https://www.utc.edu/honors-college/future-students/application-process) in addition to the general UTC application. Innovations in Honors specifically targets students who demonstrate high academic achievement and a commitment to experiential learning.
+    Admission to both programs requires a [separate application](https://www.utc.edu/honors-college/future-students/application-process) in addition to the general UTC application. Innovations in Honors specifically targets students who demonstrate high academic achievement and a commitment to experiential learning.
   - **Key Notes**  
     The [guaranteed out-of-state waiver](https://www.utc.edu/honors-college) makes UTC an exceptionally high-value target for out-of-state students, effectively combining a private-college experience with public-university pricing.
 
@@ -360,7 +360,7 @@ High-achieving students increasingly seek colleges that deliver both exceptional
       - **Honors Housing:** Primarily located in [Landis Hall](https://www.hercampus.com/school/fsu/a-guide-to-the-fsu-honors-program/), a premier dorm on Landis Green, with overflow often directed to Jennie Murphree Hall.
   - **Eligibility / Admission Type**  
       - **Incoming Freshmen:** Requires a [supplemental application](https://www.hercampus.com/school/fsu/a-guide-to-the-fsu-honors-program/) alongside the FSU admissions process.
-      - **Lateral Admission:** Current FSU students can [apply after their first semester](https://www.google.com/search?q=https://honors.fsu.edu/university-honors/admissions/lateral-admission) if they have maintained a high GPA (typically 3.75+).
+      - **Lateral Admission:** Current FSU students can [apply after their first semester](https://honors.fsu.edu/university-honors/admissions/lateral-admission) if they have maintained a high GPA (typically 3.75+).
   - **Key Notes**  
     FSU is the only program in Florida with [dedicated faculty](https://news.fsu.edu/news/university-news/2026/01/28/florida-state-universitys-honors-program-named-no-1-honors-program-in-florida/) who exclusively design and teach honors courses, ensuring that even non-Presidential Scholars receive a highly personalized academic experience.
 

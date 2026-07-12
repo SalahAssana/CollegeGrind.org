@@ -311,15 +311,15 @@ For students targeting highly competitive, capacity-constrained programs (Comput
 
 To navigate this gap:
 
-* **Divide and Conquer:** The list should include both "admit-by-major" schools (like CMU or UIUC) and "university-first" schools, an application layout strategy broken down by [Oriel Admissions](https://www.google.com/search?q=https%3A%2F%2Forieladmissions.com%2Fbest-colleges-for-computer-science%2F). At university-first institutions (such as MIT, Stanford, Harvard, or Princeton), students are admitted to the college as a whole and can declare their major later without facing direct-admit departmental caps.
-* **Adjacent Major Strategy:** If a student has interdisciplinary interests, they can consider applying under an adjacent, less competitive major (e.g., Data Science instead of CS, Applied Mathematics instead of Engineering, or Economics instead of Finance), as outlined in [Oriel Admissions' data on college acceptance rates by major](https://www.google.com/search?q=https%3A%2F%2Forieladmissions.com%2Fcollege-acceptance-rates-by-major%2F). This approach is only viable at institutions that allow internal transfers, and it must be backed by a genuine, authentic narrative in the student's essays.
+* **Divide and Conquer:** The list should include both "admit-by-major" schools (like CMU or UIUC) and "university-first" schools, an application layout strategy broken down by [Oriel Admissions](https%3A%2F%2Forieladmissions.com%2Fbest-colleges-for-computer-science%2F). At university-first institutions (such as MIT, Stanford, Harvard, or Princeton), students are admitted to the college as a whole and can declare their major later without facing direct-admit departmental caps.
+* **Adjacent Major Strategy:** If a student has interdisciplinary interests, they can consider applying under an adjacent, less competitive major (e.g., Data Science instead of CS, Applied Mathematics instead of Engineering, or Economics instead of Finance), as outlined in [Oriel Admissions' data on college acceptance rates by major](https%3A%2F%2Forieladmissions.com%2Fcollege-acceptance-rates-by-major%2F). This approach is only viable at institutions that allow internal transfers, and it must be backed by a genuine, authentic narrative in the student's essays.
 
 ### **Transfer Students and Specialized Applicants**
 
 For transfer students, athletic recruits, or honors applicants, list construction must account for unique institutional dynamics:
 
 * **Transfer Portability:** Transfer students must check the average acceptance rates for transfer cohorts, which are often different from first-year rates. They should also request a preliminary transcript evaluation to ensure their earned credits will transfer.
-* **Athletic Recruit Timelines:** Student-athletes targeting NCAA Division I or II programs must build their list in close communication with coaching staffs and ensure they meet academic eligibility requirements early, as scheduled in standard [College Counseling Manual guidance](https://www.google.com/search?q=https%3A%2F%2Fresources.finalsite.net%2Fimages%2Fv1685026633%2Foxbridge%2Fqj0dcw72l2kokfufkgbt%2FASCManual2023-2024.pdf).
+* **Athletic Recruit Timelines:** Student-athletes targeting NCAA Division I or II programs must build their list in close communication with coaching staffs and ensure they meet academic eligibility requirements early, as scheduled in standard [College Counseling Manual guidance](https%3A%2F%2Fresources.finalsite.net%2Fimages%2Fv1685026633%2Foxbridge%2Fqj0dcw72l2kokfufkgbt%2FASCManual2023-2024.pdf).
 
 ## **Comprehensive Strategic Q&A**
 

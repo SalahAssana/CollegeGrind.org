@@ -66,7 +66,7 @@ To illustrate how admissions offices evaluate rigor in context, consider three h
 
 ### **Counselor Rigor Ratings**
 
-On the Common Application Secondary School Report, school counselors must rate a student’s academic rigor in comparison to other college-preparatory students in their graduating class. Counselors also provide [comparative ratings across academic achievement, extracurriculars, and character](https://www.google.com/search?q=https://www.principiaeducation.com/blog/admissions-deep-dive-how-do-counselor-recommendations).
+On the Common Application Secondary School Report, school counselors must rate a student’s academic rigor in comparison to other college-preparatory students in their graduating class. Counselors also provide [comparative ratings across academic achievement, extracurriculars, and character](https://www.principiaeducation.com/blog/admissions-deep-dive-how-do-counselor-recommendations).
 
 | Counselor Rigor Rating | Comparative Description | Standard Selective College Perception |
 | --- | --- | --- |
@@ -114,14 +114,14 @@ Developed in Europe, the IB Diploma Programme is a [highly integrated, interdisc
 
 ### **Dual Enrollment**
 
-Dual enrollment partnerships allow high school students to [take actual college courses through local community colleges or state universities](https://www.google.com/search?q=https%3A%2F%2Fwww.methodlearning.com%2Fblog%2Fbuilding-a-competitive-edge-how-colleges-view-rigor-class-schedules), earning both high school and college credit.
+Dual enrollment partnerships allow high school students to [take actual college courses through local community colleges or state universities](https%3A%2F%2Fwww.methodlearning.com%2Fblog%2Fbuilding-a-competitive-edge-how-colleges-view-rigor-class-schedules), earning both high school and college credit.
 
 * **Strengths:** Unlike AP or IB, college credit is determined by continuous performance throughout a semester rather than a single standardized exam. It introduces students to [realistic college lecture and syllabus structures](https://www.fineeducationalsolutions.com/blog-post/ap-vs-ib-vs-dual-enrollment-how-to-balance-high-school-rigor-while-promoting-student-well-being).
-* **Weaknesses:** Dual enrollment programs lack national standardization. An "A" in a dual enrollment chemistry class at one local community college [may not represent the same academic rigor as an "A" in an AP chemistry class](https://www.google.com/search?q=https%3A%2F%2Ftalk.collegeconfidential.com%2Ft%2Fperceived-rigor-of-duel-enrollment-vs-ap-classes%2F3605281), making highly selective universities hesitant to value it over standardized programs.
+* **Weaknesses:** Dual enrollment programs lack national standardization. An "A" in a dual enrollment chemistry class at one local community college [may not represent the same academic rigor as an "A" in an AP chemistry class](https%3A%2F%2Ftalk.collegeconfidential.com%2Ft%2Fperceived-rigor-of-duel-enrollment-vs-ap-classes%2F3605281), making highly selective universities hesitant to value it over standardized programs.
 
 ### **Other Advanced Options**
 
-* **Cambridge AICE:** Developed by the University of Cambridge, this program leads to an Advanced International Certificate of Education (AICE) Diploma via Advanced Subsidiary (AS) and Advanced Level (A-Level) examinations. It focuses on analytical reasoning and global context. While heavily concentrated in specific states like Florida, it is [highly respected by admissions officers nationwide](https://www.google.com/search?q=https%3A%2F%2Ffiles.eric.ed.gov%2Ffulltext%2FEJ962510.pdf).
+* **Cambridge AICE:** Developed by the University of Cambridge, this program leads to an Advanced International Certificate of Education (AICE) Diploma via Advanced Subsidiary (AS) and Advanced Level (A-Level) examinations. It focuses on analytical reasoning and global context. While heavily concentrated in specific states like Florida, it is [highly respected by admissions officers nationwide](https%3A%2F%2Ffiles.eric.ed.gov%2Ffulltext%2FEJ962510.pdf).
 * **Advanced Electives/Magnet Coursework:** Some specialized STEM or arts magnet schools offer advanced coursework that exceeds AP levels, such as Multivariable Calculus, Linear Algebra, Organic Chemistry, or specialized thesis seminars.
 * **Career and Technical Education (CTE) Pathways:** These applied programs focus on rigorous, hands-on learning in fields like engineering, computer science, and healthcare, allowing students to develop technical skills alongside core academics.
 
@@ -140,7 +140,7 @@ The table below outlines how these three major options compare across critical a
 
 ### **Navigating Program Choices Based on Goals**
 
-* **The Specialized STEM Student:** A student who wants to focus heavily on mathematics and engineering often prefers the AP path. This allows them to [load up on AP Calculus BC, AP Physics C, and AP Chemistry](https://www.google.com/search?q=https%3A%2F%2Friseglobaleducation.com%2Fblogs%2Fhow-to-build-an-academically-rigorous-high-school-profile-that-opens-doors) without being forced to take advanced foreign languages or history classes required by the IB Diploma.
+* **The Specialized STEM Student:** A student who wants to focus heavily on mathematics and engineering often prefers the AP path. This allows them to [load up on AP Calculus BC, AP Physics C, and AP Chemistry](https%3A%2F%2Friseglobaleducation.com%2Fblogs%2Fhow-to-build-an-academically-rigorous-high-school-profile-that-opens-doors) without being forced to take advanced foreign languages or history classes required by the IB Diploma.
 * **The Interdisciplinary Writer:** A student with broad interests who excels in writing, research, and collaborative project-based learning is an [ideal candidate for the full IB Diploma](https://www.fineeducationalsolutions.com/blog-post/ap-vs-ib-vs-dual-enrollment-how-to-balance-high-school-rigor-while-promoting-student-well-being).
 * **The Practical State-College Bound Student:** A student who aims to attend a public flagship or in-state university and prefers a continuous grading format over high-stakes, single-day standardized exams will find [dual enrollment to be an efficient, cost-effective path](https://www.fineeducationalsolutions.com/blog-post/ap-vs-ib-vs-dual-enrollment-how-to-balance-high-school-rigor-while-promoting-student-well-being).
 * **Regional Differences:** In certain states, dual enrollment is highly integrated and [carries identical weight to AP](https://talk.collegeconfidential.com/t/perceived-rigor-of-duel-enrollment-vs-ap-classes/3605281) in state university admissions index calculations. In other regions, [AP and IB remain the dominant academic currencies](https://greatcollegeadvice.com/blog/ap-ib-and-dual-enrollment-or-pseo-an-analysis/).
@@ -322,7 +322,7 @@ To demonstrate how these strategies apply in practice, the following profiles sh
 * *Sophomore:* Standard English, Geometry, Chemistry, US History, Spanish II.
 * *Junior:* Honors English, Algebra II, Physics, AP US History (1 AP to show drive), Spanish III.
 * *Senior:* [English IV (Dual Enrollment)](https://www.methodlearning.com/blog/building-a-competitive-edge-how-colleges-view-rigor-class-schedules), Pre-Calculus, Environmental Science, Government/Economics.
-* *Admissions Evaluation:* Highly competitive; admissions officers will respect the student's drive to challenge themselves while [managing significant personal responsibilities](https://www.google.com/search?q=https%3A%2F%2Fmitadmissions.org%2Fblogs%2Fentry%2Fturning-the-tide%2F).
+* *Admissions Evaluation:* Highly competitive; admissions officers will respect the student's drive to challenge themselves while [managing significant personal responsibilities](https%3A%2F%2Fmitadmissions.org%2Fblogs%2Fentry%2Fturning-the-tide%2F).
 
 ## **Frequently Asked Questions**
 

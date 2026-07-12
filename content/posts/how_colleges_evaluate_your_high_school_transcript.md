@@ -164,7 +164,7 @@ Rigor must also align with the student's intended field of study. A student appl
 
 ## **How Colleges Evaluate Grades**
 
-Because high schools across the country use highly diverse grading systems, admissions offices cannot directly compare raw GPAs. A cumulative weighted GPA of 4.5 at a school utilizing a 6.0 scale might actually represent a weaker academic profile than an unweighted 3.8 GPA at a school with a strict 4.0 scale. To resolve these discrepancies, many universities engage in [recalculating high school GPAs](https://www.google.com/search?q=https://www.road2college.com/recalculating-gpa-how-its-done/).
+Because high schools across the country use highly diverse grading systems, admissions offices cannot directly compare raw GPAs. A cumulative weighted GPA of 4.5 at a school utilizing a 6.0 scale might actually represent a weaker academic profile than an unweighted 3.8 GPA at a school with a strict 4.0 scale. To resolve these discrepancies, many universities engage in [recalculating high school GPAs](https://www.road2college.com/recalculating-gpa-how-its-done/).
 
 ### **The Mathematics of GPA Recalculation**
 

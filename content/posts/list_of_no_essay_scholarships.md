@@ -293,14 +293,14 @@ There are [several drawbacks to no-essay scholarships](https://collegegrind.org/
 
 ### Bold.org No‑Essay Top Friend Scholarship (5,000 Dollars)
 
-  - **Sponsoring organization / platform:** [Bold.org](https://www.google.com/search?q=https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/).
+  - **Sponsoring organization / platform:** [Bold.org](https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/).
   - **Award amount:** 5,000 dollars to one winner.
-  - **Frequency:** Annual award with [rolling monthly application deadlines](https://www.google.com/search?q=https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/); the current application deadline is April 30, 2026, with the winner announced on December 1, 2026.
-  - **Eligibility criteria:** Open to students at [any education level](https://www.google.com/search?q=https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/), school, field of study, or GPA. This scholarship is specifically geared toward applicants who were invited by friends to join the Bold.org platform.
-  - **Application requirements:** Create a free Bold.org profile; no essay is required. The award is given to the student with the [“boldest” profile](https://www.google.com/search?q=https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/) among those who joined via a referral.
+  - **Frequency:** Annual award with [rolling monthly application deadlines](https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/); the current application deadline is April 30, 2026, with the winner announced on December 1, 2026.
+  - **Eligibility criteria:** Open to students at [any education level](https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/), school, field of study, or GPA. This scholarship is specifically geared toward applicants who were invited by friends to join the Bold.org platform.
+  - **Application requirements:** Create a free Bold.org profile; no essay is required. The award is given to the student with the [“boldest” profile](https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/) among those who joined via a referral.
   - **Application frequency:** One entry per eligible profile per scholarship cycle.
-  - **Entry method:** Online through the [official Bold.org scholarship page](https://www.google.com/search?q=https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/).
-  - **Key notes:** This award reinforces [Bold.org’s referral system](https://www.google.com/search?q=https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/) by rewarding the engagement of new community members. Like other "easy" scholarships on the platform, it prioritizes a complete and proactive profile over traditional written requirements.
+  - **Entry method:** Online through the [official Bold.org scholarship page](https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/).
+  - **Key notes:** This award reinforces [Bold.org’s referral system](https://bold.org/scholarships/bold-org-no-essay-top-friend-scholarship/) by rewarding the engagement of new community members. Like other "easy" scholarships on the platform, it prioritizes a complete and proactive profile over traditional written requirements.
 
 ### Best Faith‑Based Colleges No‑Essay Scholarship (1,000 Dollars)
 - **Sponsoring organization / platform:** [Bold.org](https://bold.org/scholarships/best-faith-based-colleges-no-essay-scholarship/).
@@ -344,26 +344,26 @@ There are [several drawbacks to no-essay scholarships](https://collegegrind.org/
 
 ### Survey‑Linked No‑Essay Scholarships on Bold.org (Survey Junkie, Nielsen, Survey Rewards)
 
-  - **Sponsoring organizations / platforms:** [Bold.org](https://bold.org/scholarships/by-type/easy-scholarships/) in partnership with [Survey Junkie](https://bold.org/scholarships/survey-junkie-brand-influencer-no-essay-scholarship/), [Nielsen](https://www.google.com/search?q=https://bold.org/scholarships/nielsen-rewards-no-essay-scholarship/), and [Survey Rewards](https://www.google.com/search?q=https://bold.org/scholarships/survey-rewards-no-essay-scholarship/).
+  - **Sponsoring organizations / platforms:** [Bold.org](https://bold.org/scholarships/by-type/easy-scholarships/) in partnership with [Survey Junkie](https://bold.org/scholarships/survey-junkie-brand-influencer-no-essay-scholarship/), [Nielsen](https://bold.org/scholarships/nielsen-rewards-no-essay-scholarship/), and [Survey Rewards](https://bold.org/scholarships/survey-rewards-no-essay-scholarship/).
   - **Award amounts:** Generally 500 to 1,000 dollars per scholarship (e.g., 1,000 dollars each for the Survey Junkie and Nielsen awards; 500 dollars for the Survey Rewards scholarship).
   - **Frequency:** Annual awards with [rolling monthly application deadlines](https://bold.org/scholarships/survey-junkie-brand-influencer-no-essay-scholarship/). The current final deadline is April 30, 2026, with winners announced on December 1, 2026.
-  - **Eligibility criteria:** Open to students at [any education level](https://www.google.com/search?q=https://bold.org/scholarships/nielsen-rewards-no-essay-scholarship/), school, field of study, or GPA.
-  - **Application requirements:** Create a free Bold.org profile; no essay is required. These scholarships are specifically geared toward students who are interested in [sharing their opinions](https://www.google.com/search?q=https://bold.org/scholarships/survey-rewards-no-essay-scholarship/) on brands, products, and services to earn rewards.
+  - **Eligibility criteria:** Open to students at [any education level](https://bold.org/scholarships/nielsen-rewards-no-essay-scholarship/), school, field of study, or GPA.
+  - **Application requirements:** Create a free Bold.org profile; no essay is required. These scholarships are specifically geared toward students who are interested in [sharing their opinions](https://bold.org/scholarships/survey-rewards-no-essay-scholarship/) on brands, products, and services to earn rewards.
   - **Application frequency:** One entry per scholarship per student per cycle; [early application](https://bold.org/scholarships/survey-junkie-brand-influencer-no-essay-scholarship/) is encouraged.
   - **Entry method:** Online through the specific [Bold.org scholarship listings](https://bold.org/scholarships/by-type/easy-scholarships/) for each partner.
-  - **Key notes:** These opportunities function as quick, no-essay promotions that connect students with market research brands. Winners are selected based on the [“boldness” of their profile](https://www.google.com/search?q=https://bold.org/scholarships/nielsen-rewards-no-essay-scholarship/), favoring applicants who are proactive and engaged with the platform's tools.
+  - **Key notes:** These opportunities function as quick, no-essay promotions that connect students with market research brands. Winners are selected based on the [“boldness” of their profile](https://bold.org/scholarships/nielsen-rewards-no-essay-scholarship/), favoring applicants who are proactive and engaged with the platform's tools.
 
 ## Category 4: Additional Brand and Corporate No‑Essay Scholarships
 
 ### 5,000 Dollar Nitro College Scholarship (Short‑Form Sweepstakes)
 
-  - **Sponsoring organization / platform:** [Nitro College](https://www.google.com/search?q=https://www.nitrocollege.com/nitro-scholarship-5k).
+  - **Sponsoring organization / platform:** [Nitro College](https://www.nitrocollege.com/nitro-scholarship-5k).
   - **Award amount:** 5,000 dollars for the main scholarship, plus a [1,000-dollar bonus](https://www.campusreel.org/scholarship/5-000-nitro-college-scholarship) for referred friends if the friend wins.
   - **Frequency:** Recurring scholarship with [three deadlines per year](https://www.campusreel.org/scholarship/5-000-nitro-college-scholarship), typically falling on the last day of March, July, and December.
   - **Eligibility criteria:** Legal residents of the [50 United States and D.C.](https://www.scholarships.com/scholarships/2000-nitro-scholarship) who are at least 17 years old; must be a high school senior or currently enrolled in an accredited college or university. Parents of eligible students may also apply on their behalf.
-  - **Application requirements:** Complete a [short online entry form](https://www.google.com/search?q=https://www.nitrocollege.com/nitro-scholarship-5k) with basic attendance details and three short-answer questions (roughly 50–250 words each) plus a simple social media component. While it requires more than a "no-essay" click, it is significantly less intensive than traditional applications.
+  - **Application requirements:** Complete a [short online entry form](https://www.nitrocollege.com/nitro-scholarship-5k) with basic attendance details and three short-answer questions (roughly 50–250 words each) plus a simple social media component. While it requires more than a "no-essay" click, it is significantly less intensive than traditional applications.
   - **Application frequency:** One entry per person per scholarship cycle; students can re-apply in each of the three annual windows.
-  - **Entry method:** Online through the [Nitro College application portal](https://www.google.com/search?q=https://www.nitrocollege.com/nitro-scholarship-5k) or through partner aggregators like CampusReel.
+  - **Entry method:** Online through the [Nitro College application portal](https://www.nitrocollege.com/nitro-scholarship-5k) or through partner aggregators like CampusReel.
   - **Key notes:** This 5,000-dollar award is distinct from the [monthly 2,000-dollar sweepstakes](https://www.salliemae.com/scholarships/2k-scholarship/) hosted by Nitro/Sallie Mae. A unique "friends bonus" allows applicants to earn an extra 1,000 dollars if a friend they refer is selected as the grand prize winner.
 
 ### SmarterCollege 2,000 Dollar "A Better Financial Future" Scholarship

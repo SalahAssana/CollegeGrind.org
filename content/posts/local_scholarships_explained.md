@@ -33,7 +33,7 @@ This creates a simple trade‑off:
   * **Scale:** National scholarships involve huge applicant pools and big awards, whereas local options typically feature a [smaller pool and smaller awards](https://degreecalc.com/scholarship-calculator/).
   * **Accessibility:** National scholarships are easy to find online but very hard to win. Local scholarships are harder to discover but much more [winnable once you find them](https://www.collegexpress.com/articles-and-advice/financial-aid/blog/how-to-work-with-your-high-school-counselor-on-the-scholarship-search/).
 
-Some local or niche scholarships have [acceptance rates above 20 percent](https://scholarships360.org/scholarships/local-scholarships/)—sometimes closer to 1 in 3—precisely because so few students bother applying compared to big national programs. That’s a dramatically better shot than the [roughly 7–12.5 percent odds](https://www.google.com/search?q=https://www.magnetaba.com/blog/scholarship-statistics/) typical for private scholarships in general.
+Some local or niche scholarships have [acceptance rates above 20 percent](https://scholarships360.org/scholarships/local-scholarships/)—sometimes closer to 1 in 3—precisely because so few students bother applying compared to big national programs. That’s a dramatically better shot than the [roughly 7–12.5 percent odds](https://www.magnetaba.com/blog/scholarship-statistics/) typical for private scholarships in general.
 
 ## Where Local Scholarships Actually Come From
 
@@ -93,7 +93,7 @@ Local scholarships are usually small but meaningful one‑time awards, not multi
   * A scholarship comparison tool lists [community/local scholarships](https://degreecalc.com/scholarship-calculator/) as averaging about 1,500 dollars, with a range of 250 to 5,000 dollars, and notes they are “usually one‑time.”
   * A general overview of scholarship amounts classifies [small awards of 250–2,000 dollars](https://scholarshub.net/what-is-the-amount-of-scholarship-frequently-asked-questions/) as typical of clubs and local organizations.
 
-All of this aligns with [broader scholarship statistics](https://bold.org/blog/college-scholarship-statistics/) showing that over 97 percent of scholarship recipients receive [less than 2,500 dollars in funding](https://www.google.com/search?q=https://www.magnetaba.com/blog/scholarship-statistics/). Local scholarships fit squarely in that band: they can make a dent in books, fees, or part of a semester’s tuition at many public colleges, but they are not large enough to transform total college costs on their own.
+All of this aligns with [broader scholarship statistics](https://bold.org/blog/college-scholarship-statistics/) showing that over 97 percent of scholarship recipients receive [less than 2,500 dollars in funding](https://www.magnetaba.com/blog/scholarship-statistics/). Local scholarships fit squarely in that band: they can make a dent in books, fees, or part of a semester’s tuition at many public colleges, but they are not large enough to transform total college costs on their own.
 
 ## How The Application Process Works
 
@@ -145,7 +145,7 @@ Your advantage with local scholarships comes from [applying to many small, targe
 **Realistic targeting:**
 
   * Instead of spending hours on a single national scholarship with thousands of applicants, invest that time into **5–10 local scholarships** where the applicant pool might be a few dozen students.
-  * Scholarship statistics show that, overall, students might win roughly [one award for every ten serious applications](https://www.google.com/search?q=https://www.magnetaba.com/blog/scholarship-statistics/), and [odds are higher](https://bold.org/blog/college-scholarship-statistics/) when you focus on smaller, less popular scholarships.
+  * Scholarship statistics show that, overall, students might win roughly [one award for every ten serious applications](https://www.magnetaba.com/blog/scholarship-statistics/), and [odds are higher](https://bold.org/blog/college-scholarship-statistics/) when you focus on smaller, less popular scholarships.
 
 ### D. Reuse materials efficiently
 
@@ -171,7 +171,7 @@ Because a large share of scholarship recipients nationwide are getting [less tha
 The big picture numbers on scholarships are sobering:
 
   - Around [one in eight college students](https://www.tuitionhero.org/resources/scholarships/how-many-people-actually-get-scholarships) receives any scholarship at all.
-  - [More than 97 percent](https://www.google.com/search?q=https://www.magnetaba.com/blog/scholarship-statistics/) of those who do receive scholarships get [less than 2,500 dollars](https://bold.org/blog/college-scholarship-statistics/).
+  - [More than 97 percent](https://www.magnetaba.com/blog/scholarship-statistics/) of those who do receive scholarships get [less than 2,500 dollars](https://bold.org/blog/college-scholarship-statistics/).
   - Private scholarships in general see [success rates on the order of 7–10 percent](https://bold.org/blog/college-scholarship-statistics/), with higher odds only when targeting [niche or local awards](https://blossomlearning.co.uk/scholarship-odds-what-are-your-real-chances-of-getting-scholarships).
 
 Given these odds and the typical local scholarship amounts, a **realistic outcome** for a motivated student who applies broadly to local scholarships might look like:
@@ -229,4 +229,4 @@ If you’ve already done the basics—filed the FAFSA, researched your colleges�
 
 Local scholarships are one of the few parts of the scholarship world that work more or less the way people hope: smaller pools, better odds, and a real chance for an average student to win something. At the same time, the [numbers are clear](https://bold.org/blog/college-scholarship-statistics/)—most local awards are small, one‑time, and not capable of covering more than a [fraction of total college costs](https://degreecalc.com/scholarship-calculator/).
 
-They’re worth pursuing, especially if you stay organized, [start with your high school](https://www.collegexpress.com/articles-and-advice/financial-aid/blog/how-to-work-with-your-high-school-counselor-on-the-scholarship-search/), and apply to a [high volume of well‑matched local awards](https://blossomlearning.co.uk/scholarship-odds-what-are-your-real-chances-of-getting-scholarships). But even for [successful applicants](https://www.google.com/search?q=https://www.magnetaba.com/blog/scholarship-statistics/), local scholarships should be viewed as [modest, supplemental help](https://scholarships360.org/scholarships/local-scholarships/)—not a full solution to paying for college.
+They’re worth pursuing, especially if you stay organized, [start with your high school](https://www.collegexpress.com/articles-and-advice/financial-aid/blog/how-to-work-with-your-high-school-counselor-on-the-scholarship-search/), and apply to a [high volume of well‑matched local awards](https://blossomlearning.co.uk/scholarship-odds-what-are-your-real-chances-of-getting-scholarships). But even for [successful applicants](https://www.magnetaba.com/blog/scholarship-statistics/), local scholarships should be viewed as [modest, supplemental help](https://scholarships360.org/scholarships/local-scholarships/)—not a full solution to paying for college.

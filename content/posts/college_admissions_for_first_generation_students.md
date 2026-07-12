@@ -229,7 +229,7 @@ In addition to institutional financial aid packages, first-generation students s
 | **Beat the Odds Scholarship** | Stand for Children Oregon and The Renaissance Foundation | Financial aid awards up to **$10,000**. | First-generation students in Oregon who have succeeded in [spite of significant hardships](https://scholarships360.org/scholarships/first-generation-college-student-scholarships/). |
 | **Odyssey Scholarship Program** | University of Chicago | Covers **100% of tuition, room, and board** with additional funding for study abroad. | High-achieving, low-income, or first-generation students [admitted to UChicago](https://collegeadmissions.uchicago.edu/apply/application/first-generation/). |
 | **First-Gen Fund** | Southern Methodist University (SMU) | Specialized financial assistance to cover [cost-of-attendance gaps](https://www.smu.edu/studentaffairs/first-generation-initiative/resources/scholarships). | First-generation, Pell-eligible students currently enrolled at SMU. |
-| **NSHSS First Generation Scholarship** | National Society of High School Scholars (NSHSS) | Annual awards worth **$1,000**. | First-generation high school or college students of [all levels](https://www.google.com/search?q=https%3A%2F%2Fwww.nshss.org%2Fscholarships%2F). |
+| **NSHSS First Generation Scholarship** | National Society of High School Scholars (NSHSS) | Annual awards worth **$1,000**. | First-generation high school or college students of [all levels](https%3A%2F%2Fwww.nshss.org%2Fscholarships%2F). |
 | **TIAA First-Generation Scholarship** | TIAA and Scholarship America | Non-renewable awards ranging from **$5,000 to $10,000**. | First-generation college undergraduates maintaining a [strong GPA and showing leadership](https://scholarshipamerica.org/scholarship/tiaa/). |
 
 ## [**Community College as a Strategic Option**](https://collegegrind.org/posts/why_starting_at_community_college_is_a_smart_path_to_a_four_year_degree/)
@@ -265,7 +265,7 @@ Many universities host intensive transition initiatives for admitted first-gener
 * **UConn BRIDGE Program:** A five-week intensive academic enrichment residential experience hosted by the Vergnano Institute for Impact, focused on building pre-calculus, chemistry, and physics foundations for [incoming students](https://admissions.uconn.edu/apply/transfer/gap/).
 * **The QuestBridge National College Match:** A powerful alternate application pathway connecting high-achieving, low-income students with over 50 premier [college partners](https://www.questbridge.org/partners/college-partners). Finalists can rank up to 15 partner schools; if "matched," they receive early admission and the guaranteed [Match Scholarship](https://www.questbridge.org/apply-to-college/programs/national-college-match/the-match-scholarship)—a full four-year package covering tuition, housing, and food with no student loans and zero parental contribution.
 
-These programs are designed to demystify campus resources, build peer networks, and establish an early support system, directly combatting the isolation that first-generation students often experience during their [first semester](https://www.google.com/search?q=https%3A%2F%2Fexecutivevc.unl.edu%2Fsites%2Funl.edu.executive-vice-chancellor%2Ffiles%2Fmedia%2Ffile%2Ffirst-generation-booklet.pdf).
+These programs are designed to demystify campus resources, build peer networks, and establish an early support system, directly combatting the isolation that first-generation students often experience during their [first semester](https%3A%2F%2Fexecutivevc.unl.edu%2Fsites%2Funl.edu.executive-vice-chancellor%2Ffiles%2Fmedia%2Ffile%2Ffirst-generation-booklet.pdf).
 
 ## **Common Mistakes First-Generation Students Make**
 
@@ -279,7 +279,7 @@ The critical pitfalls include:
 * **Ignoring Application and Financial Aid Deadlines:** Missing priority deadlines for the FAFSA or CSS Profile can cause students to lose out on limited state and [institutional funding](https://www.cornerstone.edu/blog-post/college-search-tips-for-first-generation-college-students/).
 * **Applying Only to Highly Selective Schools:** In contrast to undermatching, some students apply only to elite universities with acceptance rates below 10%, leaving themselves with no viable options if they are [denied](https://emergescholars.org/blog/10-tips-for-navigating-the-selective-college-admissions-process-as-a-first-gen-college-student/).
 
-Data from selective universities demonstrates that when first-generation students apply, they are admitted and graduate at high rates, proving that self-selection is often the primary [barrier to entry](https://www.google.com/search?q=https%3A%2F%2Fwww.guidebook.com%2Fpost%2Ffirst-gen-summer-melt-admissions).
+Data from selective universities demonstrates that when first-generation students apply, they are admitted and graduate at high rates, proving that self-selection is often the primary [barrier to entry](https%3A%2F%2Fwww.guidebook.com%2Fpost%2Ffirst-gen-summer-melt-admissions).
 
 ## **A Year-by-Year Roadmap**
 

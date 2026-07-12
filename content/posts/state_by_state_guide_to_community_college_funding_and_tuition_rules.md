@@ -1013,7 +1013,7 @@ No major statewide free tuition program for community colleges.
 
 **What It Covers:**
 
--   **Tuition:** Partial coverage available through [Montana Promise Grants](https://www.google.com/search?q=https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html) (budget-dependent).
+-   **Tuition:** Partial coverage available through [Montana Promise Grants](https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html) (budget-dependent).
     
 -   **Fees:** Not generally covered as a statewide rule.
     
@@ -1026,15 +1026,15 @@ Traditional need-based state aid.
 
 **Who Qualifies:**
 
-Montana residents with financial need who are enrolled at least half-time. Because [funding is limited](https://www.google.com/search?q=https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html), awards are not guaranteed for every eligible student.
+Montana residents with financial need who are enrolled at least half-time. Because [funding is limited](https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html), awards are not guaranteed for every eligible student.
 
 **Key Details:**
 
-Affordability is largely driven by [relatively low tuition rates](https://www.google.com/search?q=https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html) and federal Pell Grants rather than a robust state promise program.
+Affordability is largely driven by [relatively low tuition rates](https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html) and federal Pell Grants rather than a robust state promise program.
 
 **Bottom Line:**
 
-Montana [does not currently offer universal free community college](https://www.google.com/search?q=https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html); students rely on standard financial aid and local institutional scholarships.
+Montana [does not currently offer universal free community college](https://mus.edu/Prepare/Pay/Scholarships/Montana_Promise_Grant.html); students rely on standard financial aid and local institutional scholarships.
 
 ----------
 
@@ -1075,11 +1075,11 @@ Nebraska community college students [rely on a mix of aid](https://ccpe.nebraska
 
 **Program Name(s):**
 
-[Nevada Promise Scholarship](https://www.google.com/search?q=https://nshe.nevada.edu/nevada-promise-scholarship/)
+[Nevada Promise Scholarship](https://nshe.nevada.edu/nevada-promise-scholarship/)
 
 **What It Covers:**
 
--   **Tuition:** Covers the "registration fees" (tuition equivalent) [not covered by other gift aid](https://www.google.com/search?q=https://nshe.nevada.edu/nevada-promise-scholarship/).
+-   **Tuition:** Covers the "registration fees" (tuition equivalent) [not covered by other gift aid](https://nshe.nevada.edu/nevada-promise-scholarship/).
     
 -   **Fees:** Certain mandatory fees are included.
     
@@ -1092,15 +1092,15 @@ Last-dollar Promise Scholarship.
 
 **Who Qualifies:**
 
-[Recent Nevada high school graduates](https://www.google.com/search?q=https://nshe.nevada.edu/nevada-promise-scholarship/). Students must complete 20 hours of [community service](https://www.google.com/search?q=https://nshe.nevada.edu/nevada-promise-scholarship/) and participate in mandatory mentoring to remain eligible.
+[Recent Nevada high school graduates](https://nshe.nevada.edu/nevada-promise-scholarship/). Students must complete 20 hours of [community service](https://nshe.nevada.edu/nevada-promise-scholarship/) and participate in mandatory mentoring to remain eligible.
 
 **Key Details:**
 
-The scholarship can be used for up to [three years](https://www.google.com/search?q=https://nshe.nevada.edu/nevada-promise-scholarship/) at Nevada’s four community colleges (CSN, GBC, TMCC, and WNC).
+The scholarship can be used for up to [three years](https://nshe.nevada.edu/nevada-promise-scholarship/) at Nevada’s four community colleges (CSN, GBC, TMCC, and WNC).
 
 **Bottom Line:**
 
-Nevada offers a [clear path to free tuition](https://www.google.com/search?q=https://nshe.nevada.edu/nevada-promise-scholarship/) for students who are willing to commit to community service and follow a structured mentoring process.
+Nevada offers a [clear path to free tuition](https://nshe.nevada.edu/nevada-promise-scholarship/) for students who are willing to commit to community service and follow a structured mentoring process.
 
 ----------
 
@@ -1112,7 +1112,7 @@ No major statewide free tuition program for community colleges.
 
 **What It Covers:**
 
--   **Tuition:** Partial relief through the [Governor’s Scholarship](https://www.google.com/search?q=https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/) for high-need students.
+-   **Tuition:** Partial relief through the [Governor’s Scholarship](https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/) for high-need students.
     
 -   **Fees:** Generally not covered.
     
@@ -1129,11 +1129,11 @@ New Hampshire residents who are Pell Grant eligible and graduate from a New Hamp
 
 **Key Details:**
 
-New Hampshire has some of the [highest tuition rates](https://www.google.com/search?q=https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/) in the country for public colleges. Without a statewide promise program, the [out-of-pocket costs](https://www.google.com/search?q=https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/) can remain high even after aid.
+New Hampshire has some of the [highest tuition rates](https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/) in the country for public colleges. Without a statewide promise program, the [out-of-pocket costs](https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/) can remain high even after aid.
 
 **Bottom Line:**
 
-New Hampshire students [depend heavily on federal aid](https://www.google.com/search?q=https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/); universal free community college is not currently a state-funded reality.
+New Hampshire students [depend heavily on federal aid](https://www.nhcf.org/nh-grants-scholarships/nh-governors-scholarship/); universal free community college is not currently a state-funded reality.
 
 ----------
 
@@ -1172,7 +1172,7 @@ New Jersey’s [CCOG program](https://www.hesaa.org/Pages/CCOG.aspx) is one of t
 
 **Program Name(s):**
 
-[New Mexico Opportunity Scholarship](https://www.google.com/search?q=https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/)
+[New Mexico Opportunity Scholarship](https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/)
 
 **What It Covers:**
 
@@ -1189,15 +1189,15 @@ Last-dollar statewide Promise Program.
 
 **Who Qualifies:**
 
-[New Mexico residents](https://www.cnm.edu/depts/enrollment/tuition-rates-and-residency) without a prior bachelor’s degree. This is one of the most inclusive programs in the country, available to both [recent high school graduates and adult learners](https://www.google.com/search?q=https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/), and it supports both part-time and full-time enrollment.
+[New Mexico residents](https://www.cnm.edu/depts/enrollment/tuition-rates-and-residency) without a prior bachelor’s degree. This is one of the most inclusive programs in the country, available to both [recent high school graduates and adult learners](https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/), and it supports both part-time and full-time enrollment.
 
 **Key Details:**
 
-The scholarship covers remaining tuition and fees up to a set credit limit. Uniquely, it can be used for [summer terms](https://www.google.com/search?q=https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/) and covers both academic degrees and credit-bearing workforce certificates.
+The scholarship covers remaining tuition and fees up to a set credit limit. Uniquely, it can be used for [summer terms](https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/) and covers both academic degrees and credit-bearing workforce certificates.
 
 **Bottom Line:**
 
-New Mexico is a national leader in college affordability, offering a [broad last-dollar scholarship](https://www.google.com/search?q=https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/) that makes community college effectively free for residents of nearly any age or income level.
+New Mexico is a national leader in college affordability, offering a [broad last-dollar scholarship](https://webnew.ped.state.nm.us/bureaus/higher-education/opportunity-scholarship/) that makes community college effectively free for residents of nearly any age or income level.
 
 ----------
 
@@ -1205,7 +1205,7 @@ New Mexico is a national leader in college affordability, offering a [broad last
 
 **Program Name(s):**
 
-[SUNY and CUNY Reconnect](https://www.google.com/search?q=https://www.suny.edu/reconnect/) and the [Excelsior Scholarship](https://www.hesc.ny.gov/pay-for-college/financial-aid/types-of-financial-aid/nys-grants-scholarships-awards/the-excelsior-scholarship.html).
+[SUNY and CUNY Reconnect](https://www.suny.edu/reconnect/) and the [Excelsior Scholarship](https://www.hesc.ny.gov/pay-for-college/financial-aid/types-of-financial-aid/nys-grants-scholarships-awards/the-excelsior-scholarship.html).
 
 **What It Covers:**
 
@@ -1218,11 +1218,11 @@ New Mexico is a national leader in college affordability, offering a [broad last
 
 **Program Type:**
 
-Last-dollar Promise-style program targeting [adult learners](https://www.google.com/search?q=https://www.suny.edu/reconnect/) and low-to-middle-income families.
+Last-dollar Promise-style program targeting [adult learners](https://www.suny.edu/reconnect/) and low-to-middle-income families.
 
 **Who Qualifies:**
 
-New York residents. The [Reconnect program](https://www.google.com/search?q=https://www.suny.edu/reconnect/) specifically helps adults (ages 25–55) return to school for high-demand fields like healthcare and tech. The Excelsior Scholarship is available to students from families earning up to $125,000 annually.
+New York residents. The [Reconnect program](https://www.suny.edu/reconnect/) specifically helps adults (ages 25–55) return to school for high-demand fields like healthcare and tech. The Excelsior Scholarship is available to students from families earning up to $125,000 annually.
 
 **Key Details:**
 
@@ -1230,7 +1230,7 @@ New York recently [expanded free community college](https://www.governor.ny.gov/
 
 **Bottom Line:**
 
-New York offers [robust support](https://www.google.com/search?q=https://www.suny.edu/reconnect/) for both traditional students and adult learners, with the most comprehensive "free" packages focused on fields that meet the state’s labor needs.
+New York offers [robust support](https://www.suny.edu/reconnect/) for both traditional students and adult learners, with the most comprehensive "free" packages focused on fields that meet the state’s labor needs.
 
 ----------
 
@@ -1238,11 +1238,11 @@ New York offers [robust support](https://www.google.com/search?q=https://www.sun
 
 **Program Name(s):**
 
-North Carolina does not have a single universal promise program, but offers the [North Carolina Scholarship](https://www.google.com/search?q=https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) for many students.
+North Carolina does not have a single universal promise program, but offers the [North Carolina Scholarship](https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) for many students.
 
 **What It Covers:**
 
--   **Tuition:** Provides a [guaranteed amount of aid](https://www.google.com/search?q=https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) that can cover the full cost of tuition at any of the state's 58 community colleges for eligible low-income students.
+-   **Tuition:** Provides a [guaranteed amount of aid](https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) that can cover the full cost of tuition at any of the state's 58 community colleges for eligible low-income students.
     
 -   **Fees:** Generally not fully covered statewide.
     
@@ -1255,15 +1255,15 @@ Need-based state grant.
 
 **Who Qualifies:**
 
-North Carolina residents with an [Adjusted Gross Income (AGI) of $75,000 or less](https://www.google.com/search?q=https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) and a Student Aid Index (SAI) of $7,500 or less.
+North Carolina residents with an [Adjusted Gross Income (AGI) of $75,000 or less](https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) and a Student Aid Index (SAI) of $7,500 or less.
 
 **Key Details:**
 
-While there is a separate [NC Promise](https://www.northcarolina.edu/impact/affordability-efficiency/nc-promise/) program that caps tuition at $500 per semester at select four-year universities, community college affordability is driven by the state's [standard scholarship and low base tuition](https://www.google.com/search?q=https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/).
+While there is a separate [NC Promise](https://www.northcarolina.edu/impact/affordability-efficiency/nc-promise/) program that caps tuition at $500 per semester at select four-year universities, community college affordability is driven by the state's [standard scholarship and low base tuition](https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/).
 
 **Bottom Line:**
 
-North Carolina relies on [targeted need-based aid](https://www.google.com/search?q=https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) rather than a "free for all" promise; however, for many low-to-middle-income residents, community college is effectively tuition-free.
+North Carolina relies on [targeted need-based aid](https://www.cfnc.org/pay-for-college/apply-for-financial-aid/north-carolina-scholarship/) rather than a "free for all" promise; however, for many low-to-middle-income residents, community college is effectively tuition-free.
 
 ----------
 
@@ -1304,11 +1304,11 @@ In North Dakota, "free" community college is [campus-dependent](https://www.ndsu
 
 **Program Name(s):**
 
-Ohio uses the [Ohio College Opportunity Grant (OCOG)](https://www.google.com/search?q=https://highered.ohio.gov/educators/financial-aid/ocog) and regional [Promise programs](https://www.google.com/search?q=https://www.cincinnati-promise.org/).
+Ohio uses the [Ohio College Opportunity Grant (OCOG)](https://highered.ohio.gov/educators/financial-aid/ocog) and regional [Promise programs](https://www.cincinnati-promise.org/).
 
 **What It Covers:**
 
--   **Tuition:** Partial coverage via state grants; some regional programs like the [Cincinnati Pride Grant](https://www.google.com/search?q=https://www.cincinnati-promise.org/) or **Columbus Promise** can cover full tuition at specific community colleges.
+-   **Tuition:** Partial coverage via state grants; some regional programs like the [Cincinnati Pride Grant](https://www.cincinnati-promise.org/) or **Columbus Promise** can cover full tuition at specific community colleges.
     
 -   **Fees:** Covered by regional promise programs but not by the standard OCOG.
     
@@ -1321,15 +1321,15 @@ Need-based grants and a patchwork of local promise programs.
 
 **Who Qualifies:**
 
-Ohio residents with [significant financial need](https://www.google.com/search?q=https://highered.ohio.gov/educators/financial-aid/ocog). Local programs have stricter residency requirements (e.g., must be a graduate of a specific city's public school system).
+Ohio residents with [significant financial need](https://highered.ohio.gov/educators/financial-aid/ocog). Local programs have stricter residency requirements (e.g., must be a graduate of a specific city's public school system).
 
 **Key Details:**
 
-Because there is [no statewide promise](https://www.google.com/search?q=https://highered.ohio.gov/educators/financial-aid/ocog), affordability depends entirely on where you live. Students in major cities like [Cincinnati or Columbus](https://www.google.com/search?q=https://www.cincinnati-promise.org/) have much better access to tuition-free community college.
+Because there is [no statewide promise](https://highered.ohio.gov/educators/financial-aid/ocog), affordability depends entirely on where you live. Students in major cities like [Cincinnati or Columbus](https://www.cincinnati-promise.org/) have much better access to tuition-free community college.
 
 **Bottom Line:**
 
-Ohio community college affordability is [localized](https://www.google.com/search?q=https://www.cincinnati-promise.org/); while the state provides need-based aid, a truly "free" experience is currently limited to specific urban promise zones.
+Ohio community college affordability is [localized](https://www.cincinnati-promise.org/); while the state provides need-based aid, a truly "free" experience is currently limited to specific urban promise zones.
 
 ----------
 
@@ -1403,15 +1403,15 @@ The [Oregon Promise](https://oregonstudentaid.gov/oregon-promise.aspx) is a reli
 
 **Program Name(s):**
 
-No universal statewide promise; relies on the [PA State Grant](https://www.google.com/search?q=https://www.pheaa.org/state-grant/state-grant-program/) and local city-based programs like [Octavius Catto Scholarship](https://www.google.com/search?q=https://www.ccp.edu/paying-college/caring-catto-scholarship).
+No universal statewide promise; relies on the [PA State Grant](https://www.pheaa.org/state-grant/state-grant-program/) and local city-based programs like [Octavius Catto Scholarship](https://www.ccp.edu/paying-college/caring-catto-scholarship).
 
 **What It Covers:**
 
--   **Tuition:** Partial coverage via state grants; regional programs like the [Catto Scholarship in Philadelphia](https://www.google.com/search?q=https://www.ccp.edu/paying-college/caring-catto-scholarship) can provide full last-dollar tuition and fees.
+-   **Tuition:** Partial coverage via state grants; regional programs like the [Catto Scholarship in Philadelphia](https://www.ccp.edu/paying-college/caring-catto-scholarship) can provide full last-dollar tuition and fees.
     
 -   **Fees:** Only covered by local promise initiatives.
     
--   **Books/materials:** Local programs may provide a [stipend for books](https://www.google.com/search?q=https://www.ccp.edu/paying-college/caring-catto-scholarship) (e.g., $1,500/year in Philadelphia).
+-   **Books/materials:** Local programs may provide a [stipend for books](https://www.ccp.edu/paying-college/caring-catto-scholarship) (e.g., $1,500/year in Philadelphia).
     
 
 **Program Type:**
@@ -1420,15 +1420,15 @@ Need-based grants and highly localized city promise programs.
 
 **Who Qualifies:**
 
-Pennsylvania residents with financial need. Local programs usually require the student to be a [city resident and a graduate](https://www.google.com/search?q=https://www.ccp.edu/paying-college/caring-catto-scholarship) of a local high school.
+Pennsylvania residents with financial need. Local programs usually require the student to be a [city resident and a graduate](https://www.ccp.edu/paying-college/caring-catto-scholarship) of a local high school.
 
 **Key Details:**
 
-Because Pennsylvania has [high public tuition](https://www.google.com/search?q=https://www.pheaa.org/state-grant/state-grant-program/) and no statewide promise, students outside of Philadelphia or Pittsburgh may still face significant costs even after receiving state grants.
+Because Pennsylvania has [high public tuition](https://www.pheaa.org/state-grant/state-grant-program/) and no statewide promise, students outside of Philadelphia or Pittsburgh may still face significant costs even after receiving state grants.
 
 **Bottom Line:**
 
-Pennsylvania's "free" community college landscape is [highly unequal](https://www.google.com/search?q=https://www.ccp.edu/paying-college/caring-catto-scholarship/), with the best benefits reserved for residents of major cities with their own dedicated funding.
+Pennsylvania's "free" community college landscape is [highly unequal](https://www.ccp.edu/paying-college/caring-catto-scholarship/), with the best benefits reserved for residents of major cities with their own dedicated funding.
 
 ----------
 
@@ -1469,15 +1469,15 @@ Rhode Island offers one of the [cleanest "free college" guarantees](https://www.
 
 **Program Name(s):**
 
-[South Carolina Workforce Scholarships for the Future](https://www.google.com/search?q=https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) and [LIFE/HOPE Scholarships](https://www.che.sc.gov/students-families-and-military/scholarships-and-grants-sc-residents).
+[South Carolina Workforce Scholarships for the Future](https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) and [LIFE/HOPE Scholarships](https://www.che.sc.gov/students-families-and-military/scholarships-and-grants-sc-residents).
 
 **What It Covers:**
 
--   **Tuition:** Workforce scholarships provide [last-dollar tuition coverage](https://www.google.com/search?q=https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) for high-demand programs; LIFE and HOPE provide fixed-amount merit awards.
+-   **Tuition:** Workforce scholarships provide [last-dollar tuition coverage](https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) for high-demand programs; LIFE and HOPE provide fixed-amount merit awards.
     
 -   **Fees:** Workforce scholarships often cover mandatory fees and required materials.
     
--   **Books/materials:** Included in certain [technical and workforce tracks](https://www.google.com/search?q=https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html).
+-   **Books/materials:** Included in certain [technical and workforce tracks](https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html).
     
 
 **Program Type:**
@@ -1486,15 +1486,15 @@ Sector-specific last-dollar workforce funding.
 
 **Who Qualifies:**
 
-South Carolina residents pursuing degrees or certificates in [high-demand fields](https://www.google.com/search?q=https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) like manufacturing, healthcare, and IT.
+South Carolina residents pursuing degrees or certificates in [high-demand fields](https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) like manufacturing, healthcare, and IT.
 
 **Key Details:**
 
-South Carolina uses a [merit-and-workforce hybrid model](https://www.che.sc.gov/students-families-and-military/scholarships-and-grants-sc-residents). Students with high GPAs can use LIFE scholarships, while others can access the [Workforce Scholarship](https://www.google.com/search?q=https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) for specific vocational training.
+South Carolina uses a [merit-and-workforce hybrid model](https://www.che.sc.gov/students-families-and-military/scholarships-and-grants-sc-residents). Students with high GPAs can use LIFE scholarships, while others can access the [Workforce Scholarship](https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html) for specific vocational training.
 
 **Bottom Line:**
 
-South Carolina provides [excellent vocational support](https://www.google.com/search?q=https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html), making many associate degrees and certifications completely free for residents entering the state's most needed industries.
+South Carolina provides [excellent vocational support](https://www.sctechsystem.edu/students/sc-workforce-scholarships-for-the-future.html), making many associate degrees and certifications completely free for residents entering the state's most needed industries.
 
 ## South Dakota
 
@@ -1533,11 +1533,11 @@ South Dakota [does not currently offer universal free community college](https:/
 
 **Program Name(s):**
 
-[Tennessee Promise](https://www.google.com/search?q=https://www.collegefortn.org/tennessee-promise/) and the [HOPE Scholarship](https://www.collegefortn.org/tennessee-hope-scholarship-3/).
+[Tennessee Promise](https://www.collegefortn.org/tennessee-promise/) and the [HOPE Scholarship](https://www.collegefortn.org/tennessee-hope-scholarship-3/).
 
 **What It Covers:**
 
--   **Tuition:** [Tennessee Promise](https://www.google.com/search?q=https://www.collegefortn.org/tennessee-promise/) covers 100% of remaining tuition and mandatory fees at community and technical colleges (TCATs).
+-   **Tuition:** [Tennessee Promise](https://www.collegefortn.org/tennessee-promise/) covers 100% of remaining tuition and mandatory fees at community and technical colleges (TCATs).
     
 -   **Fees:** Mandatory fees are fully covered.
     
@@ -1550,7 +1550,7 @@ Last-dollar Promise Program.
 
 **Who Qualifies:**
 
-[Tennessee high school graduates](https://www.google.com/search?q=https://www.collegefortn.org/tennessee-promise/) who enroll in the program, complete 8 hours of community service per semester, and work with a mentor.
+[Tennessee high school graduates](https://www.collegefortn.org/tennessee-promise/) who enroll in the program, complete 8 hours of community service per semester, and work with a mentor.
 
 **Key Details:**
 
@@ -1558,7 +1558,7 @@ Tennessee was a [pioneer in the free college movement](https://www.tbr.edu/initi
 
 **Bottom Line:**
 
-Tennessee remains a [gold standard for access](https://www.google.com/search?q=https://www.collegefortn.org/tennessee-promise/), offering a very clear, reliable path to a tuition-free associate degree or technical certificate for every high school graduate in the state.
+Tennessee remains a [gold standard for access](https://www.collegefortn.org/tennessee-promise/), offering a very clear, reliable path to a tuition-free associate degree or technical certificate for every high school graduate in the state.
 
 ----------
 
@@ -1731,11 +1731,11 @@ Washington is [exceptionally generous](https://wsac.wa.gov/wcg), effectively off
 
 **Program Name(s):**
 
-[West Virginia Invests Grant](https://www.google.com/search?q=https://www.collegeforwv.com/programs/invests/)
+[West Virginia Invests Grant](https://www.collegeforwv.com/programs/invests/)
 
 **What It Covers:**
 
--   **Tuition:** [Last-dollar coverage](https://www.google.com/search?q=https://www.collegeforwv.com/programs/invests/) for certificate and associate programs at state community and technical colleges.
+-   **Tuition:** [Last-dollar coverage](https://www.collegeforwv.com/programs/invests/) for certificate and associate programs at state community and technical colleges.
     
 -   **Fees:** Mandatory fees are covered.
     
@@ -1748,15 +1748,15 @@ Last-dollar workforce grant.
 
 **Who Qualifies:**
 
-West Virginia residents who [pass a drug screening](https://www.google.com/search?q=https://www.collegeforwv.com/programs/invests/) and complete 2 hours of community service per semester. Students must not already have an associate degree or higher.
+West Virginia residents who [pass a drug screening](https://www.collegeforwv.com/programs/invests/) and complete 2 hours of community service per semester. Students must not already have an associate degree or higher.
 
 **Key Details:**
 
-Recipients must [live in West Virginia](https://www.google.com/search?q=https://www.collegeforwv.com/programs/invests/) for two years after graduation, or the grant converts into a loan. This is designed to keep a skilled workforce within the state borders.
+Recipients must [live in West Virginia](https://www.collegeforwv.com/programs/invests/) for two years after graduation, or the grant converts into a loan. This is designed to keep a skilled workforce within the state borders.
 
 **Bottom Line:**
 
-West Virginia provides a [strong incentive for technical training](https://www.google.com/search?q=https://www.collegeforwv.com/programs/invests/), offering free tuition in exchange for a commitment to stay and work in the state.
+West Virginia provides a [strong incentive for technical training](https://www.collegeforwv.com/programs/invests/), offering free tuition in exchange for a commitment to stay and work in the state.
 
 ----------
 
@@ -1797,11 +1797,11 @@ In Wisconsin, [affordability is moderate](https://heab.state.wi.us/programs.html
 
 **Program Name(s):**
 
-[Hathaway Scholarship](https://www.google.com/search?q=https://hathawayscholarships.org/)
+[Hathaway Scholarship](https://hathawayscholarships.org/)
 
 **What It Covers:**
 
--   **Tuition:** Provides [merit-based awards](https://www.google.com/search?q=https://hathawayscholarships.org/) ranging from $840 to $1,680 per semester, which can be used at any Wyoming community college.
+-   **Tuition:** Provides [merit-based awards](https://hathawayscholarships.org/) ranging from $840 to $1,680 per semester, which can be used at any Wyoming community college.
     
 -   **Fees:** Not fully covered, but scholarship funds can be applied to them.
     
@@ -1814,12 +1814,12 @@ Merit-based state scholarship.
 
 **Who Qualifies:**
 
-[Wyoming high school graduates](https://www.google.com/search?q=https://hathawayscholarships.org/) based on their GPA and ACT scores. There are four tiers of awards (Honors, Performance, Opportunity, and Provisional).
+[Wyoming high school graduates](https://hathawayscholarships.org/) based on their GPA and ACT scores. There are four tiers of awards (Honors, Performance, Opportunity, and Provisional).
 
 **Key Details:**
 
-Even the [lowest tier](https://www.google.com/search?q=https://hathawayscholarships.org/) (Provisional) can cover a significant portion of community college costs. The state also offers a need-based "Hathaway Need" grant for students who already qualify for the merit portion.
+Even the [lowest tier](https://hathawayscholarships.org/) (Provisional) can cover a significant portion of community college costs. The state also offers a need-based "Hathaway Need" grant for students who already qualify for the merit portion.
 
 **Bottom Line:**
 
-Wyoming uses a [merit-first approach](https://www.google.com/search?q=https://hathawayscholarships.org/). While not "free" for everyone, it makes community college nearly free for any resident who hits basic academic benchmarks in high school.
+Wyoming uses a [merit-first approach](https://hathawayscholarships.org/). While not "free" for everyone, it makes community college nearly free for any resident who hits basic academic benchmarks in high school.

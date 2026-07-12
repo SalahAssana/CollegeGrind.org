@@ -45,7 +45,7 @@ These institutions prioritize [objective, quantitative criteria](https://www.col
 
 ## **What Actually Counts as an Extracurricular?**
 
-A common mistake made by applicants is adopting an [overly narrow definition](https://www.commandeducation.com/resource/common-app-activities-list/) of what qualifies as an extracurricular activity. Many students believe that only school-sponsored, structured clubs or varsity sports are valued. However, the Common Application explicitly defines an [activity as nearly anything productive](https://www.google.com/search?q=https://scholarships360.org/college-admissions/common-app-activities-list-example/) that a student is involved in outside of the classroom.
+A common mistake made by applicants is adopting an [overly narrow definition](https://www.commandeducation.com/resource/common-app-activities-list/) of what qualifies as an extracurricular activity. Many students believe that only school-sponsored, structured clubs or varsity sports are valued. However, the Common Application explicitly defines an [activity as nearly anything productive](https://scholarships360.org/college-admissions/common-app-activities-list-example/) that a student is involved in outside of the classroom.
 
 Admissions offices seek a complete picture of an applicant's daily life, meaning that unconventional, family-centered, or self-directed obligations carry [immense weight when described properly](https://www.eduavenues.com/blog/family-business-responsibilities-apps).
 
@@ -126,7 +126,7 @@ Washington state public universities, including Washington State University and 
 
 ### **Cal Poly SLO Multi-Criteria Admission (MCA)**
 
-California Polytechnic State University, San Luis Obispo uses a unique, objective point-based system called the [Multi-Criteria Admission (MCA) process](https://www.google.com/search?q=https://www.calpoly.edu/admissions/first-year/selection-criteria) to evaluate first-year applicants. Cal Poly SLO recalculates a CSU GPA using grades from 9th through 11th grade and awards points across highly structured categories.
+California Polytechnic State University, San Luis Obispo uses a unique, objective point-based system called the [Multi-Criteria Admission (MCA) process](https://www.calpoly.edu/admissions/first-year/selection-criteria) to evaluate first-year applicants. Cal Poly SLO recalculates a CSU GPA using grades from 9th through 11th grade and awards points across highly structured categories.
 
 Because Cal Poly SLO does not accept personal essays, short answers, or letters of recommendation, this system evaluates students entirely through quantitative measures. The non-academic portion of the MCA is scored strictly based on self-reported hours spent on activities, making it highly objective.
 
@@ -173,7 +173,7 @@ Every higher education institution compiles an annual CDS report. Section C7 of 
 
 ### **Step 2: Understand Major-Specific Competitiveness**
 
-At many public universities, admission is highly competitive for specific "impacted" majors like computer science or engineering, while other majors have much higher acceptance rates. For example, at Cal Poly SLO, competitive majors like psychology or biological sciences have room for less than 3% of applicants, whereas wine and viticulture accepts 32% of applicants. Applying to an [alternate, less competitive major](https://www.google.com/search?q=https://www.calpoly.edu/admissions/first-year/selection-criteria) can be a viable strategy if the student’s activities are limited.
+At many public universities, admission is highly competitive for specific "impacted" majors like computer science or engineering, while other majors have much higher acceptance rates. For example, at Cal Poly SLO, competitive majors like psychology or biological sciences have room for less than 3% of applicants, whereas wine and viticulture accepts 32% of applicants. Applying to an [alternate, less competitive major](https://www.calpoly.edu/admissions/first-year/selection-criteria) can be a viable strategy if the student’s activities are limited.
 
 ### **Step 3: Leverage Transfer Pathways**
 

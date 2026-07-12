@@ -104,14 +104,14 @@ To demonstrate true leadership, the student can [recruit three or four classmate
 
 ### **Step 4: Quantify the Community Impact**
 
-To make the activity stand out to admissions readers, the student must [document and measure the outcomes of their work](https://www.google.com/search?q=https://admissionsom.college/activities/zombies-activities-section-2022/). This means moving away from vague descriptions and focusing on [hard metrics](https://www.ivywise.com/ivywise-knowledgebase/impactful-common-app-activity-descriptions/).
+To make the activity stand out to admissions readers, the student must [document and measure the outcomes of their work](https://admissionsom.college/activities/zombies-activities-section-2022/). This means moving away from vague descriptions and focusing on [hard metrics](https://www.ivywise.com/ivywise-knowledgebase/impactful-common-app-activity-descriptions/).
 
 A comparison of descriptive styles highlights the importance of quantitative framing in the activities section:
 
 * **Weak Description (Passive/Vague):** "Volunteered at the local community center. Helped elderly citizens learn how to use their computers and navigate the internet after school on weekends."
-* **Strong Description (Active/Quantified):** "Founded a weekly digital literacy program; [recruited 4 student tutors](https://leadershipinnovationlab.org/f/50-passion-project-ideas-for-high-school-students). Taught [45+ senior citizens to navigate healthcare portals](https://www.crimsoneducation.org/us/blog/community-service-ideas) and online banking. Delivered [120+ cumulative hours of instruction](https://www.google.com/search?q=https://admissionsom.college/activities/zombies-activities-section-2022/)."
+* **Strong Description (Active/Quantified):** "Founded a weekly digital literacy program; [recruited 4 student tutors](https://leadershipinnovationlab.org/f/50-passion-project-ideas-for-high-school-students). Taught [45+ senior citizens to navigate healthcare portals](https://www.crimsoneducation.org/us/blog/community-service-ideas) and online banking. Delivered [120+ cumulative hours of instruction](https://admissionsom.college/activities/zombies-activities-section-2022/)."
 
-This zero-cost project is highly compelling to selective college admissions committees because it serves as an objective marker of a student's capacity to identify a real-world problem, coordinate peers, and deliver a structured solution that [improves the lives of others](https://www.google.com/search?q=https%3A%2F%2Fmcc.gse.harvard.edu%2Fwhats-new%2F2018%2F9%2F24%2Fpress-release-the-talk).
+This zero-cost project is highly compelling to selective college admissions committees because it serves as an objective marker of a student's capacity to identify a real-world problem, coordinate peers, and deliver a structured solution that [improves the lives of others](https%3A%2F%2Fmcc.gse.harvard.edu%2Fwhats-new%2F2018%2F9%2F24%2Fpress-release-the-talk).
 
 ## **Creating Standout Self-Directed and Independent Projects**
 

@@ -229,19 +229,19 @@ This article takes a different approach. Instead of chasing gimmicks, it focuses
   - **Award amount:** Most national scholarships range from [2,500 to 7,000 dollars per year](https://www.aws.org/foundation/page/national-scholarships), with more than 130 individual awards totaling over 600,000 dollars annually.
   - **Eligibility criteria:** Students pursuing [welding or related majors](https://www.aws.org/foundation/page/national-scholarships) at vocational schools, community colleges, or universities; some awards require demonstrated financial need or AWS membership.
   - **Why it is relatively more accessible:** Awards are mid‑sized and [highly specialized by field](https://www.aws.org/foundation/page/national-scholarships), so they attract far fewer applicants than general‑audience STEM or “any major” competitions; multiple awards spread funding across many recipients.
-  - **Application requirements:** [Online application](https://www.google.com/search?q=https://scholarship.aws.org/scholarship/index), transcripts, and two letters of recommendation; some awards also require financial‑aid documentation.
+  - **Application requirements:** [Online application](https://scholarship.aws.org/scholarship/index), transcripts, and two letters of recommendation; some awards also require financial‑aid documentation.
   - **Competitiveness level (relative):** Moderate; serious welding students who complete the application have a realistic chance because the applicant pool is constrained by major and, for some awards, region or need.
   - **Key notes / limitations:** Application is more involved than a quick essay contest; all funds go [directly to the institution](https://www.aws.org/foundation/page/scholarships) for tuition and books.
 
 ### Scholarships360 House‑Branded 500‑Dollar Scholarships
 
-  - **Sponsoring organization:** [Scholarships360](https://www.google.com/search?q=https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/) (various named micro‑scholarships).
-  - **Award amount:** Typically [500 dollars each](https://www.google.com/search?q=https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/) for the organization’s own scholarships (for example, "Jump for Joy" InstaScholarship, "Get Inspired" TikTok Scholarship, "Scholar Dollars" Essay Scholarship for Black Students, "Making Waves" Scholarship for Women, and "A Helping Hand" Scholarship).
-  - **Eligibility criteria:** Vary by program—some are open broadly to U.S. high‑school and college students; others are limited to [Black students, women, or students demonstrating financial need](https://www.google.com/search?q=https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/).
+  - **Sponsoring organization:** [Scholarships360](https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/) (various named micro‑scholarships).
+  - **Award amount:** Typically [500 dollars each](https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/) for the organization’s own scholarships (for example, "Jump for Joy" InstaScholarship, "Get Inspired" TikTok Scholarship, "Scholar Dollars" Essay Scholarship for Black Students, "Making Waves" Scholarship for Women, and "A Helping Hand" Scholarship).
+  - **Eligibility criteria:** Vary by program—some are open broadly to U.S. high‑school and college students; others are limited to [Black students, women, or students demonstrating financial need](https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/).
   - **Why it is relatively more accessible:** Small award size and platform‑specific application (including social‑media interactions or short essays) tend to keep competition below that of large, widely advertised national awards.
-  - **Application requirements:** [Short online forms](https://www.google.com/search?q=https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/); some require following the sponsor on social platforms and/or submitting short essays of a few hundred words.
+  - **Application requirements:** [Short online forms](https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/); some require following the sponsor on social platforms and/or submitting short essays of a few hundred words.
   - **Competitiveness level (relative):** Moderate to high in absolute terms but generally more attainable than multi‑thousand‑dollar national awards, especially for niche categories like women‑only or Black‑student‑only essay contests.
-  - **Key notes / limitations:** Some programs lean toward [social‑media engagement](https://www.google.com/search?q=https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/); award amounts are small but can stack with other aid.
+  - **Key notes / limitations:** Some programs lean toward [social‑media engagement](https://scholarships360.org/scholarships/scholarships360-exclusive-scholarships/); award amounts are small but can stack with other aid.
 
 ## Category 6: Moderate‑Effort Scholarships (Short Essays or Straightforward Contests)
 

@@ -250,7 +250,7 @@ To illustrate how these strategic trade-offs function in real-world scenarios, c
 
 * **Profile:** Student A is an academically elite student (3.98 unweighted GPA, 1550 SAT) who has completed extensive research, visited dozens of campuses, and identified Northwestern University as their absolute dream school. The family has run Northwestern’s Net Price Calculator and determined that the estimated family contribution is well within their financial means.
 * **Strategic Prescription:** **Early Decision I.**
-* **Justification:** Northwestern fills approximately 55% of its incoming freshman class through binding Early Decision. By [applying ED I](https://www.google.com/search?q=https://www.collegeadvisor.com/resources/northwestern-application-deadlines-requirements/), Student A maximizes their probability of acceptance, signaling absolute commitment to the admissions committee and avoiding the intense competition of the Regular Decision round, where Northwestern's acceptance rate drops significantly.
+* **Justification:** Northwestern fills approximately 55% of its incoming freshman class through binding Early Decision. By [applying ED I](https://www.collegeadvisor.com/resources/northwestern-application-deadlines-requirements/), Student A maximizes their probability of acceptance, signaling absolute commitment to the admissions committee and avoiding the intense competition of the Regular Decision round, where Northwestern's acceptance rate drops significantly.
 
 ### **Student B: The Price-Sensitive Applicant**
 

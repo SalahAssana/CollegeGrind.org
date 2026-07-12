@@ -475,7 +475,7 @@ Applicants can use the following checklists to manage every component of their c
 * [ ] Apply for [Common App, ACT/SAT, and Coalition fee waivers](https://www.commonapp.org/plan/paying-for-college) to eliminate application costs.
 * [ ] Build a balanced college list containing reach, target, likely, and financial safety options.
 * [ ] Research institutions that meet [100% of demonstrated financial need without loans](https://thescholarshipsystem.com/blog-for-students-families/a-complete-list-of-no-loan-colleges-and-what-it-means-to-your-student/).
-* [ ] Complete and submit the FAFSA and CSS Profile early to meet all institutional [priority financial aid deadlines](https://www.google.com/search?q=https://www.uaspire.org/resources/financial-aid-resources/deadlines).
+* [ ] Complete and submit the FAFSA and CSS Profile early to meet all institutional [priority financial aid deadlines](https://www.uaspire.org/resources/financial-aid-resources/deadlines).
 * [ ] Connect with admissions counselors directly to ask about summer bridge programs and first-generation success cohorts.
 
 ## **Embracing the Narrative of Lived Experience**

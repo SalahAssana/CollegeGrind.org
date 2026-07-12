@@ -210,7 +210,7 @@ Though no student can eliminate the risk of displacement entirely, there are pra
 
 ### 1\. Learn Each College’s Policy Early
 
-Before enrolling—or at least before relying on future scholarship funds—find out how your college treats outside scholarships. Look for [“outside scholarship” or “overaward” policies](https://www.wright.edu/enrollment-services/financial-aid/over-awards) on the school’s financial aid website, or [contact the aid office](https://www.google.com/search?q=https://www.uaspire.org/news-events/don-t-let-scholarships-negatively-affected-your-fina) directly.
+Before enrolling—or at least before relying on future scholarship funds—find out how your college treats outside scholarships. Look for [“outside scholarship” or “overaward” policies](https://www.wright.edu/enrollment-services/financial-aid/over-awards) on the school’s financial aid website, or [contact the aid office](https://www.uaspire.org/news-events/don-t-let-scholarships-negatively-affected-your-fina) directly.
 
 Questions to ask:
 

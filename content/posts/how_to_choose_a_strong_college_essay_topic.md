@@ -383,7 +383,7 @@ An applicant is the captain of the varsity soccer team and wants to write about 
 | --- | --- | --- |
 | **Topic Focus** | The student describes the grueling practice schedule, the intensity of the semi-final game, and the moment they scored the winning goal, ending with an analysis of their leadership style. | The student focuses on a specific practice where they realized their aggressive leadership style was alienating younger players, leading to a moment of quiet self-correction. |
 | **Core Value Projected** | Individual athletic prowess, traditional grit, and hierarchical authority. | Emotional intelligence, humility, adaptive leadership, and collaboration. |
-| **Admissions Value** | Extremely low; indistinguishable from thousands of other [sports-centered personal statements](https://www.google.com/search?q=https://www.collegeessayguy.com/blog/sports-college-essay). | High; reveals a mature student capable of self-reflection and structural adjustment. |
+| **Admissions Value** | Extremely low; indistinguishable from thousands of other [sports-centered personal statements](https://www.collegeessayguy.com/blog/sports-college-essay). | High; reveals a mature student capable of self-reflection and structural adjustment. |
 
 #### **Analytical Deconstruction**
 
