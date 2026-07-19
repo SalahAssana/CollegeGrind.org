@@ -5,7 +5,7 @@ date: 2024-04-13 08:33:45 +0300
 authors: [admin]
 image: /images/how_to_prepare_for_college_admissions_starting_in_high_school.jpg
 video_embed:
-tags: [admission]
+tags: [admission, high school]
 tags_color: '#90476a'
 featured: false
 ---
