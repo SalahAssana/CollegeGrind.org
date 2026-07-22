@@ -1,7 +1,7 @@
 ---
 title: Advanced high school classes explained
 description: Advanced high school programs like AP, IB, Dual Enrollment, and Honors explained so students understand college credit policies and choose the right level of academic rigor.
-date: 01-05-2025 09:10:17 +0300
+date: 2025-01-05 09:10:17 +0300
 authors: [admin]
 image: /images/advanced_high_school_classes_explained.jpg
 video_embed:
