@@ -26,13 +26,13 @@ Because education in the United States is governed primarily at the state and lo
 The secondary school transcript is the most important document in a college admission portfolio. [Surveys conducted by the National Association for College Admission Counseling (NACAC)](https://greatcollegeadvice.com/blog/grades-and-course-rigor-matter-the-most-in-college-admissions/) consistently show that grades in college preparatory courses and the academic rigor of a student’s curriculum are the two most critical factors in admissions decisions, carrying significantly more weight than standardized test scores, high school class rank, essays, or letters of recommendation.
 
 ```
-\[Secondary School Profile\] ──► Defines available advanced coursework menu  
+[Secondary School Profile] ──► Defines available advanced coursework menu  
                                        │  
                                        ▼  
-\[Student Transcript\]       ──► Displays chosen courses and grades earned  
+[Student Transcript]       ──► Displays chosen courses and grades earned  
                                        │  
                                        ▼  
-\[School Report Evaluation\] ──► Counselor rates rigor relative to available menu:  
+[School Report Evaluation] ──► Counselor rates rigor relative to available menu:  
                                • Most Demanding  
                                • Very Demanding  
                                • Demanding  
@@ -169,11 +169,11 @@ To earn the full IB Diploma, a student must study six academic subjects, [choosi
 Students take at least three (and no more than four) of these subjects at the **Higher Level (HL)**, and the remaining subjects at the **Standard Level (SL)**. Standard Level courses require a minimum of 150 instructional hours and cover the core curriculum of the subject, while [Higher Level courses require a minimum of 240 instructional hours](https://www.savemyexams.com/learning-hub/exam-guides/ib-standard-vs-higher-level/), diving deeper into specialized topics and requiring more complex assessments. Both levels use the same 1-to-7 grading scale.
 
 ```
-                          \[IB Diploma Core Requirements\]  
+                          [IB Diploma Core Requirements]  
                                         │  
            ┌────────────────────────────┼────────────────────────────┐  
            ▼                            ▼                            ▼  
-\[Theory of Knowledge (TOK)\]      \[Extended Essay (EE)\]   \[Creativity, Activity, Service (CAS)\]  
+[Theory of Knowledge (TOK)]      [Extended Essay (EE)]   [Creativity, Activity, Service (CAS)]  
 • Critical epistemology course   • Independent research  • Extracurricular projects  
 • Investigates "how we know"       academic paper up       focused on wellness, creative  
   and analyzes perspective         to 4,000 words          expression, and community service
@@ -270,13 +270,13 @@ The curriculum requires balanced competence across four distinct subject groups,
 Students must pass at least one exam from Groups 1, 2, and 3, in addition to Global Perspectives, ensuring a multidisciplinary foundation.
 
 ```
-                 \[Cambridge International AS Level\] (1 Credit)  
+                 [Cambridge International AS Level] (1 Credit)  
                                        │  
-                 \[Cambridge International A Level\]  (2 Credits)  
+                 [Cambridge International A Level]  (2 Credits)  
                                        │  
       ┌────────────────────────────────┼────────────────────────────────┐  
       ▼                                ▼                                ▼  
-  \[Group 1\]                        \[Group 2\]                        \[Group 3\]  
+  [Group 1]                        [Group 2]                        [Group 3]  
 Mathematics &                    Languages                        Arts &  
 Sciences                         (e.g., Arabic,                   Humanities  
 (e.g., Biology,                  English, Spanish)                (e.g., History,  
@@ -285,13 +285,13 @@ Physics, Marine)                                                  Law, Music)
       └────────────────────────────────┼────────────────────────────────┘  
                                        │  
                                        ▼  
-                 \[AS Level Global Perspectives Core\] (1 Credit)  
+                 [AS Level Global Perspectives Core] (1 Credit)  
                                        │  
                                        ▼  
-                 \[Accumulate 7 Total Examination Credits\]  
+                 [Accumulate 7 Total Examination Credits]  
                                        │  
                                        ▼  
-                        \[Cambridge AICE Diploma\]
+                        [Cambridge AICE Diploma]
 
 ```
 
