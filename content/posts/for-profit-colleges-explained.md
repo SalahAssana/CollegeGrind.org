@@ -106,7 +106,7 @@ Speed and convenience (online, year-round start dates, short programs) are empha
 Despite these actions, regulation has remained inconsistent; rules are strengthened under some administrations and weakened under others, and schools often adjust their tactics or corporate structures, including converting to “nonprofit” status while still financially benefiting insiders, to remain eligible for federal funds. This cycle of scandal, regulation, backsliding, and repetition helps explain why the sector continues to operate despite a long record of harm.
 ***
 
-## 9. If You Are Already Enrolled or Feel Trapped
+## If You Are Already Enrolled or Feel Trapped
 
 If you are already enrolled in a for‑profit college, focus on protecting yourself rather than feeling ashamed, because many students in your position were actively targeted and misled. Pay close attention to warning signs such as:
 
@@ -120,7 +120,7 @@ If you decide to leave, ask the registrar how to obtain an official transcript a
 
 ***
 
-## 10. How to Evaluate Risk Before Enrolling
+## How to Evaluate Risk Before Enrolling
 
 Before you enroll anywhere, for-profit, nonprofit, online, or in-person, look past the marketing and check hard data.
 
