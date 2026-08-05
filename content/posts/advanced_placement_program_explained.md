@@ -1,5 +1,5 @@
 ---
-title: Advanced placement program explained
+title: Advanced placement (AP) program explained
 description: Architecture and impact of the advanced placement program. Curriculum mechanics, institutional policies, and academic value.
 date: 2025-03-02 09:07:00 +0300
 authors: [admin]
