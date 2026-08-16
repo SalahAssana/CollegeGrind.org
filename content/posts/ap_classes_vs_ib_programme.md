@@ -1,7 +1,7 @@
 ---
 title: AP classes vs IB programme. What is the difference and which is better?
 description: Key distinctions between AP and IB to choose the best path for your academic goals.
-date: 01‑04‑2026 09:17:34 +0300
+date: 2026‑04-01 09:17:34 +0300
 authors: [admin]
 image: /images/ap_classes_vs_ib_programme.jpg
 video_embed:
