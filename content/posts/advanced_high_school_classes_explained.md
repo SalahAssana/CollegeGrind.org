@@ -19,7 +19,7 @@ In secondary and higher education, "academic rigor" refers to the level of cogni
 
 Because education in the United States is governed primarily at the state and local levels, the [availability of advanced coursework](https://www.nacacnet.org/wp-content/uploads/NACAC-Partnering-with-Youth-Development-Report-09-2024.pdf) varies dramatically between high schools. Some schools offer dozens of Advanced Placement (AP) courses, while others may feature the International Baccalaureate (IB) Diploma Programme, extensive dual enrollment partnerships with local community colleges, or no advanced coursework at all due to limited local funding and staffing. Consequently, high schools often feature completely different academic menus, meaning students must be evaluated based on the [opportunities available within their school context](https://orieladmissions.com/course-rigor-college-admissions/) rather than a national baseline.
 
-*Related Resource:* To understand how to navigate the foundational levels of advanced coursework, explore the standalone guide: **Honors Classes Explained**.
+*Related Resource:* To understand how to navigate the foundational levels of advanced coursework, explore the standalone guide: [**Honors Classes Explained**](https://collegegrind.org/posts/honors_classes_in_american_high_schools_explained/).
 
 ## **Why Colleges Care About Course Rigor**
 
@@ -52,7 +52,7 @@ A common dilemma for students and families is whether to take an easier class to
 
 However, taking too many advanced classes can backfire. If a student's schedule is so overloaded that their grades drop to multiple "Bs" or "Cs," or if the workload leads to severe sleep deprivation and burnout, the [rigor has exceeded academic utility](https://empowerly.com/applications/honors-classes-boost-gpa/). Furthermore, colleges look closely at academic progression, expecting rigor to increase each year. Coasting or dropping advanced courses during the senior year is one of the most damaging patterns in an admissions file, signaling a lack of sustained academic drive.
 
-*Related Resource:* For a deeper look into how college admissions offices weigh academic challenge, read: **What Colleges Mean by Course Rigor**.
+*Related Resource:* For a deeper look into how college admissions offices weigh academic challenge, read: [**What Colleges Mean by Course Rigor**](https://collegegrind.org/posts/what_counts_as_course_rigor/).
 
 ## **Honors Classes**
 
@@ -86,7 +86,7 @@ While weighting systems vary by district, the standard system [adds 0.5 bonus po
 
 Because honors courses are not standardized, they do not culminate in external exams and are [virtually never accepted for college credit or course exemptions](https://openeducat.org/gradebook/us/high-school/) by postsecondary institutions. College admissions offices evaluate honors classes as evidence of a student taking a challenging curriculum within their school's local context, particularly in the ninth and tenth grades [before students have access to AP or IB programs](https://empowerly.com/applications/honors-classes-boost-gpa/).
 
-*Related Resource:* To weigh the differences between honors-level and national-level coursework, check out: **Honors vs AP**.
+*Related Resource:* To weigh the differences between honors-level and national-level coursework, check out: [**Honors vs AP**](https://collegegrind.org/posts/honors_vs_ap_classes/).
 
 ## **Advanced Placement (AP)**
 
@@ -145,7 +145,7 @@ For students looking to develop advanced research and communication skills, the 
 
 To earn the full [AP Capstone Diploma](https://apcentral.collegeboard.org/courses/ap-capstone), students must score a 3 or higher on the AP Seminar and AP Research exams, plus score a 3 or higher on four additional AP exams of their choice. Students who complete the core sequence but do not earn the four additional passing scores receive the **AP Seminar and Research Certificate**.
 
-*Related Resources:* To explore the mechanics of the AP track, read: **AP Classes Explained**, **How AP Exams Work**, and **Do AP Scores Matter?**.
+*Related Resources:* To explore the mechanics of the AP track, read: [**AP Classes Explained**](https://collegegrind.org/posts/advanced_placement_program_explained/), [**How AP Exams Work**](https://collegegrind.org/posts/how_ap_exams_work/), and [**Do AP Scores Matter?**](https://collegegrind.org/posts/how_important_are_ap_scores_for_college_admissions/).
 
 ## **International Baccalaureate (IB)**
 
@@ -192,7 +192,7 @@ In addition to the six subject exams, full IB Diploma candidates must complete [
 
 For students seeking a pathway that merges academic coursework with hands-on professional training, the [IB Career-related Programme (CP)](https://www.acs-schools.com/hillingdon/upper-school/curriculum/ibcp/) is an alternative option. The CP framework consists of at least two traditional IB Diploma courses, a certified career-related study program, and the CP Core. The [CP Core includes four unique elements](https://eaglerockhs.lausd.org/apps/pages/index.jsp?uREC_ID=4449212&type=d): Personal and Professional Skills (PPS), Service Learning, Language Development, and an academic Reflective Project analyzing an ethical dilemma in the student's chosen career field.
 
-*Related Resources:* To understand the nuances of the IB system, read: **IB Diploma Explained** and **AP vs IB**.
+*Related Resources:* To understand the nuances of the IB system, read: [**IB Diploma Explained**](https://collegegrind.org/posts/international_baccalaureate_diploma_programme_explained/) and [**AP vs IB**](https://collegegrind.org/posts/ap_classes_vs_ib_programme/).
 
 ## **Dual Enrollment**
 
@@ -230,7 +230,7 @@ Unlike AP or IB, where credit is based on a single standardized exam score, [dua
 
 While dual enrollment offers a direct path to college credit, [transferability is not always guaranteed](https://www.appily.com/guidance/articles/applying-to-college/dual-enrollment-vs-ap-classes). Public state university systems are often mandated to accept credits earned at in-state community colleges. However, highly selective private universities and out-of-state colleges evaluate dual enrollment credits on a case-by-case basis, and many will not grant credit if the course was also used to satisfy a high school graduation requirement.
 
-*Related Resources:* To evaluate the strategic pros and cons of college-credit coursework, explore: **Dual Enrollment Explained** and **AP vs Dual Enrollment**.
+*Related Resources:* To evaluate the strategic pros and cons of college-credit coursework, explore: [**Dual Enrollment Explained**](https://collegegrind.org/posts/dual_enrollment_explained/) and [**AP vs Dual Enrollment**](https://collegegrind.org/posts/ap_classes_vs_dual_enrollment/).
 
 ## **Early College High Schools**
 
@@ -246,7 +246,7 @@ Students enroll in a structured, four-to-five-year academic sequence. In the nin
 
 The ultimate goal of the ECHS model is for students to [graduate with their high school diploma and an associate degree](https://www.jff.org/wp-content/uploads/2023/09/Early-College-Expansion-ExSumm_031414.pdf) (or up to 60 transferable college credits) concurrently, at zero cost to their families. Data tracked by JFF show that [early college graduates are significantly more likely to enroll in college immediately](https://www.jff.org/wp-content/uploads/2023/09/Early-College-Expansion-ExSumm_031414.pdf) after high school and achieve higher postsecondary degree completion rates than academically similar peers.
 
-*Related Resource:* For an in-depth analysis of these specialized schools, read: **Early College High Schools Explained**.
+*Related Resource:* For an in-depth analysis of these specialized schools, read: [**Early College High Schools Explained**](https://collegegrind.org/posts/early_college_high_schools_explained/).
 
 ## **Cambridge AICE**
 
@@ -304,7 +304,7 @@ The adoption of Cambridge AICE has grown significantly across several states, ba
 * **Washington:** [State legislation requires all public higher education institutions to award credit](https://www.cambridgeinternational.org/usa/higher-ed/us-state-policies/) for Cambridge exams with passing scores.
 * **Other States:** States such as Arizona, Kansas, Kentucky, Maryland, North Carolina, North Dakota, Pennsylvania, South Carolina, and Virginia have passed [statewide regulations requiring public colleges to award credit](https://www.cambridgeinternational.org/usa/higher-ed/us-state-policies/) for passing scores on Cambridge examinations, treating them with the same systemic weight as AP and IB courses.
 
-*Related Resource:* To understand how Cambridge coursework aligns with other systems, explore: **Cambridge AICE Explained**.
+*Related Resource:* To understand how Cambridge coursework aligns with other systems, explore: [**Cambridge AICE Explained**](https://collegegrind.org/posts/cambridge_aice_explained/).
 
 ## **Career & Technical Education (CTE)**
 
@@ -327,7 +327,7 @@ A cornerstone of modern CTE is the [integration of Industry-Recognized Credentia
 
 A persistent cultural myth suggests that CTE is a track intended exclusively for non-college-bound students. Modern data refutes this tracking assumption. Research demonstrates that high school students who participate in rigorous CTE pathways are statistically [more likely to graduate high school, declare a STEM major in college, and earn higher early-to-mid-career wages](https://www.pltw.org/career-and-technical-education) than non-CTE peers. CTE coursework is increasingly designed as a "both/and" model, combining technical mastery with college prep requirements.
 
-*Related Resource:* For an in-depth analysis of these career-focused pathways, read: **Career & Technical Education (CTE) Explained**.
+*Related Resource:* For an in-depth analysis of these career-focused pathways, read: [**Career & Technical Education (CTE) Explained**](https://collegegrind.org/posts/career_and_technical_education_explained/).
 
 ## **State-Specific College Credit Programs**
 
@@ -358,7 +358,7 @@ To remain in good standing, students must follow the [academic performance stand
 
 These programs are all variations of dual enrollment. The different names—such as Running Start, College Credit Plus, PSEO, or Move On When Ready—reflect state-specific legislative bills, funding models, and administrative structures. Students must research their own state's department of education guidelines to understand eligibility and enrollment rules.
 
-*Related Resource:* For a comprehensive state-by-state directory of dual enrollment regulations, consult the: **State Dual Enrollment Programs Guide**.
+*Related Resource:* For a comprehensive state-by-state directory of dual enrollment regulations, consult the: [**State Dual Enrollment Programs Guide**](https://collegegrind.org/posts/college_credit_programs_by_state/).
 
 ## **Online College Courses**
 
@@ -423,7 +423,7 @@ No single advanced coursework option is [universally superior](https://www.nvcc.
 * **Homeschool Students:** Homeschool families can use dual enrollment or online AP courses to provide external validation of the student’s academic grades. Taking college courses through accredited institutions demonstrates to admissions offices that the student’s homeschool education is rigorous and meets collegiate standards.
 * **Undecided Students:** For students who are uncertain about their future plans, a balanced schedule featuring a mix of honors classes and one or two AP or dual enrollment courses in their strongest subject areas is highly recommended. This approach provides academic challenge and keeps college options open without causing unnecessary stress or scheduling conflicts.
 
-*Related Resource:* To build a customized, balanced high school schedule, read: **Building a Four-Year High School Course Plan**.
+*Related Resource:* To build a customized, balanced high school schedule, read: [**Building a Four-Year High School Course Plan**](https://collegegrind.org/posts/how_to_build_a_four_year_high_school_course_plan/).
 
 ## **Can Students Combine Different Programs?**
 
@@ -507,7 +507,7 @@ Students targeting highly selective or out-of-state universities should [priorit
 
 Selective colleges do not prefer IB over AP, or vice versa. They recognize both as highly rigorous curricula. The admissions committee evaluates how well the student performed within whichever rigorous pathway they chose to pursue.
 
-*Related Resources:* For deep-dives into these comparative questions, read: **AP vs Dual Enrollment**, **Honors vs AP**, and **How College Credit Transfers**.
+*Related Resources:* For deep-dives into these comparative questions, read: [**AP vs Dual Enrollment**](https://collegegrind.org/posts/ap_classes_vs_dual_enrollment/), [**Honors vs AP**](https://collegegrind.org/posts/honors_vs_ap_classes/), and [**How College Credit Transfers**](https://collegegrind.org/posts/college_credit_programs_by_state/).
 
 ## **Charting Your Course Forward**
 
