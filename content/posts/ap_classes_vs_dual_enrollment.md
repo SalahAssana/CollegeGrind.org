@@ -1,7 +1,7 @@
 ---
 title: AP classes vs dual enrollment. Which is better for college credit?
 description: How AP classes and Dual Enrollment differ in earning college credit and boosting applications.
-date: 2026‑02‑01 10:53:22 +0300
+date: 2026-02-01 10:53:22 +0300
 authors: [admin]
 image: /images/ap_classes_vs_dual_enrollment.jpg
 video_embed:
