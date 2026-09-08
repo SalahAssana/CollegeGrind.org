@@ -1,7 +1,7 @@
 ---
 title: Do SAT and ACT scores still matter?
 description: How colleges use test scores, when submitting them can help, and when your time is better spent elsewhere.
-date: 2026‑04‑05 09:27:16 +0300
+date: 2026-04-05 09:27:16 +0300
 authors: [admin]
 image: /images/do_sat_and_act_scores_still_matter.jpg
 video_embed:
