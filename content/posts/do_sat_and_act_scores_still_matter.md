@@ -5,7 +5,7 @@ date: 2026-04-05 09:27:16 +0300
 authors: [admin]
 image: /images/do_sat_and_act_scores_still_matter.jpg
 video_embed:
-tags: [high school]
+tags: [high school, admission]
 tags_color: '#09cfee'
 featured: false
 ---
