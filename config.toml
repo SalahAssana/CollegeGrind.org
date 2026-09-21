@@ -161,7 +161,7 @@ googleAnalytics = "G-WLTEPDRMZK" # Add your identifier. For example UA-99631805-
   enable = true
   mailchimp__title = "Join The Grind"
   mailchimp__description = "Occasional emails with useful insights on learning, discipline, and making progress when school gets hard."
-  mailchimp__identifier = "gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp" # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp__identifier = "gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=5350814d8f&amp" # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp__input__text = "Your email address"
   mailchimp__button__text = "Subscribe"
   mailchimp__background__image = "https://placehold.co/1920x1080"
