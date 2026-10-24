@@ -31,14 +31,14 @@ We treat these experiences not as “extra,” but as essential components of a 
 
 At the same time, day-to-day habits matter. How you plan your week, handle distractions, prepare for exams, or respond to burnout quietly shapes your trajectory. Learning happens in small moments—between classes, late at night, and during periods of uncertainty.
 
-<p>
+<!-- <p>
   <iframe 
     src="https://www.youtube.com/embed/NpEaa2P7qZI" 
     loading="lazy" 
     frameborder="0" 
     allowfullscreen>
   </iframe>
-</p>
+</p> -->
 
 Education works best when formal instruction, self-directed learning, and real-world experience reinforce each other. The College Grind brings these elements together by offering practical guidance, honest perspectives, and tools students can apply immediately.
 
